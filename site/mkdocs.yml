@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: "hpmor_viet"
+theme:
+  name: material
+  language: vi
+
+nav:
+  - Giới thiệu: index.md
+  - Chương 1: chapter01.md
+  - Chương 2: chapter02.md
+  - Chương 3: chapter03.md
