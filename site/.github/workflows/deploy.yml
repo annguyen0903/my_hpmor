@@ -21,6 +21,12 @@ jobs:
         run: |
           pip install mkdocs mkdocs-material
 
+      - name: Debug pwd (tạm thời)
+        run: |
+          pwd
+          ls -al
+
       - name: Deploy to GitHub Pages
         run: |
           mkdocs gh-deploy --force
+
