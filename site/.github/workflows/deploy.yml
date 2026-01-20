@@ -12,6 +12,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Debug - where am I?
+        run: |
+          echo "PWD:"
+          pwd
+          echo "LS:"
+          ls -al
+          echo "Tree:"
+          find . -maxdepth 2
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -20,11 +29,6 @@ jobs:
       - name: Install dependencies
         run: |
           pip install mkdocs mkdocs-material
-
-      - name: Debug pwd (tạm thời)
-        run: |
-          pwd
-          ls -al
 
       - name: Deploy to GitHub Pages
         run: |
