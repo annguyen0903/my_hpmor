@@ -5,6 +5,9 @@ theme:
 
 nav:
   - Giới thiệu: index.md
-  - Chương 1: chapter01.md
-  - Chương 2: chapter02.md
-  - Chương 3: chapter03.md
+  - Chương 1: chapter001.md
+  - Chương 2: chapter002.md
+  - Chương 3: chapter003.md
+  - Chương 4: chapter004.md
+  - Chương 5: chapter005.md
+  - Chương 6: chapter006.md
