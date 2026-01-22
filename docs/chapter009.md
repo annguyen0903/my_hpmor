@@ -1,93 +1,172 @@
+**Chương 9: Tiêu đề đã bị lược bỏ, Phần I**
 
-**Chương 9: DANH XƯNG VÀ BIỂU TƯỢNG**
+*Mọi nền tảng (base) của chương này đều thuộc về J. K. Rowling.*
 
-"Thưa bà, con không muốn làm phiền, nhưng con nghĩ là bà có thể đã quên mất con rồi."
+*1.000 LƯỢT ĐÁNH GIÁ TRONG 26 NGÀY, HÚ HU! SỨC MẠNH TUYỆT VỜI! COMBO 1.189 LƯỢT ĐÁNH GIÁ TRONG 30 NGÀY VẪN ĐANG TIẾP TỤC! YEAH! CÁC BẠN LÀ NHỮNG NGƯỜI TUYỆT VỜI NHẤT! ĐÂY LÀ SPARTAAAAA!*
 
-Harry đang đứng ở giữa một cửa hàng quần áo nhỏ, và cậu đang cảm thấy cực kỳ khó chịu. Cậu đã đứng đó được mười phút rồi, trên một cái bục gỗ, trong khi một chiếc thước dây tự động đang đo đạc khắp người cậu một cách nhiệt tình thái quá, và bà Malkin thì đang bận rộn tiếp đón một cậu bé tóc bạch kim khác vừa mới bước vào.
+*Hắng giọng.*
 
-"Ồ, xin lỗi con, cưng à," bà Malkin nói, miệng vẫn còn ngậm đầy kim khâu. Bà quay lại phía Harry. "Ta sắp xong với cậu chàng này rồi. Chỉ một chút nữa thôi."
+*Thế hệ quark thứ ba từng được gọi là "chân thực" (truth) và "vẻ đẹp" (beauty) trước khi các cái tên "đỉnh" (top) và "đáy" (bottom) giành chiến thắng; ngày sinh của tôi gần với Hermione, và khi tôi mười một tuổi, tôi đã dùng từ "chân thực" và "vẻ đẹp".*
 
-Cậu bé tóc bạch kim nhìn Harry với vẻ tò mò. "Chào cậu," cậu ta nói. "Cậu cũng đến Hogwarts à?"
-
-"Đúng vậy," Harry trả lời. Cậu đang cố gắng không nhúc nhích khi chiếc thước dây bắt đầu đo khoảng cách giữa hai lỗ tai của mình.
-
-"Cha ta đang ở cửa hàng bên cạnh để mua sách, còn mẹ ta thì đi tìm đũa phép," cậu bé nói. Giọng cậu ta có một vẻ kéo dài, kiêu kỳ mà Harry nhận ra ngay lập tức là đặc trưng của tầng lớp thượng lưu Anh, hoặc ít nhất là tầng lớp thượng lưu trong các bộ phim truyền hình. "Sau đó tôi sẽ kéo họ đi xem chổi bay. Tôi không hiểu tại sao năm nhất lại không được phép có chổi riêng. Tôi nghĩ mình sẽ bắt cha mua cho một chiếc rồi bằng cách nào đó lén đem vào."
-
-Harry thầm nghĩ rằng nếu cậu là cha của cậu bé này, cậu sẽ thấy hành động đó là một sự vi phạm nghiêm trọng vào hệ thống quy tắc cần thiết để duy trì trật tự học đường, nhưng cậu quyết định không nói ra. Thay vào đó, Harry nhướng mày. "Cậu định dùng nó để làm gì? Ý tôi là, ngoài việc vi phạm nội quy?"
-
-Cậu bé tóc bạch kim trông có vẻ ngạc nhiên. "Để chơi Quidditch, tất nhiên rồi. Cậu có chơi Quidditch không?"
-
-"Tôi chưa bao giờ chơi," Harry nói. "Thực tế thì, tôi còn chẳng biết luật chơi là gì."
-
-"Cậu không biết Quidditch là gì sao?" Cậu bé thốt lên, trông như thể Harry vừa thú nhận mình không biết thở là gì. "Đó là trò chơi tuyệt nhất thế giới! Có bốn quả bóng, và..."
-
-Harry lắng nghe khi cậu bé thao thao bất tuyệt về Tầm thủ, Truy thủ, Quả bóng Snitch và các cột gôn. Đối với Harry, nó nghe có vẻ như một mớ hỗn độn về mặt thiết kế trò chơi.
-
-"Xin lỗi," Harry ngắt lời khi cậu bé tạm dừng để lấy hơi. "Tôi không muốn thô lỗ, nhưng cậu có thấy là việc trao cho Tầm thủ 150 điểm và kết thúc trận đấu ngay lập tức khiến cho vai trò của những người chơi khác trở nên gần như vô nghĩa không? Trừ khi tỉ số đang chênh lệch cực kỳ lớn, còn không thì kết quả trận đấu chỉ phụ thuộc vào việc ai bắt được Snitch. Nó giống như một cuộc thi toán mà người thắng là người giải được bài toán cuối cùng, còn các bài trước đó chỉ để cho vui vậy."
-
-Cậu bé tóc bạch kim nhìn Harry chằm chằm. "Cậu đang nói cái quái gì vậy? Quidditch đã luôn như thế từ hàng thế kỷ rồi."
-
-"Đó không phải là một lập luận cho tính hợp lý của nó," Harry thở dài. "Nhưng thôi, bỏ qua đi. Tên tôi là Harry. Rất vui được gặp cậu."
-
-"Tôi là Malfoy. Draco Malfoy."
-
-Harry khựng lại một chút. Cái tên nghe có vẻ rất... phản diện. "Malfoy. Một cái tên thú vị. Nó có nghĩa là 'niềm tin xấu' trong tiếng Pháp cổ, đúng không?"
-
-Draco nhếch môi cười, một nụ cười không hẳn là thân thiện nhưng đầy vẻ tự mãn. "Cha tôi nói rằng chúng tôi không nên quan tâm đến việc những kẻ hạ đẳng nghĩ gì về tên của mình. Cậu thuộc gia đình nào? Cậu là 'Máu thuần' (Pure-blood) chứ?"
-
-Harry cảm nhận được một luồng điện nhẹ của sự cảnh giác. Đây rồi, lý thuyết về chủng tộc của thế giới phù thủy mà giáo sư McGonagall đã gián tiếp nhắc tới. "Cha mẹ tôi đều có phép thuật, nếu đó là điều cậu muốn hỏi. Nhưng tôi được nuôi dưỡng bởi những người Muggle."
-
-"Muggle?" Draco khịt mũi với vẻ khinh miệt rõ rệt. "Tại sao cậu lại phải ở với bọn chúng? Thật là kinh tởm."
-
-"Họ là gia đình của tôi," Harry nói, giọng cậu trở nên lạnh lùng và phẳng lặng hơn một chút. Một phần trong cậu – phần mà cậu gọi là 'Mặt tối' – bắt đầu quan sát Draco Malfoy như một mẫu vật dưới kính hiển vi. "Và họ đối xử với tôi rất tốt. Hơn nữa, từ góc độ khoa học, tôi chưa thấy bằng chứng nào cho thấy huyết thống ảnh hưởng đến năng lực phép thuật thực tế."
-
-Draco trông có vẻ bối rối trước từ "khoa học", nhưng cậu ta nắm bắt được ý sau. "Cậu sẽ sớm thấy thôi. Những kẻ gốc Muggle không giống chúng ta. Họ không hiểu truyền thống của chúng ta. Họ thậm chí còn chẳng thuộc về thế giới này."
-
-"Thú vị thật," Harry nói, giọng cậu giờ đây mang một vẻ mỉa mai nhẹ nhàng. "Một giả thuyết về sự ưu việt của gen dựa trên các quan sát xã hội học chưa được kiểm chứng. Tôi rất mong được quan sát xem liệu các phù thủy 'Máu thuần' có thực sự có xác suất phân bổ trí tuệ và quyền năng cao hơn mức trung bình của quần thể hay không, hay đây chỉ là một dạng thiên kiến xác nhận (confirmation bias) quy mô lớn."
-
-Bà Malkin cắt ngang cuộc đối thoại bằng cách tháo chiếc áo choàng của Draco ra. "Xong rồi, cậu Malfoy."
-
-Draco bước xuống bục, liếc nhìn Harry một lần cuối. "Cậu nói chuyện lạ lùng thật đấy, Harry. Nhưng ít nhất cậu không phải là một kẻ bù nhìn. Hẹn gặp lại trên tàu Hogwarts."
-
-Harry nhìn theo Draco bước ra khỏi cửa hàng. Cậu nhận ra rằng thế giới phù thủy không chỉ có phép thuật và sự kỳ diệu; nó còn có cả chính trị, sự cố chấp và những cấu trúc xã hội lỗi thời.
-
-"Xong rồi, cậu Potter," bà Malkin nói, có vẻ hơi run khi gọi tên cậu.
-
-Harry bước xuống, nhận lấy gói quần áo. Khi cậu bước ra ngoài phố Hẻm Xéo, cậu nhìn thấy giáo sư McGonagall đang đứng đợi. Bà nhìn cậu với ánh mắt dò xét.
-
-"Con đã gặp ai trong đó à, Harry?"
-
-"Một cậu bé tên là Draco Malfoy," Harry đáp. "Cậu ta có vẻ hơi... bị ám ảnh bởi huyết thống. Và cậu ta nghĩ Quidditch là một môn thể thao hợp lý."
-
-McGonagall thở dài, một tiếng thở dài mang theo gánh nặng của nhiều năm chinh chiến. "Nhà Malfoy là một gia đình phức tạp, Harry. Đừng để họ ảnh hưởng quá nhiều đến con."
-
-"Con không lo về việc bị ảnh hưởng, thưa Giáo sư," Harry nói, nở một nụ cười khiến bà McGonagall cảm thấy hơi bất an. "Con chỉ lo rằng nếu thế giới phù thủy vận hành dựa trên những logic như của Quidditch, thì con sẽ có rất nhiều việc phải làm để sửa chữa nó đấy."
-
-Harry nhìn lên những bảng hiệu của Hẻm Xéo. Những danh xưng như "Đứa trẻ sống sót", những biểu tượng như "Máu thuần" hay "Muggle" – tất cả chỉ là những dấu hiệu (signs). Và Harry biết rằng, nhà khoa học không bao giờ được nhầm lẫn giữa ký hiệu và thực tại mà nó đại diện.
+*Khi Phần I của chương này được đăng lần đầu, tôi đã nói rằng nếu bất kỳ ai đoán được câu cuối cùng đang nói về điều gì trước khi có bản cập nhật tiếp theo, tôi sẽ kể cho họ toàn bộ phần còn lại của cốt truyện.*
 
 ---
 
-### 3. DIỄN GIẢI CHI TIẾT CÁC KHÁI NIỆM
+Bạn không bao giờ biết được một sự kiện nhỏ nhặt nào đó có thể đảo lộn tiến trình của một kế hoạch tổng thể vĩ đại.
 
-Dưới đây là các khái niệm quan trọng xuất hiện trong chương này và trong bối cảnh HPMOR:
+"Abbott, Hannah!"
 
-1. **Thiên kiến xác nhận (Confirmation Bias):**
-* *Trong bài:* Harry dùng nó để thách thức quan điểm của Draco về "Máu thuần".
-* *Giải thích:* Đây là xu hướng tâm lý mà con người chỉ chú ý, ghi nhớ và tin vào những thông tin ủng hộ cho niềm tin sẵn có của mình, trong khi bỏ qua hoặc phủ nhận những bằng chứng ngược lại. Nếu một phù thủy Máu thuần tin rằng mình giỏi hơn, họ sẽ chỉ nhớ những phù thủy gốc Muggle kém cỏi và quên đi những người xuất chúng (như Hermione chẳng hạn).
+Tạm dừng.
 
+"HUFFLEPUFF!"
 
-2. **Ký hiệu và Thực tại (The Map is not the Territory / Signs vs. Reality):**
-* *Trong bài:* Đoạn kết về "Danh xưng và Biểu tượng".
-* *Giải thích:* Một khái niệm quan trọng trong ngữ nghĩa học tổng quát (General Semantics). "Tước hiệu" (Đứa trẻ sống sót) chỉ là một cái nhãn, nó không phải là bản chất của Harry. Việc mọi người tôn sùng cái nhãn đó thay vì nhìn vào thực lực của Harry là một sự sai lầm về mặt lý tính.
+"Bones, Susan!"
 
+Tạm dừng.
 
-3. **Lý tính (Rationality):**
-* *Giải thích:* Trong HPMOR, lý tính không chỉ là "suy nghĩ logic". Nó là việc sử dụng các quy tắc xác suất (Bayesianism), tránh các bẫy nhận thức, và luôn cập nhật niềm tin của mình dựa trên bằng chứng mới. Harry phân tích Quidditch bằng lý tính: nếu một yếu tố (Snitch) chiếm quá nhiều trọng số, các yếu tố khác sẽ trở nên vô nghĩa về mặt hệ thống.
+"HUFFLEPUFF!"
 
+"Boot, Terry!"
 
-4. **Mặt tối (Dark Side):**
-* *Giải thích:* Đây là một khái niệm đặc thù trong HPMOR. Nó không hẳn là "ác", mà là một trạng thái tâm lý khi Harry trở nên cực kỳ lạnh lùng, tập trung, hiệu quả và không bị cảm xúc chi phối. Nó thường xuất hiện khi Harry đối mặt với sự bất công hoặc sự ngu ngốc quá mức.
+Tạm dừng.
 
+"RAVENCLAW!"
 
-5. **Di truyền học và Huyết thống (Genetics vs. Blood Purity):**
-* *Giải thích:* Harry nhìn nhận phép thuật như một đặc tính có thể di truyền. Cậu nghi ngờ quan điểm của Draco vì nếu phép thuật là một gen trội hoặc tổ hợp gen, thì việc "pha máu" với Muggle không nhất thiết làm suy yếu nó theo cách mà các phù thủy bảo thủ tin tưởng.
+Harry liếc nhanh qua người bạn cùng Nhà mới của mình, chủ yếu là để nhìn mặt cho biết chứ không vì lý do gì khác. Cậu vẫn đang cố gắng lấy lại sự kiểm soát bản thân sau cuộc chạm trán với những con ma. Điều đáng buồn, thực sự buồn, thực sự chân thực buồn là cậu *có vẻ* như đang lấy lại được sự kiểm soát. Điều đó thật không đúng chỗ. Lẽ ra cậu phải mất ít nhất một ngày. Có lẽ là cả đời. Hoặc có lẽ là không bao giờ.
+
+"Corner, Michael!"
+
+Tạm dừng lâu.
+
+"RAVENCLAW!"
+
+Tại bục phát biểu trước dãy Bàn Giáo viên khổng lồ là Giáo sư McGonagall, trông sắc sảo và đang đưa mắt nhìn quanh một cách sắc lẹm khi bà gọi từng cái tên một, mặc dù bà chỉ mỉm cười với Hermione và một vài người khác. Phía sau bà, trên chiếc ghế cao nhất bàn – thực sự giống một chiếc ngai vàng bằng vàng hơn – là một cụ già nhăn nheo đeo kính, với bộ râu trắng bạc dài đến mức tưởng chừng như sẽ chạm sàn nếu nhìn thấy được, đang quan sát buổi Phân loại với vẻ mặt nhân từ; một ngoại hình rập khuôn cho một "Bậc hiền triết đáng kính" (Wise Old Man) đến mức tối đa mà không cần phải thực sự là người phương Đông. (Mặc dù Harry đã học được cách cảnh giác với những ngoại hình rập khuôn ngay từ lần đầu gặp Giáo sư McGonagall và từng nghĩ rằng bà phải cười khanh khách kiểu phù thủy cưỡi chổi mới đúng). Vị phù thủy già vỗ tay cho mọi học sinh được Phân loại, với nụ cười không lay chuyển mà bằng cách nào đó trông vẫn tươi rói và đầy hân hoan cho mỗi người.
+
+Bên trái ngai vàng là một người đàn ông có đôi mắt sắc sảo và khuôn mặt khắc khổ, người chẳng vỗ tay cho ai cả, và bằng cách nào đó luôn nhìn thẳng lại Harry mỗi khi Harry nhìn ông ta. Xa hơn về bên trái, người đàn ông mặt tái mét mà Harry đã thấy ở quán Cái Vạc Lủng, người có đôi mắt đảo liên hồi như thể đang hoảng loạn trước đám đông xung quanh, và thỉnh thoảng lại giật mạnh hay co giật trên ghế; vì lý do nào đó Harry cứ thấy mình nhìn chằm chằm vào ông ta. Bên trái người đó là một dãy ba phù thủy già hơn có vẻ không mấy quan tâm đến học sinh. Rồi bên phải chiếc ghế vàng cao là một phù thủy trung niên mặt tròn đội chiếc mũ vàng, người đã vỗ tay cho mọi học sinh ngoại trừ nhà Slytherin. Một người đàn ông tí hon đứng trên ghế, với bộ râu trắng xù bông, người đã vỗ tay cho mọi học sinh nhưng chỉ mỉm cười với nhà Ravenclaw. Và ở phía xa cùng bên phải, chiếm không gian tương đương với ba thực thể thấp kém hơn, là sinh vật to lớn như ngọn núi đã chào đón tất cả bọn họ sau khi xuống tàu, tự giới thiệu là Hagrid, Người giữ khóa và giữ sân.
+
+"Người đàn ông đứng trên ghế có phải là Chủ nhiệm nhà Ravenclaw không?" Harry thì thầm với Hermione.
+
+Lần này Hermione không trả lời ngay lập tức; cậu ấy liên tục nhấp nhổm, nhìn chằm chằm vào Chiếc nón Phân loại và bồn chồn mạnh đến mức Harry nghĩ chân cậu ấy sắp rời khỏi mặt sàn.
+
+"Đúng vậy," một trong những huynh trưởng đi cùng họ nói, một phụ nữ trẻ mặc trang phục xanh của Ravenclaw. Cô Clearwater, nếu Harry nhớ không lầm. Giọng cô khẽ khàng nhưng mang chút niềm tự hào. "Đó là Giáo sư môn Bùa chú của Hogwarts, Filius Flitwick, Bậc thầy Bùa chú uyên bác nhất còn sống, và là cựu Quán quân Đấu tay đôi –"
+
+"Tại sao thầy ấy lại thấp thế?" một học sinh mà Harry không nhớ tên thì thầm. "Thầy ấy là con lai (halfbreed) à?"
+
+Một cái nhìn lạnh lùng từ cô huynh trưởng trẻ. "Giáo sư thực sự có dòng máu yêu tinh (goblin) –"
+
+"Cái gì?" Harry thốt lên vô thức, khiến Hermione và bốn học sinh khác phải suỵt cậu.
+
+Giờ thì Harry nhận được một cái lườm đáng sợ đến ngạc nhiên từ huynh trưởng nhà Ravenclaw.
+
+"Ý tôi là –" Harry thì thầm. "Không phải là tôi có vấn đề gì với chuyện đó – chỉ là – ý tôi là – làm sao có thể như vậy được? Bạn không thể chỉ trộn lẫn hai loài khác nhau và tạo ra hậu duệ có khả năng sinh sản! Nó sẽ làm xáo trộn các chỉ dẫn di truyền cho mọi cơ quan khác biệt giữa hai loài – nó giống như cố gắng chế tạo," họ không có ô tô nên cậu không thể dùng phép ẩn dụ về bản thiết kế động cơ bị xáo trộn, "một thứ nửa xe ngựa nửa thuyền hoặc gì đó tương tự..."
+
+Huynh trưởng Ravenclaw vẫn nhìn Harry một cách nghiêm khắc. "Tại sao bạn lại *không thể* có một thứ nửa xe ngựa nửa thuyền?"
+
+"Suỵt!" một huynh trưởng khác ra dấu, mặc dù cô phù thủy Ravenclaw vẫn nói rất khẽ.
+
+"Ý tôi là –" Harry nói khẽ hơn nữa, cố gắng tìm cách hỏi xem liệu yêu tinh tiến hóa từ con người, hay tiến hóa từ một tổ tiên chung với con người như *Homo erectus*, hay liệu yêu tinh được *tạo ra* từ con người bằng cách nào đó – ví dụ, nếu họ vẫn là con người về mặt di truyền dưới một bùa chú di truyền mà hiệu ứng ma thuật bị pha loãng nếu chỉ có một phụ huynh là 'yêu tinh', điều này sẽ giải thích tại sao việc lai giống là khả thi, và trong trường hợp đó yêu tinh sẽ *không phải* là một điểm dữ liệu thứ hai cực kỳ quý giá về cách trí tuệ tiến hóa ở các loài khác ngoài *Homo sapiens* – giờ Harry mới nghĩ lại, những yêu tinh ở Gringotts trông không có vẻ gì là những trí tuệ thực sự xa lạ, phi nhân loại, chẳng giống gì với tộc Dirdir hay Puppeteers – "Ý tôi là, rốt cuộc yêu tinh đến từ đâu?"
+
+"Lithuania," Hermione thì thầm một cách lơ đãng, mắt vẫn dán chặt vào Chiếc nón Phân loại.
+
+Bây giờ Hermione nhận được một nụ cười từ cô huynh trưởng.
+
+"Thôi bỏ đi," Harry thì thầm.
+
+Tại bục phát biểu, Giáo sư McGonagall gọi lớn: "Goldstein, Anthony!"
+
+"RAVENCLAW!"
+
+Hermione, đứng cạnh Harry, đang nhón chân nhảy lên mạnh đến mức chân cậu ấy thực sự rời khỏi mặt đất sau mỗi lần bật.
+
+"Goyle, Gregory!"
+
+Có một khoảnh khắc im lặng dài và căng thẳng dưới Chiếc nón. Gần một phút.
+
+"SLYTHERIN!"
+
+"Granger, Hermione!"
+
+Hermione tuôn ra và chạy hết tốc lực về phía Chiếc nón Phân loại, nhấc nó lên và chụp mạnh món đồ bằng vải cũ nát đó xuống đầu, khiến Harry nhăn mặt. Hermione là người đã giải thích cho *cậu* về Chiếc nón Phân loại, nhưng cậu ấy chắc chắn không đối xử với nó như một món bảo vật ma thuật bị lãng quên 800 năm tuổi, cực kỳ quan trọng và không thể thay thế, cái thứ sắp thực hiện một quy trình thần giao cách cảm phức tạp lên tâm trí cậu ấy và trông có vẻ không được bảo trì tốt lắm về mặt vật lý.
+
+"RAVENCLAW!"
+
+Và nói về những kết quả đã biết trước. Harry không hiểu tại sao Hermione lại căng thẳng đến thế. Ở cái vũ trụ song song kỳ quái nào mà cô gái đó lại *không* được phân vào Ravenclaw cơ chứ? Nếu Hermione Granger không vào Ravenclaw thì chẳng có lý do chính đáng nào để nhà Ravenclaw tồn tại nữa.
+
+Hermione đi đến bàn Ravenclaw và nhận được những tiếng reo hò theo đúng nghĩa vụ; Harry tự hỏi liệu tiếng reo hò đó sẽ lớn hơn hay nhỏ hơn nếu họ biết được mức độ cạnh tranh mà họ vừa chào đón vào bàn mình. Harry biết số pi đến 3,141592 vì độ chính xác đến một phần triệu là đủ cho hầu hết các mục đích thực tế. Hermione biết một trăm chữ số thập phân của số pi vì đó là số lượng chữ số được in ở mặt sau cuốn sách giáo khoa toán của cậu ấy.
+
+Neville Longbottom vào Hufflepuff, Harry cảm thấy mừng khi thấy điều đó. Nếu Nhà đó thực sự chứa đựng lòng trung thành và tình đồng chí như nó vốn được ca ngợi, thì một ngôi nhà đầy những người bạn đáng tin cậy sẽ mang lại cho Neville vô vàn điều tốt đẹp. Những đứa trẻ thông minh vào Ravenclaw, lũ trẻ xấu xa vào Slytherin, những người muốn làm anh hùng vào Gryffindor, và tất cả những người thực sự làm việc thì vào Hufflepuff.
+
+(Mặc dù Harry *đã* đúng khi tham khảo ý kiến của một huynh trưởng Ravenclaw trước. Người phụ nữ trẻ đó thậm chí còn không thèm ngẩng lên khỏi cuốn sách hay nhận diện Harry, chỉ huơ đũa phép về phía Neville và lầm bầm gì đó. Sau đó Neville có vẻ mặt ngơ ngác và đi bộ đến toa xe thứ năm từ đầu tàu và khoang thứ tư bên trái, nơi thực sự chứa con cóc của cậu ấy).
+
+"Malfoy, Draco!" vào Slytherin, và Harry thở phào nhẹ nhõm. Chuyện đó *có vẻ* như là chắc chắn, nhưng bạn không bao giờ biết được một sự kiện nhỏ nhặt nào đó có thể đảo lộn tiến trình của một kế hoạch tổng thể vĩ đại.
+
+Giáo sư McGonagall gọi "Perks, Sally-Anne!", và từ đám trẻ đang tụ tập, một cô bé nhợt nhạt, mảnh khảnh bước ra, trông kỳ lạ như một thực thể siêu thực – như thể cô bé có thể biến mất một cách bí ẩn ngay khoảnh khắc bạn ngừng nhìn, và không bao giờ được nhìn thấy hay thậm chí được nhớ đến nữa.
+
+Và rồi (với một chút run rẩy được kìm nén chặt chẽ khỏi giọng nói và khuôn mặt đến mức bạn phải thực sự hiểu bà rất rõ mới nhận ra), Minerva McGonagall hít một hơi thật sâu và gọi lớn: "Potter, Harry!"
+
+Có một sự im lặng đột ngột trong đại sảnh.
+
+Mọi cuộc trò chuyện dừng lại.
+
+Mọi ánh mắt đổ dồn vào chằm chằm.
+
+Lần đầu tiên trong đời, Harry cảm thấy mình có cơ hội được trải nghiệm cảm giác sợ sân khấu.
+
+Harry ngay lập tức dẹp bỏ cảm giác này. Cả một căn phòng đầy người nhìn chằm chằm vào mình là điều cậu phải làm quen nếu muốn sống ở nước Anh pháp thuật, hay nói rộng ra là làm bất cứ điều gì thú vị với cuộc đời mình. Gắn một nụ cười tự tin và giả tạo lên mặt, cậu nhấc chân bước tới –
+
+"Harry Potter!" giọng của Fred hoặc George Weasley vang lên, và rồi "Harry Potter!" cặp sinh đôi Weasley còn lại hét lên, và một lúc sau toàn bộ bàn Gryffindor, và ngay sau đó là một phần lớn của Ravenclaw và Hufflepuff, đã đồng thanh hô vang.
+
+"Harry Potter! Harry Potter! Harry Potter!"
+
+Và Harry Potter bước tới. Quá chậm, cậu nhận ra điều đó khi đã bắt đầu, nhưng lúc này thì đã quá muộn để thay đổi nhịp độ mà không khiến nó trông có vẻ vụng về.
+
+"Harry Potter! Harry Potter! HARRY POTTER!"
+
+Với một linh cảm quá rõ ràng về những gì mình sẽ thấy, Minerva McGonagall quay lại nhìn phía sau vào dãy Bàn Giáo viên còn lại.
+
+Trelawney đang điên cuồng quạt cho mình, Filius nhìn với vẻ tò mò, Hagrid vỗ tay theo, Sprout trông nghiêm nghị, Vector và Sinistra bối rối, và Quirrell nhìn chằm chằm một cách vô hồn vào khoảng không. Albus mỉm cười nhân từ. Và Severus Snape đang siết chặt chiếc cốc uống rượu rỗng của mình, các đốt ngón tay trắng bệch, mạnh đến mức bạc đang từ từ biến dạng.
+
+Với nụ cười rạng rỡ, quay đầu cúi chào bên này rồi bên kia khi đi giữa bốn bàn của các Nhà, Harry Potter bước tới với nhịp độ trang trọng đầy tính toán, như một hoàng tử đang thừa kế lâu đài của mình.
+
+"Cứu tụi tui khỏi thêm vài tên Chúa tể Bóng tối nữa đi!" một trong hai anh em sinh đôi Weasley gọi lớn, và rồi người kia hét lên, "Đặc biệt là nếu họ là Giáo sư!" trong tiếng cười vang của tất cả các bàn ngoại trừ Slytherin.
+
+Đôi môi của Minerva mím lại thành một đường chỉ trắng. Bà sẽ có chuyện cần nói với lũ "Tai ương Weasley" đó về phần cuối cùng, nếu chúng nghĩ rằng bà bất lực chỉ vì hôm nay là ngày đầu tiên đi học và Gryffindor chưa có điểm nào để trừ. Nếu chúng không quan tâm đến việc bị cấm túc, bà sẽ tìm thứ khác.
+
+Rồi, với một cái hít hà kinh hãi đột ngột, bà nhìn về phía Severus, *chắc chắn* là ông ấy nhận ra cậu bé Potter không hề biết họ đang nói về ai –
+
+Khuôn mặt của Severus đã vượt qua cơn thịnh nộ để tiến đến một kiểu thờ ơ dễ chịu. Một nụ cười nhạt thoáng hiện trên môi ông. Ông đang nhìn về phía Harry Potter, chứ không phải bàn Gryffindor, và tay ông đang cầm những gì còn sót lại của một chiếc cốc bạc đã bị bóp nát.
+
+Harry Potter bước tới với nụ cười cố hữu, cảm thấy ấm áp bên trong và cũng có chút gì đó kinh khủng cùng lúc.
+
+Họ đang reo hò cậu vì một việc cậu đã làm khi mới một tuổi. Một việc mà cậu thực sự chưa hoàn thành. Ở đâu đó, bằng cách nào đó, Chúa tể Bóng tối vẫn còn sống. Liệu họ có reo hò cuồng nhiệt như thế không, nếu họ biết điều đó?
+
+Nhưng sức mạnh của Chúa tể Bóng tối *đã* bị bẻ gãy một lần.
+
+Và Harry sẽ bảo vệ họ một lần nữa. Nếu thực sự có một lời tiên tri và đó là những gì nó nói. Ồ, thực ra thì bất kể cái lời tiên tri quái quỷ nào nói gì đi nữa.
+
+Tất cả những con người này đang tin tưởng vào cậu và reo hò cậu – Harry không thể chịu đựng được nếu để điều đó trở thành sai lầm. Để lóe sáng rồi vụt tắt như bao thần đồng nhí khác. Để trở thành một nỗi thất vọng. Để không sống xứng đáng với danh tiếng là biểu tượng của Ánh sáng, bất kể cậu đã có nó *bằng cách nào*. Cậu tuyệt đối, chắc chắn, dù mất bao lâu đi chăng nữa và ngay cả khi nó giết chết cậu, sẽ đáp ứng mong đợi của họ. Và sau đó sẽ tiếp tục *vượt xa* những mong đợi đó, để mọi người phải tự hỏi khi nhìn lại, rằng tại sao họ từng đòi hỏi ở cậu ít đến thế.
+
+"HARRY POTTER! HARRY POTTER! HARRY POTTER!"
+
+Harry bước những bước cuối cùng về phía Chiếc nón Phân loại. Cậu thực hiện một cú cúi chào lịch lãm với "Quân đoàn Hỗn loạn" tại bàn Gryffindor, rồi quay người cúi chào một lần nữa về phía bên kia của đại sảnh, và chờ đợi cho tiếng vỗ tay và tiếng cười rúc rích lắng xuống.
+
+(Trong thâm tâm, cậu tự hỏi liệu Chiếc nón Phân loại có thực sự *có ý thức* theo nghĩa là nhận biết được nhận thức của chính nó hay không, và nếu có, liệu nó có hài lòng với việc chỉ được nói chuyện với những đứa trẻ mười một tuổi mỗi năm một lần không. Bài hát của nó đã ám chỉ điều đó: *Ồ, ta là Chiếc nón Phân loại và ta ổn, ta ngủ cả năm và ta làm một ngày...*)
+
+Khi căn phòng một lần nữa im lặng, Harry ngồi lên ghế đẩu và *cẩn thận* đội lên đầu vật phẩm thần giao cách cảm 800 năm tuổi của ma thuật đã bị lãng quên.
+
+Suy nghĩ, mạnh mẽ nhất có thể: *Đừng Phân loại tôi vội! Tôi có những câu hỏi cần hỏi ông! Tôi đã từng bị Chỉnh sửa Trí nhớ (Obliviated) chưa? Ông có Phân loại Chúa tể Bóng tối khi hắn còn là một đứa trẻ không và ông có thể cho tôi biết về những điểm yếu của hắn không? Ông có thể cho tôi biết tại sao tôi lại có chiếc đũa phép anh em với của Chúa tể Bóng tối không? Có phải linh hồn của Chúa tể Bóng tối đang bị ràng buộc vào vết sẹo của tôi và đó là lý do tại sao đôi khi tôi trở nên rất tức giận không? Đó là những câu hỏi quan trọng nhất, nhưng nếu ông còn một khoảnh khắc nữa, ông có thể cho tôi biết bất cứ điều gì về cách tìm lại những ma thuật đã mất đã tạo ra ông không?*
+
+Vào trong sự tĩnh lặng của tâm hồn Harry, nơi mà trước đây chưa từng có giọng nói nào khác ngoài chính mình, vang lên một giọng nói thứ hai và lạ lẫm, nghe có vẻ lo lắng rõ rệt:
+
+"Ôi trời. Chuyện này chưa từng xảy ra bao giờ..."
+
+---
+
+### PHỤ LỤC GIẢI THÍCH CHI TIẾT
+
+1. **Quark - "Truth" & "Beauty"**: Trong vật lý hạt, các hạt Quark được chia thành các thế hệ. Thế hệ thứ ba ban đầu được đề xuất với tên gọi là "Truth" (Chân thực) và "Beauty" (Vẻ đẹp). Tuy nhiên, sau đó cộng đồng khoa học đã chuyển sang dùng "Top" (Đỉnh) và "Bottom" (Đáy) để đồng nhất với các cặp khác. Chi tiết này thể hiện việc Harry (và tác giả) ưu tiên các giá trị trừu tượng và thẩm mỹ hơn là các tên gọi mang tính vị trí vật lý.
+2. **Genetics (Di truyền học) & Goblins**: Harry sử dụng tư duy của một nhà sinh học để thắc mắc về khả năng lai giữa người và yêu tinh. Trong sinh học thực tế, hai loài khác biệt (khác số lượng nhiễm sắc thể hoặc cấu trúc gen) thường không thể tạo ra hậu duệ có khả năng sinh sản (như con la là lai giữa ngựa và lừa nhưng bị vô sinh). Harry nghi ngờ yêu tinh có thể chỉ là một biến thể của con người bị tác động bởi ma thuật (heritable enchantment) hơn là một loài tiến hóa độc lập hoàn toàn.
+3. **Lithuania**: Đây là một câu trả lời mang tính mỉa mai của Hermione. Trong lịch sử và thần thoại, các nước vùng Baltic (trong đó có Lithuania) thường gắn liền với các truyền thuyết về các sinh vật huyền bí hoặc là nơi cuối cùng ở Châu Âu chuyển sang Cơ Đốc giáo, giữ lại nhiều niềm tin ngoại giáo.
+4. **Order of Chaos (Quân đoàn Hỗn loạn)**: Một cách gọi tếu táo của Harry dành cho cặp sinh đôi Weasley, ám chỉ phong cách nghịch ngợm phá vỡ mọi quy tắc của họ.
+5. **Pi to 100 digits**: Chi tiết này nhấn mạnh sự khác biệt giữa tính "Thực dụng" (Harry chỉ nhớ đủ dùng cho khoa học) và tính "Học thuật thuần túy" (Hermione học thuộc lòng mọi thứ trong sách).
+6. **All your base are belong to J. K. Rowling**: Đây là cách chơi chữ dựa trên meme nổi tiếng "All your base are belong to us" (một lỗi dịch tiếng Anh ngô nghê từ trò chơi Zero Wing của Nhật Bản). Nó thường được dùng trong văn hóa mạng để ám chỉ việc chiếm hữu hoàn toàn một thứ gì đó.
