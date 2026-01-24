@@ -1,180 +1,177 @@
 
-**CHƯƠNG 1: MỘT NGÀY VỚI XÁC SUẤT CỰC THẤP**
+**Chương 1: Một Ngày Của Xác Suất Rất Thấp**
 
-Mọi inch diện tích tường đều được lấp đầy bởi những giá sách. Mỗi giá có sáu tầng, cao gần chạm trần nhà. Có những kệ xếp chật kín những cuốn sách bìa cứng: khoa học, toán học, lịch sử và đủ thứ trên đời. Những kệ khác lại xếp hai lớp sách khoa học viễn tưởng bìa mềm, với lớp phía sau được kê cao lên bằng những hộp khăn giấy cũ hoặc những thanh gỗ, để bạn có thể nhìn thấy gáy của lớp sách sau ngay phía trên lớp trước. Thế nhưng bấy nhiêu vẫn là chưa đủ. Sách tràn ra cả bàn, ghế sofa và tạo thành những đống nhỏ dưới bậu cửa sổ.
+**Lời miễn trừ trách nhiệm:** J. K. Rowling sở hữu Harry Potter, và không ai sở hữu các phương pháp tư duy lý trí.
 
-Đây là phòng khách của ngôi nhà được chiếm lĩnh bởi vị Giáo sư ưu tú Michael Verres-Evans, vợ ông, bà Petunia Evans-Verres, và con trai nuôi của họ, Harry James Potter-Evans-Verres.
+Truyện fanfiction này được đánh giá là bắt đầu thực sự lấy đà từ khoảng **Chương 5**. Nếu bạn vẫn không thích nó sau **Chương 10**, hãy dừng lại.
 
-Có một lá thư nằm trên bàn phòng khách, và một chiếc phong bì không dán tem làm bằng giấy da hơi ngả vàng, đề gửi cho Cậu H. Potter bằng mực xanh ngọc lục bảo.
+Xin ghé thăm **HPMOR DOT COM** để có:
+* Hệ thống thông báo email dễ dùng, nguồn cấp RSS và Twitter cho các chương mới;
+* Ghi chú của Tác giả và cập nhật tiến độ hiện tại;
+* Phiên bản PDF xinh đẹp theo phong cách sách do fan làm;
+* Bản sao không quảng cáo của văn bản;
+* Văn bản điện tử ePUB và MOBI;
+* Podcast đang phát hành của câu chuyện;
+* Nghệ thuật fan với số lượng khổng lồ;
+* Danh sách cameo (nhân vật được đặt tên theo nghệ sĩ fan);
+* Fanfiction của fanfiction này;
+* Nhạc, bài hát và hoạt hình của fan;
+* Bản dịch của fan;
+* Từ khóa OKCupid cho độc giả HPMOR;
+* Liên kết đến trang TV Tropes và diễn đàn thảo luận;
+* Trang cảnh báo kích hoạt (cảnh báo về các liên tưởng có thể gây sang chấn cho một số độc giả; để tránh tiết lộ cốt truyện, không có cảnh báo bên trong câu chuyện chính);
+* Cách học mọi thứ nhân vật chính biết;
+* Vị trí công việc mở tại một tổ chức phi lợi nhuận liên quan;
+* Và còn rất, rất nhiều thứ nữa.
 
-Vị Giáo sư và vợ đang tranh luận gay gắt với nhau, nhưng họ không hét lên. Vị Giáo sư coi việc la hét là hành vi thiếu văn minh.
+**Đánh giá làm tôi hạnh phúc.** Bạn có thể để lại đánh giá trên bất kỳ chương nào, không cần đăng nhập, và không cần phải đọc xong tất cả trước khi bắt đầu đánh giá các chương - nhưng xin vui lòng chỉ để lại **nhiều nhất một đánh giá cho mỗi chương**.
 
-"Em đang đùa đấy à," Michael nói với Petunia. Giọng ông cho thấy ông đang cực kỳ lo sợ rằng bà đang nghiêm túc.
+Đây không phải là một fanfiction **chỉ có một điểm phân kỳ duy nhất** - tồn tại một điểm phân kỳ chính ở đâu đó trong quá khứ, nhưng cũng có những thay đổi khác. Thuật ngữ hay nhất tôi từng nghe cho tác phẩm này là **"vũ trụ song song"**.
 
-"Em gái em là một phù thủy," Petunia lặp lại. Bà trông có vẻ sợ hãi, nhưng vẫn giữ vững lập trường. "Chồng cô ấy là một pháp sư."
+Văn bản chứa nhiều manh mối: manh mối rõ ràng, manh mối không quá rõ ràng, những gợi ý thực sự khó nắm bắt mà tôi đã sốc khi thấy một số độc giả giải mã thành công, và những bằng chứng lớn bị bỏ lại ngay trước mắt. Đây là một câu chuyện về chủ nghĩa duy lý; những bí ẩn của nó có thể giải được, và được dự định để giải.
 
-"Thật lố bịch!" Michael nói dứt khoát. "Họ đã dự đám cưới của chúng ta – họ còn đến thăm hồi Giáng sinh -"
+Nhịp điệu của câu chuyện là nhịp điệu của **tiểu thuyết đăng nhiều kỳ**, giống như một chương trình TV chạy trong một số mùa được định trước, có các tập được xây dựng cốt truyện riêng lẻ nhưng với một tổng thể xây dựng đến một kết luận cuối cùng.
 
-"Em đã bảo họ là không được để anh biết," Petunia thì thầm. "Nhưng đó là sự thật. Em đã tận mắt chứng kiến nhiều thứ -"
+Câu chuyện đã được sửa thành tiếng Anh-Anh đến hết **Chương 17**, và việc hiệu đính thêm hiện đang được tiến hành (xem subreddit /HPMOR).
 
-Vị Giáo sư đảo mắt. "Em yêu, anh hiểu là em không quen thuộc với các tài liệu về chủ nghĩa hoài nghi. Em có lẽ không nhận ra rằng một ảo thuật gia được đào tạo có thể dễ dàng dàn dựng những thứ tưởng chừng như không thể đến mức nào. Em nhớ anh đã dạy Harry cách bẻ cong thìa chứ? Nếu họ có vẻ như luôn đoán được em đang nghĩ gì, thì đó gọi là **đọc nguội (cold reading)** -"
+**Tất cả khoa học được đề cập là khoa học thực.** Nhưng xin hãy nhớ rằng, bên ngoài lĩnh vực khoa học, quan điểm của các nhân vật có thể không phải là quan điểm của tác giả. Không phải mọi thứ nhân vật chính làm đều là một bài học về sự khôn ngoan, và lời khuyên do các nhân vật đen tối hơn đưa ra có thể không đáng tin cậy hoặc nguy hiểm hai lưỡi.
 
-"Đó không phải là bẻ cong thìa -"
+Dưới ánh trăng lấp lánh một mảnh bạc nhỏ xíu, một phần của một đường kẻ...
+*(áo choàng đen, rơi xuống)*
+...máu trào ra hàng lít, và ai đó hét lên một từ.
 
-"Vậy thì nó là cái gì?"
+---
 
-Petunia cắn môi. "Em không thể chỉ nói cho anh biết được. Anh sẽ nghĩ em bị -" Bà nuốt nước bọt. "Nghe này, Michael. Em đã không - không luôn luôn như thế này -" Bà chỉ vào cơ thể mình, như để ám chỉ vóc dáng thanh thoát hiện tại. "Lily đã làm điều này. Bởi vì em - bởi vì em đã cầu xin cô ấy. Suốt nhiều năm, em đã van nài cô ấy. Lily luôn xinh đẹp hơn em, và em đã... đã đối xử tệ với cô ấy vì điều đó, rồi cô ấy có phép thuật, anh có tưởng tượng được em đã cảm thấy thế nào không? Và em đã cầu xin cô ấy dùng chút phép thuật đó lên em để em cũng có thể trở nên xinh đẹp, ngay cả khi em không có được phép thuật của cô ấy, ít nhất em cũng có thể xinh đẹp."
+Mọi inch không gian tường đều được phủ bởi giá sách. Mỗi giá sách có sáu kệ, cao gần chạm trần. Một số giá sách chất đầy ắp sách bìa cứng: khoa học, toán học, lịch sử và mọi thứ khác. Các kệ khác có hai lớp tiểu thuyết khoa học viễn tưởng bìa mềm, với lớp sách phía sau được chống lên bằng hộp khăn giấy cũ hoặc những thanh gỗ, để bạn có thể nhìn thấy lớp sách phía sau phía trên những cuốn sách ở phía trước. Và như thế vẫn chưa đủ. Sách tràn ra các bàn và ghế sofa, tạo thành những đống nhỏ dưới các cửa sổ.
 
-Nước mắt bắt đầu đọng lại trong mắt Petunia.
+Đây là phòng khách của ngôi nhà do Giáo sư Michael Verres-Evans lỗi lạc, cùng vợ ông, bà Petunia Evans-Verres, và con trai nuôi của họ, Harry James Potter-Evans-Verres, sinh sống.
 
-"Và Lily luôn nói không, rồi bịa ra những lý do nực cười nhất, kiểu như thế giới sẽ tận thế nếu cô ấy tử tế với chị mình, hay một nhân mã đã bảo cô ấy không được làm thế - những thứ lố bịch nhất, và em ghét cô ấy vì điều đó. Khi em vừa tốt nghiệp đại học, em đã hẹn hò với một anh chàng tên là Vernon Dursley, anh ta béo ú và là người duy nhất chịu nói chuyện với em. Anh ta nói anh ta muốn có con, và đứa con trai đầu lòng sẽ tên là Dudley. Và em tự nghĩ, loại cha mẹ nào lại đặt tên con là Dudley Dursley? Cảm giác như em nhìn thấy cả tương lai đời mình kéo dài dằng dặc trước mắt, và em không thể chịu đựng nổi. Em đã viết thư cho em gái và bảo cô ấy rằng nếu cô ấy không giúp, em thà rằng -"
+Có một bức thư nằm trên bàn phòng khách, và một phong bì bằng giấy da màu vàng nhạt chưa dán tem, đề tên **Ông H. Potter** bằng mực màu xanh ngọc lục bảo.
+
+Giáo sư và vợ đang nói chuyện gay gắt với nhau, nhưng họ không hề la hét. Giáo sư coi việc la hét là không văn minh.
+
+"Em đùa đấy à," Michael nói với Petunia. Giọng ông cho thấy ông rất sợ rằng cô ấy đang nghiêm túc.
+
+"Chị gái em là một phù thủy," Petunia lặp lại. Cô trông sợ hãi, nhưng vẫn đứng vững. "Chồng chị ấy là một pháp sư."
+
+"Thật là vô lý!" Michael nói gay gắt. "Họ đã ở đám cưới của chúng ta - họ đã đến thăm vào Giáng sinh -"
+
+"Em đã bảo họ là anh không được biết," Petunia thì thầm. "Nhưng đó là sự thật. Em đã thấy nhiều thứ -"
+
+Giáo sư đảo mắt. "Em yêu, anh hiểu là em không quen với các tài liệu hoài nghi. Em có thể không nhận ra việc một nhà ảo thuật được đào tạo giả mạo những điều dường như không thể dễ dàng thế nào. Hãy nhớ anh đã dạy Harry bẻ thìa thế nào không? Nếu có vẻ như họ luôn đoán được em đang nghĩ gì, đó gọi là đọc lạnh -"
+
+"Không phải bẻ thìa -"
+
+"Vậy thì là gì?"
+
+Petunia cắn môi. "Em không thể chỉ nói với anh được. Anh sẽ nghĩ em -" Cô nuốt nước bọt. "Nghe này, Michael. Em đã không - luôn luôn như thế này -" Cô ra hiệu về phía mình, như để chỉ hình dáng mảnh mai của mình. "Lily đã làm điều này. Bởi vì em - bởi vì em đã cầu xin cô ấy. Trong nhiều năm, em đã cầu xin cô ấy. Lily luôn xinh đẹp hơn em, và em... đã đối xử tệ với cô ấy, vì điều đó, và rồi cô ấy có phép thuật, anh có tưởng tượng được em cảm thấy thế nào không? Và em đã cầu xin cô ấy dùng một ít phép thuật đó cho em để em cũng có thể xinh đẹp, ngay cả khi em không thể có phép thuật của cô ấy, ít nhất em cũng có thể xinh đẹp."
+
+Nước mắt đang đọng trong mắt Petunia.
+
+"Và Lily sẽ nói không với em, và bịa ra những lý do lố bịch nhất, như thể thế giới sẽ diệt vong nếu cô ấy tử tế với chị gái mình, hoặc một nhân mã bảo cô ấy đừng - những điều lố bịch nhất, và em ghét cô ấy vì điều đó. Và khi em vừa tốt nghiệp đại học, em đang hẹn hò với cậu bé này, Vernon Dursley, hắn ta béo và là cậu bé duy nhất chịu nói chuyện với em. Và hắn nói muốn có con, và con trai đầu lòng của hắn sẽ được đặt tên là Dudley. Và em nghĩ thầm, kiểu cha mẹ nào lại đặt tên con mình là Dudley Dursley chứ? Như thể em nhìn thấy toàn bộ cuộc đời tương lai của mình trải dài trước mặt, và em không thể chịu đựng nổi. Và em đã viết thư cho chị gái và nói rằng nếu cô ấy không giúp em, em thà -"
 
 Petunia dừng lại.
 
-"Dù sao thì," Petunia nói, giọng nhỏ dần, "cô ấy đã nhượng bộ. Cô ấy bảo việc đó rất nguy hiểm, và em nói rằng em không quan tâm nữa, rồi em uống thứ độc dược này và em đã ốm liệt giường trong nhiều tuần, nhưng khi em khỏe lại, da dẻ em sạch mụn và cơ thể em cuối cùng cũng nảy nở... Em đã trở nên xinh đẹp, mọi người tử tế với em hơn," giọng bà nghẹn lại, "và sau đó em không thể ghét em gái mình được nữa, nhất là khi em biết phép thuật của cô ấy cuối cùng đã mang lại cho cô ấy điều gì -"
+"Dù sao thì," Petunia nói, giọng nhỏ bé, "cô ấy đã nhượng bộ. Cô ấy bảo em là nguy hiểm, và em nói em không quan tâm nữa, và em uống thứ thuốc này và em đã ốm nhiều tuần, nhưng khi em khỏe hơn, làn da của em sạch hết mụn và cuối cùng em cũng đầy đặn hơn và... em đã xinh đẹp, mọi người đối xử tử tế với em," giọng cô nghẹn lại, "và sau đó em không thể ghét chị gái mình nữa, đặc biệt là khi em biết được thứ phép thuật của cô ấy đã mang lại cho cô ấy cuối cùng -"
 
-"Em yêu à," Michael nói dịu dàng, "em bị ốm, em tăng cân một chút trong lúc nghỉ ngơi trên giường, và da em tự hết mụn thôi. Hoặc việc bị ốm đã khiến em thay đổi chế độ ăn uống -"
+"Em yêu," Michael nói nhẹ nhàng, "em bị ốm, em tăng một ít cân khi nghỉ ngơi trên giường, và làn da của em tự khỏi. Hoặc bị ốm khiến em thay đổi chế độ ăn -"
 
-"Cô ấy là một phù thủy," Petunia lặp lại. "Em đã thấy tận mắt."
+"Cô ấy là một phù thủy," Petunia lặp lại. "Em đã thấy."
 
-"Petunia," Michael nói. Sự bực bội bắt đầu len lỏi vào giọng ông. "Em biết điều đó không thể là sự thật mà. Anh có thực sự phải giải thích tại sao không?"
+"Petunia," Michael nói. Sự khó chịu đang len vào giọng nói của ông. "Em biết điều đó không thể là thật. Anh có thực sự phải giải thích tại sao không?"
 
-Petunia vặn vẹo đôi bàn tay. Bà có vẻ như sắp khóc đến nơi. "Anh yêu, em biết em không thể thắng lý lẽ với anh, nhưng làm ơn, anh phải tin em chuyện này -"
+Petunia vò tay. Cô dường như sắp khóc. "Tình yêu của em, em biết em không thể thắng trong các cuộc tranh luận với anh, nhưng làm ơn, anh phải tin tưởng em về chuyện này -"
 
 "Bố! Mẹ!"
 
-Cả hai dừng lại và nhìn Harry như thể họ đã quên mất sự hiện diện của người thứ ba trong phòng.
+Hai người dừng lại và nhìn Harry như thể họ đã quên có người thứ ba trong phòng.
 
-Harry hít một hơi thật sâu. "Mẹ, ông bà ngoại không có phép thuật, đúng không?"
+Harry hít một hơi thật sâu. "Mẹ, ông bà ngoại không có phép thuật, phải không?"
 
-"Không," Petunia nói, vẻ mặt bối rối.
+"Không," Petunia nói, trông bối rối.
 
-"Vậy thì không ai trong gia đình mẹ biết về phép thuật khi dì Lily nhận được thư. Làm thế nào mà họ tin được?"
+"Vậy thì không ai trong gia đình mẹ biết về phép thuật khi Lily nhận được thư của bà ấy. Làm sao họ bị thuyết phục?"
 
-"À..." Petunia nói. "Họ không chỉ gửi thư. Họ cử một giáo sư từ Hogwarts đến. Ông ấy -" mắt Petunia liếc sang Michael. "Ông ấy đã cho mọi người xem một chút phép thuật."
+"À..." Petunia nói. "Họ không chỉ gửi một lá thư. Họ cử một giáo sư từ Hogwarts đến. Ông ấy -" Mắt Petunia liếc nhìn Michael. "Ông ấy đã cho chúng tôi xem một ít phép thuật."
 
-"Vậy thì hai người không cần phải cãi nhau về chuyện này nữa," Harry nói kiên định. Cậu hy vọng, dẫu biết là mong manh, rằng lần này, chỉ một lần duy nhất thôi, họ sẽ lắng nghe cậu. "Nếu đó là sự thật, chúng ta chỉ cần mời một giáo sư Hogwarts đến đây và tận mắt chứng kiến phép thuật, rồi bố sẽ thừa nhận đó là thật. Còn nếu không, mẹ sẽ thừa nhận đó là giả. Đó chính là mục đích của **phương pháp thực nghiệm (experimental method)**, để chúng ta không phải giải quyết mọi việc chỉ bằng cách tranh cãi."
+"Vậy thì bố mẹ không cần phải cãi nhau về việc này," Harry nói một cách quả quyết. Hy vọng khôn nguôi rằng lần này, chỉ lần này thôi, họ sẽ nghe cậu. "Nếu đó là sự thật, chúng ta chỉ cần mời một giáo sư Hogwarts đến đây và tự mình xem phép thuật, và bố sẽ thừa nhận rằng đó là thật. Còn nếu không, thì mẹ sẽ thừa nhận rằng đó là giả. Đó là lý do để có **phương pháp thực nghiệm**, để chúng ta không phải giải quyết mọi việc chỉ bằng tranh luận."
 
-Vị Giáo sư xoay người nhìn xuống cậu, vẻ xem thường như thường lệ. "Ôi, thôi nào Harry. Thật sự đấy, phép thuật sao? Bố nghĩ con phải đủ thông minh để không tin vào chuyện này chứ con trai, ngay cả khi con mới mười tuổi. Phép thuật chính là thứ phi khoa học nhất trên đời này!"
+Giáo sư quay lại và nhìn xuống cậu, coi thường như thường lệ. "Ồ, thôi nào, Harry. Thật sao, phép thuật ư? Bố nghĩ con sẽ biết rõ hơn là nghiêm túc với chuyện này, con trai, ngay cả khi con mới chỉ mười tuổi. Phép thuật là một trong những thứ phi khoa học nhất tồn tại!"
 
-Miệng Harry méo xệch đầy cay đắng. Cậu được đối xử tốt, có lẽ là tốt hơn cả hầu hết những người cha ruột đối xử với con mình. Harry đã được gửi đến những trường tiểu học tốt nhất – và khi điều đó không hiệu quả, cậu được cung cấp gia sư từ nguồn sinh viên nghèo đói vô tận. Harry luôn được khuyến khích nghiên cứu bất cứ thứ gì thu hút sự chú ý của mình, được mua tất cả những cuốn sách cậu thích, được tài trợ trong bất kỳ cuộc thi toán học hay khoa học nào cậu tham gia. Cậu được cho bất cứ thứ gì hợp lý mà cậu muốn, ngoại trừ, có lẽ, một chút sự tôn trọng nhỏ nhoi nhất. Một Tiến sĩ dạy hóa sinh tại Oxford khó lòng mà lắng nghe lời khuyên của một cậu bé con. Tất nhiên bạn sẽ lắng nghe để "Thể hiện sự Quan tâm"; đó là điều một Phụ huynh Tốt sẽ làm, và vì vậy, nếu bạn tự coi mình là một Phụ huynh Tốt, bạn sẽ làm điều đó. Nhưng coi trọng một đứa trẻ mười tuổi? Khó lắm.
+Miệng Harry nhăn lại một cách cay đắng. Cậu được đối xử tốt, có lẽ tốt hơn hầu hết những người cha ruột đối xử với con cái của họ. Harry đã được gửi đến các trường tiểu học tốt nhất - và khi điều đó không thành công, cậu được cung cấp gia sư từ nguồn vô tận những sinh viên đói khát. Harry luôn luôn được khuyến khích học bất cứ thứ gì thu hút sự chú ý của cậu, mua tất cả những cuốn sách cậu thích, được tài trợ cho bất kỳ cuộc thi toán học hay khoa học nào cậu tham gia. Cậu được cho bất cứ thứ gì hợp lý cậu muốn, ngoại trừ, có lẽ, một mảnh nhỏ nhất của sự tôn trọng. Một Tiến sĩ giảng dạy hóa sinh tại Oxford khó có thể được mong đợi sẽ lắng nghe lời khuyên của một cậu bé. Bạn sẽ lắng nghe và Thể hiện Sự quan tâm, tất nhiên; đó là điều một Người Cha Tốt sẽ làm, và vì vậy, nếu bạn coi mình là một Người Cha Tốt, bạn sẽ làm điều đó. Nhưng coi trọng một đứa trẻ mười tuổi? Khó lắm.
 
 Đôi khi Harry muốn hét vào mặt bố mình.
 
-"Mẹ," Harry nói. "Nếu mẹ muốn thắng cuộc tranh luận này với bố, hãy xem chương hai của cuốn đầu tiên trong bộ *Bài giảng Vật lý của Feynman*. Có một câu trích dẫn ở đó nói về việc các triết gia nói rất nhiều về những gì khoa học tuyệt đối yêu cầu, và tất cả đều sai, bởi vì quy tắc duy nhất trong khoa học là **trọng tài cuối cùng chính là sự quan sát** – rằng con người chỉ cần nhìn vào thế giới và báo cáo những gì mình thấy. Ừm... ngay lúc này con không nhớ ra chỗ nào nói về việc lý tưởng của khoa học là giải quyết mọi việc bằng thực nghiệm thay vì tranh cãi -"
+"Mẹ," Harry nói. "Nếu mẹ muốn thắng cuộc tranh luận này với bố, hãy xem chương hai của quyển một trong **Những Bài giảng Vật lý của Feynman**. Có một trích dẫn ở đó về cách các triết gia nói rất nhiều về những gì khoa học tuyệt đối đòi hỏi, và tất cả đều sai, bởi vì quy tắc duy nhất trong khoa học là trọng tài cuối cùng là quan sát - rằng bạn chỉ cần nhìn vào thế giới và báo cáo những gì bạn thấy. Ừm... nghĩ ngay lúc này con không nghĩ ra nơi để tìm thứ gì đó về việc giải quyết mọi thứ bằng thực nghiệm thay vì tranh luận là một lý tưởng của khoa học -"
 
-Mẹ cậu nhìn xuống cậu và mỉm cười. "Cảm ơn con, Harry. Nhưng -" bà ngẩng đầu lên nhìn thẳng vào chồng mình. "Em không muốn thắng một cuộc tranh luận với anh. Em muốn chồng mình, phải lắng nghe người vợ yêu anh ấy, và tin tưởng cô ấy chỉ một lần này thôi -"
+Mẹ cậu nhìn xuống và mỉm cười. "Cảm ơn con, Harry. Nhưng -" đầu bà ngẩng lên lại để nhìn chằm chằm vào chồng. "Mẹ không muốn thắng một cuộc tranh luận với bố con. Mẹ muốn chồng mẹ, hãy lắng nghe người vợ yêu anh ta, và tin cô ấy chỉ một lần này thôi -"
 
-Harry nhắm mắt lại trong giây lát. Vô vọng. Cả bố và mẹ cậu đều thật vô vọng.
+Harry nhắm mắt lại một cách thoáng qua. **Vô vọng**. Cả hai bố mẹ cậu đều thật vô vọng.
 
-Giờ thì bố mẹ cậu lại lao vào một trong những kiểu tranh luận đó, kiểu mà mẹ cố gắng làm bố cảm thấy tội lỗi, còn bố cố gắng làm mẹ cảm thấy ngu ngốc.
+Giờ thì bố mẹ cậu lại bước vào một trong những cuộc tranh luận kiểu đó, nơi mẹ cậu cố gắng khiến bố cậu cảm thấy có lỗi, và bố cậu cố gắng khiến mẹ cậu cảm thấy ngu ngốc.
 
-"Con về phòng đây," Harry thông báo. Giọng cậu hơi run. "Làm ơn đừng cãi nhau quá nhiều về chuyện này nhé bố mẹ, chúng ta sẽ sớm biết kết quả thôi, đúng không?"
+"Con sẽ về phòng con," Harry thông báo. Giọng cậu run nhẹ. "Làm ơn đừng cãi nhau nhiều quá về chuyện này, bố mẹ, chúng ta sẽ sớm biết kết quả thế nào mà, phải không?"
 
-"Tất nhiên rồi Harry," bố cậu nói, và mẹ tặng cậu một nụ hôn trấn an, rồi họ lại tiếp tục cãi nhau trong khi Harry leo lên cầu thang về phòng ngủ.
+"Tất nhiên rồi, Harry," bố cậu nói, và mẹ cậu hôn cậu một cái để trấn an, và sau đó họ tiếp tục cãi nhau trong khi Harry leo lên cầu thang về phòng ngủ của mình.
 
 Cậu đóng cửa lại và cố gắng suy nghĩ.
 
-Điều buồn cười là, lẽ ra cậu phải đồng ý với bố. Chưa có ai từng thấy bất kỳ bằng chứng nào về phép thuật, và theo lời mẹ, có cả một thế giới pháp thuật ngoài kia. Làm thế nào mà người ta có thể giữ bí mật một thứ như vậy? Thêm nhiều phép thuật nữa à? Đó có vẻ là một loại lý do khá đáng nghi.
+Điều buồn cười là, đáng lẽ cậu nên đồng ý với Bố. Không ai từng thấy bất kỳ bằng chứng nào về phép thuật, và theo Mẹ, có cả một thế giới phép thuật ngoài kia. Làm sao bất cứ ai có thể giữ bí mật một điều như vậy? Thêm phép thuật nữa sao? Điều đó có vẻ như là một loại lý do khá đáng ngờ.
 
-Lẽ ra đây phải là một trường hợp rõ ràng về việc mẹ đang đùa, nói dối hoặc bị điên, theo thứ tự mức độ tệ hại tăng dần. Nếu mẹ tự mình gửi lá thư đó, điều đó sẽ giải thích tại sao nó đến hộp thư mà không có tem. Một chút điên rồ thì xác suất xảy ra vẫn cao hơn nhiều, cực nhiều so với việc vũ trụ thực sự vận hành theo cách đó.
+Đáng lẽ đây phải là một trường hợp rõ ràng cho việc Mẹ đang đùa, nói dối hoặc bị điên, theo thứ tự mức độ kinh khủng tăng dần. Nếu Mẹ tự gửi bức thư, điều đó sẽ giải thích làm thế nào nó đến hộp thư mà không có tem. Một chút điên rồ là ít, rất ít khả năng xảy ra hơn so với việc vũ trụ thực sự hoạt động như vậy.
 
-Ngoại trừ việc có một phần nào đó trong Harry hoàn toàn tin rằng phép thuật là có thật, và cảm giác đó đã có ngay từ khoảnh khắc cậu nhìn thấy lá thư giả định từ Trường Pháp thuật và Ma thuật Hogwarts.
+Ngoại trừ việc một phần nào đó trong Harry hoàn toàn bị thuyết phục rằng phép thuật là có thật, và đã như vậy kể từ khoảnh khắc cậu nhìn thấy bức thư được cho là từ Trường Phù thủy và Pháp sư Hogwarts.
 
-Harry xoa trán, nhăn mặt. *Đừng tin vào tất cả những gì mình nghĩ*, một trong những cuốn sách của cậu đã nói như vậy.
+Harry xoa trán, nhăn mặt. **Đừng tin mọi thứ bạn nghĩ**, một trong những cuốn sách của cậu đã nói vậy.
 
-Nhưng sự chắc chắn kỳ quái này... Harry nhận thấy mình đang mong đợi rằng, vâng, một giáo sư Hogwarts sẽ xuất hiện, vẫy đũa phép và phép thuật sẽ tuôn ra. Sự chắc chắn lạ lùng đó chẳng thèm nỗ lực để bảo vệ mình trước khả năng bị chứng minh là sai – nó không hề chuẩn bị sẵn những lời bào chữa cho việc tại sao sẽ không có giáo sư nào đến, hoặc vị giáo sư đó chỉ có thể bẻ cong thìa.
+Nhưng sự chắc chắn kỳ lạ này... Harry thấy mình cứ mong đợi rằng, vâng, một giáo sư Hogwarts sẽ xuất hiện và vẫy cây đũa phép và phép thuật sẽ tuôn ra. Sự chắc chắn kỳ lạ ấy không hề cố gắng tự bảo vệ mình chống lại sự phủ định - không hề bào chữa trước cho việc tại sao sẽ không có giáo sư, hoặc vị giáo sư sẽ chỉ có thể bẻ thìa.
 
-*Ngươi từ đâu đến vậy, lời tiên đoán nhỏ bé kỳ lạ kia?* Harry hướng suy nghĩ đó vào bộ não mình. *Tại sao tôi lại tin vào những gì tôi tin?*
+Ngươi đến từ đâu, hỡi dự đoán nhỏ kỳ lạ? Harry hướng suy nghĩ vào bộ não của mình. Tại sao ta lại tin vào những gì ta tin?
 
-Thông thường Harry khá giỏi trong việc trả lời câu hỏi đó, nhưng trong trường hợp cụ thể này, cậu không có manh mối nào về việc bộ não mình đang nghĩ gì.
+Thông thường Harry khá giỏi trong việc trả lời câu hỏi đó, nhưng trong trường hợp cụ thể này, cậu không có manh mối gì về việc bộ não mình đang nghĩ gì.
 
-Harry nhún vai trong tâm trí. Một tấm kim loại phẳng trên cửa thì gợi ý việc đẩy (**affords pushing**), một tay nắm cửa thì gợi ý việc kéo, và việc cần làm với một giả thuyết có thể kiểm chứng được là đi và kiểm chứng nó.
+Harry nhún vai trong tâm trí. Một tấm kim loại phẳng trên cửa cho phép đẩy, và một tay nắm trên cửa cho phép kéo, và điều cần làm với một giả thuyết có thể kiểm chứng là đi và kiểm tra nó.
 
-Cậu lấy một tờ giấy kẻ ngang từ bàn học và bắt đầu viết.
+Cậu lấy một tờ giấy có dòng kẻ từ bàn làm việc, và bắt đầu viết.
 
-*Gửi bà Phó Hiệu trưởng*
+*Kính gửi Phó Hiệu trưởng*
 
-Harry dừng lại, suy ngẫm; rồi bỏ tờ giấy đó đi để lấy tờ khác, bấm thêm một milimét chì từ chiếc bút chì kim của mình. Việc này đòi hỏi một lối viết nắn nót cẩn thận.
+Harry dừng lại, suy nghĩ; sau đó bỏ tờ giấy đó lấy tờ khác, gõ thêm một milimét chì từ bút chì cơ của mình. Việc này đòi hỏi thư pháp cẩn thận.
 
 *Kính gửi Phó Hiệu trưởng Minerva McGonagall,*
 
-*Hoặc Những ai có liên quan:*
+*Hoặc Bất kỳ Ai Có Liên Quan:*
 
-*Gần đây tôi có nhận được thư chấp thuận nhập học của bà gửi cho Cậu H. Potter. Có thể bà không biết rằng cha mẹ ruột của tôi, James Potter và Lily Potter (nhũ danh Lily Evans) đã qua đời. Tôi được nhận nuôi bởi em gái của Lily, bà Petunia Evans-Verres, và chồng bà, ông Michael Verres-Evans.*
+*Tôi gần đây nhận được thư chấp nhận vào Hogwarts của quý vị, đề tên Ông H. Potter. Quý vị có thể không biết rằng cha mẹ ruột của tôi, James Potter và Lily Potter (trước đây là Lily Evans) đã qua đời. Tôi được chị gái của Lily, Petunia Evans-Verres, và chồng của bà ấy, Michael Verres-Evans, nhận nuôi.*
 
-*Tôi cực kỳ quan tâm đến việc theo học tại Hogwarts, với điều kiện là một nơi như vậy thực sự tồn tại. Chỉ có mẹ tôi, bà Petunia, nói rằng bà biết về phép thuật, nhưng bà không tự mình sử dụng được. Bố tôi thì cực kỳ hoài nghi. Bản thân tôi thì chưa chắc chắn. tôi cũng không biết tìm mua những cuốn sách hay thiết bị liệt kê trong thư nhập học ở đâu.*
+*Tôi cực kỳ quan tâm đến việc theo học tại Hogwarts, với điều kiện một nơi như vậy thực sự tồn tại. Chỉ có mẹ tôi Petunia nói bà ấy biết về phép thuật, và bản thân bà ấy không thể sử dụng nó. Cha tôi rất hoài nghi. Bản thân tôi thì không chắc chắn. Tôi cũng không biết nơi để mua bất kỳ cuốn sách hoặc thiết bị nào được liệt kê trong thư chấp nhận của quý vị.*
 
-*Mẹ tôi có nhắc rằng bà đã cử một đại diện của Hogwarts đến gặp Lily Potter (khi đó là Lily Evans) để chứng minh cho gia đình dì ấy thấy rằng phép thuật là có thật, và tôi đoán là để giúp dì Lily mua sắm đồ dùng học tập. Nếu bà có thể làm điều này cho gia đình tôi, nó sẽ vô cùng hữu ích.*
+*Mẹ tôi đề cập rằng quý vị đã cử một đại diện của Hogwarts đến gặp Lily Potter (khi đó là Lily Evans) để chứng minh cho gia đình bà ấy rằng phép thuật là có thật, và, tôi đoán là, giúp Lily có được tài liệu học tập. Nếu quý vị có thể làm điều này cho gia đình tôi, điều đó sẽ cực kỳ hữu ích.*
 
 *Trân trọng,*
 
 *Harry James Potter-Evans-Verres.*
 
-Harry viết thêm địa chỉ hiện tại của họ, sau đó gấp lá thư lại và cho vào phong bì, đề gửi cho Hogwarts. Sau khi cân nhắc thêm, cậu đi lấy một cây nến và nhỏ sáp lên nắp phong bì, rồi dùng đầu con dao nhỏ ấn các chữ cái H.J.P.E.V lên đó. Nếu cậu sắp dấn thân vào sự điên rồ này, cậu sẽ thực hiện nó thật phong cách.
+Harry thêm địa chỉ hiện tại của họ, sau đó gấp thư lại và bỏ vào phong bì, cậu đề tên gửi đến Hogwarts. Suy nghĩ thêm khiến cậu lấy một cây nến và nhỏ sáp lên nắp phong bì, vào đó, cậu dùng đầu con dao nhỏ khắc các chữ cái đầu **H.J.P.E.V**. Nếu cậu sẽ lao vào sự điên rồ này, cậu sẽ làm nó với phong cách.
 
-Sau đó cậu mở cửa và đi xuống lầu. Bố cậu đang ngồi trong phòng khách đọc một cuốn sách toán học cao cấp để thể hiện mình thông minh; còn mẹ cậu đang ở trong bếp chuẩn bị một trong những món ăn yêu thích của bố để thể hiện mình yêu thương. Có vẻ như họ hoàn toàn không nói chuyện với nhau. Dù những cuộc tranh cãi có thể đáng sợ, nhưng việc không tranh cãi theo cách này còn tệ hơn nhiều.
+Rồi cậu mở cửa và đi xuống cầu thang. Bố cậu đang ngồi trong phòng khách và đọc một cuốn sách toán cao cấp để thể hiện mình thông minh thế nào; và mẹ cậu đang trong bếp chuẩn bị một trong những bữa ăn yêu thích của bố cậu để thể hiện bà yêu thương thế nào. Có vẻ như họ không hề nói chuyện với nhau. Dù các cuộc tranh cãi có thể đáng sợ thế nào, việc không tranh cãi bằng cách nào đó lại đáng lo hơn nhiều.
 
-"Mẹ," Harry nói vào bầu không khí im lặng đến rợn người, "con sẽ kiểm chứng giả thuyết. Theo lý thuyết của mẹ, làm thế nào để con gửi một con cú đến Hogwarts?"
+## 🔍 Diễn Giải Các Khái Niệm Quan Trọng
 
-Mẹ cậu quay lại từ bồn rửa bát nhìn cậu, vẻ sửng sốt. "Mẹ - mẹ không biết, mẹ nghĩ con chỉ cần sở hữu một con cú phép thuật thôi."
+Chương này giới thiệu một số khái niệm nền tảng về tư duy khoa học và lý trí trong bối cảnh hư cấu:
 
-Điều đó nghe có vẻ cực kỳ đáng nghi – *ồ, vậy là không có cách nào để kiểm chứng lý thuyết của mẹ sao* – nhưng sự chắc chắn kỳ lạ trong Harry dường như sẵn sàng mạo hiểm hơn nữa.
+1.  **Phương pháp Thực nghiệm (Experimental Method)**: Đây là cốt lõi của tư duy khoa học mà Harry đề xuất. Thay vì tranh cãi dựa trên niềm tin hoặc lý lẽ thuần túy, Harry khuyên nên **kiểm chứng trực tiếp**: mời một giáo sư Hogwarts đến trình diễn phép thuật. Quan sát thực tế sẽ là "trọng tài cuối cùng" để xác định tính đúng sai, loại bỏ thiên kiến cá nhân. Điều này phản ánh triết lý "chủ nghĩa duy nghiệm" (empiricism) trong khoa học.
 
-"Chà, lá thư đã đến đây bằng cách nào đó," Harry nói, "vậy nên con sẽ chỉ cần vẫy nó ra ngoài trời và gọi 'Thư cho Hogwarts!' rồi xem có con cú nào đến lấy không. Bố có muốn ra xem không?"
+2.  **Sự Chắc chắn Kỳ lạ & Cơ chế Tự Hoài nghi (Strange Certainty & Self-Skepticism)**: Harry trải nghiệm một niềm tin mãnh liệt, gần như trực giác rằng phép thuật là có thật, dù chưa có bằng chứng. Thay vì chấp nhận nó, cậu **tự vấn bản thân**: "Tại sao ta lại tin vào điều ta tin?" và "Đừng tin mọi thứ bạn nghĩ". Đây là kỹ thuật **siêu nhận thức (metacognition)** - suy nghĩ về chính quá trình suy nghĩ của mình - nhằm phát hiện và kiểm soát những thiên kiến tiềm ẩn, niềm tin vô căn cứ. Điều này thể hiện tinh thần hoài nghi lành mạnh, nền tảng của tư duy phản biện.
 
-Bố cậu lắc đầu nhẹ và tiếp tục đọc. *Tất nhiên rồi*, Harry tự nghĩ. Phép thuật là một thứ đáng xấu hổ mà chỉ những người ngu ngốc mới tin; nếu bố đi xa đến mức kiểm chứng giả thuyết, hoặc thậm chí là đứng xem nó được kiểm chứng, điều đó sẽ khiến ông cảm thấy như mình đang dây dưa với thứ đó...
+3.  **Tranh luận Vô hiệu & Giao tiếp Phi Lý tính (Ineffective Argument & Irrational Communication)**: Cuộc tranh cãi giữa Michael và Petunia là một ví dụ điển hình về **tranh luận không nhằm mục đích tìm ra sự thật**. Michael cố gắng dùng lý lẽ và sự coi thường ("phi khoa học nhất") để khiến Petunia cảm thấy ngu ngốc. Petunia thì cố gắng dùng cảm xúc và câu chuyện cá nhân để khiến Michael cảm thấy có lỗi. Cả hai đều phớt lờ giải pháp kiểm chứng thực tế mà Harry đưa ra. Điều này cho thấy khi cảm xúc và bản ngã chi phối, các cuộc tranh luận thường trở nên vô ích và không đi đến đâu, ngay cả giữa những người có học thức.
 
-Chỉ khi Harry bước ra cửa sau, tiến vào khu vườn phía sau, cậu mới chợt nảy ra ý nghĩ rằng nếu một con cú thực sự sà xuống và quắp lấy lá thư, cậu sẽ gặp rắc rối lớn khi kể cho bố nghe.
+## 📖 Tóm Tắt Nội Dung Chương 1
 
-Nhưng - chà - chuyện đó không thể thực sự xảy ra, đúng không? Bất kể bộ não mình dường như đang tin vào điều gì. Nếu một con cú thực sự sà xuống và giật lấy cái phong bì này, mình sẽ có những nỗi lo quan trọng hơn nhiều so với việc bố nghĩ gì.
+Chương 1 mở đầu với việc **Harry Potter (11 tuổi) nhận được thư mời nhập học từ Trường Hogwarts**. Điều này gây ra một **cuộc tranh cãi gay gắt giữa bố mẹ nuôi** của cậu:
+*   **Mẹ (Petunia)** khẳng định phép thuật có thật, dựa trên trải nghiệm cá nhân khi chị gái Lily (mẹ ruột Harry) dùng phép thuật giúp bà thay đổi ngoại hình.
+*   **Bố (Michael Verres, một giáo sư khoa học tại Oxford)** bác bỏ hoàn toàn, coi đó là sự mê tín phi lý và không thể kiểm chứng.
 
-Harry hít một hơi thật sâu và giơ chiếc phong bì lên không trung.
+Harry, một cậu bé được nuôi dạy trong môi trường coi trọng khoa học và lý trí, đã đề xuất một **giải pháp thực nghiệm**: thay vì tranh cãi, hãy làm như gia đình Lily ngày xưa - **mời một đại diện từ Hogwarts đến để trình diễn phép thuật trực tiếp**, từ đó xác minh sự thật. Tuy nhiên, đề nghị hợp lý này bị cả bố và mẹ phớt lờ, vì cuộc tranh luận của họ đã sa vào việc đổ lỗi và thể hiện cái tê hơn là tìm kiếm sự thật.
 
-Cậu nuốt nước bọt.
-
-Việc hét to "Thư cho Hogwarts!" trong khi giơ cao một chiếc phong bì giữa vườn nhà mình... thực sự khá là ngượng ngùng, giờ cậu mới thấy thế.
-
-*Không. Mình giỏi hơn bố. Mình sẽ sử dụng phương pháp khoa học ngay cả khi nó khiến mình cảm thấy ngu ngốc.*
-
-"Thư -" Harry nói, nhưng thực ra nó phát ra giống như một tiếng krắc thì thào hơn.
-
-Harry củng cố ý chí và hét vào bầu trời trống rỗng: "Thư cho Hogwarts! Có con cú nào ở đây không?"
-
-"Harry?" một giọng phụ nữ bối rối hỏi, đó là một trong những người hàng xóm.
-
-Harry rụt tay xuống như thể nó đang bốc cháy và giấu phong bì ra sau lưng như thể đó là tiền buôn ma túy. Cả khuôn mặt cậu nóng bừng vì xấu hổ.
-
-Khuôn mặt của một bà lão hiện ra từ phía trên hàng rào nhà hàng xóm, mái tóc xám xịt bù xù thò ra khỏi lưới bao tóc. Bà Figg, người thỉnh thoảng vẫn trông trẻ cho nhà cậu. "Cháu đang làm gì vậy, Harry?"
-
-"Không có gì ạ," Harry nói bằng giọng nghẹn ngào. "Chỉ là - đang kiểm chứng một lý thuyết rất ngớ ngẩn thôi ạ -"
-
-"Có phải cháu đã nhận được thư nhập học từ Hogwarts không?"
-
-Harry chết trân tại chỗ.
-
-"Vâng ạ," môi Harry mấp máy một lúc sau đó. "Cháu đã nhận được một lá thư từ Hogwarts. Họ nói họ muốn nhận cú của cháu trước ngày 31 tháng 7, nhưng -"
-
-"Nhưng cháu không có cú. Tội nghiệp thằng bé! Bà không thể tưởng tượng được người ta nghĩ gì mà lại chỉ gửi cho cháu một lá thư tiêu chuẩn như vậy."
-
-Một cánh tay nhăn nheo vươn ra khỏi hàng rào, mở rộng bàn tay chờ đợi. Lúc này Harry hầu như không còn suy nghĩ được gì nữa, cậu đưa phong bì của mình cho bà.
-
-"Cứ để đó cho bà, cháu yêu," bà Figg nói, "và chỉ trong loáng mắt thôi bà sẽ có người qua đây."
-
-Và khuôn mặt bà biến mất sau hàng rào.
-
-Có một khoảng lặng dài trong khu vườn.
-
-Sau đó, giọng một cậu bé vang lên, bình thản và lặng lẽ:
-
-"Cái gì thế này."
-
----
-
-## GIẢI THÍCH THUẬT NGỮ & KHÁI NIỆM
-
-* **Cold reading (Đọc nguội):** Đây là một kỹ thuật tâm lý học thường được các nhà ngoại cảm, thầy bói hoặc ảo thuật gia sử dụng. Bằng cách quan sát kỹ lưỡng ngôn ngữ cơ thể, cách ăn mặc, cách nói chuyện và phản hồi của đối phương, người thực hiện có thể đưa ra những phán đoán về quá khứ hoặc suy nghĩ của họ khiến đối phương tin rằng mình có khả năng ngoại cảm. Michael dùng thuật ngữ này để phủ định trải nghiệm của Petunia.
-* **Experimental method (Phương pháp thực nghiệm):** Cốt lõi của khoa học hiện đại. Thay vì chỉ tranh luận bằng logic hoặc niềm tin, người ta đưa ra giả thuyết và thiết kế các thí nghiệm để kiểm chứng giả thuyết đó. Nếu kết quả thực nghiệm trái với giả thuyết, giả thuyết đó bị loại bỏ. Harry dùng điều này để ngăn bố mẹ cãi nhau vô ích.
-* **The Feynman Lectures on Physics (Bài giảng Vật lý của Feynman):** Richard Feynman là một nhà vật lý học đoạt giải Nobel, nổi tiếng với khả năng giải thích các khái niệm phức tạp một cách đơn giản và trực diện. Việc Harry trích dẫn Feynman cho thấy trình độ kiến thức vượt xa độ tuổi mười của cậu.
-* **The final arbiter is observation (Trọng tài cuối cùng là sự quan sát):** Một nguyên tắc tri thức luận quan trọng. Dù một lý thuyết nghe có vẻ logic hay đẹp đẽ đến đâu, nếu kết quả quan sát thực tế (thực nghiệm) không khớp với nó, thì lý thuyết đó sai.
-* **Affordance (Tính gợi ý/Khả năng đáp ứng):** Một thuật ngữ trong tâm lý học thiết kế. "Afford" ở đây không phải là "có đủ khả năng tài chính" mà là đặc điểm hình dáng của một vật thể gợi ý cho con người cách sử dụng nó (ví dụ: cái núm xoay gợi ý việc xoay, tấm phẳng gợi ý việc đẩy). Harry đang quan sát thế giới thông qua lăng kính của tâm lý học hành vi.
+Cuối chương, **Harry tự viết thư phúc đáp lại Hogwarts**, yêu cầu được chứng kiến bằng chứng thực tế về phép thuật, đồng thời thể hiện sự hoài nghi và tư duy logic rõ rệt của mình. Chương truyện không chỉ giới thiệu bối cảnh mới khác biệt so với nguyên tác, mà quan trọng hơn là thiết lập **tính cách nhân vật chính: một Harry Potter với tư duy khoa học, lý trí, hoài nghi và quyết tâm kiểm chứng mọi thứ bằng phương pháp thực nghiệm**.

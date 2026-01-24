@@ -3,121 +3,127 @@
 
 #include "stddisclaimer.h"
 
-"Dĩ nhiên đó là lỗi của con rồi. Ở đây làm gì còn ai khác đủ trình độ để chịu trách nhiệm cho bất cứ việc gì cơ chứ."
-
-"Giờ thì, để cho rõ ràng," Harry nói, "thưa cha, nếu giáo sư thực sự làm cha bay lên, sau khi cha đã biết chắc là mình không hề bị buộc vào bất kỳ sợi dây nào, thì đó sẽ được coi là bằng chứng đầy đủ. Cha sẽ không được quay ngoắt lại rồi bảo rằng đó là một mánh khóe ảo thuật đâu đấy. Như thế là chơi không đẹp. Nếu cha cảm thấy thế, cha nên nói ra ngay bây giờ, và chúng ta có thể thiết kế một thí nghiệm khác thay thế."
-
-Cha của Harry, Giáo sư Michael Verres-Evans, đảo mắt. "Được rồi, Harry."
-
-"Và cả mẹ nữa, lý thuyết của mẹ nói rằng giáo sư có thể làm được việc này, và nếu điều đó không xảy ra, mẹ phải thừa nhận là mẹ đã sai. Không được viện cớ kiểu như ma thuật không hoạt động khi có người hoài nghi, hay đại loại thế."
-
-Phó Hiệu trưởng Minerva McGonagall đang quan sát Harry với vẻ mặt bối rối. Trông bà đậm chất phù thủy trong bộ áo choàng đen và chiếc mũ nhọn, nhưng khi bà cất lời, giọng bà lại trang trọng và đậm âm hưởng Scotland, một sự kết hợp chẳng ăn nhập gì với ngoại hình cả. Thoạt nhìn, bà giống như kiểu người sẽ cười khanh khách và ném trẻ con vào vạc dầu, nhưng toàn bộ ấn tượng đó tan thành mây khói ngay khi bà mở miệng. "Như vậy đã đủ chưa, trò Potter?" bà nói. "Ta bắt đầu biểu diễn được chứ?"
-
-"Đủ sao? Chắc là chưa đâu," Harry đáp. "Nhưng ít nhất nó cũng có ích. Mời bà, thưa Phó Hiệu trưởng."
-
-"Chỉ cần gọi Giáo sư là được rồi," bà nói, và sau đó: "*Wingardium Leviosa*."
-
-Harry nhìn cha mình.
-
-"Hừm," Harry thốt lên.
-
-Cha cậu nhìn lại cậu. "Hừm," cha cậu lặp lại.
-
-Rồi Giáo sư Verres-Evans nhìn lại Giáo sư McGonagall. "Được rồi, bà có thể đặt tôi xuống ngay bây giờ."
-
-Cha cậu được hạ xuống đất một cách cẩn thận.
-
-Harry vò rối mái tóc mình. Có lẽ đó chỉ là một phần kỳ lạ trong cậu vốn đã bị thuyết phục từ trước, nhưng... "Chuyện này hơi bị hụt hẫng (anticlimax) quá," Harry nói. "Người ta cứ nghĩ là phải có một sự kiện tinh thần chấn động hơn khi cập nhật niềm tin dựa trên một quan sát có xác suất cực nhỏ chứ —" Harry khựng lại. Mẹ cậu, bà phù thủy, và ngay cả cha cậu lại đang nhìn cậu bằng cái ánh mắt đó. "Ý con là, khi phát hiện ra rằng mọi thứ con tin tưởng bấy lâu đều là sai lầm."
-
-Nói nghiêm túc, chuyện này lẽ ra phải kịch tính hơn. Não bộ của cậu đáng lẽ phải thanh trừng toàn bộ kho giả thuyết hiện tại về vũ trụ, vốn chẳng có cái nào cho phép điều này xảy ra. Nhưng thay vào đó, não cậu dường như chỉ đang lầm bầm: *Được rồi, mình vừa thấy bà Giáo sư Hogwarts vẫy đũa phép và làm cha bay lên không trung, giờ thì sao nữa?*
-
-Người phụ nữ phù thủy mỉm cười nhân từ với họ, trông có vẻ khá thích thú. "Trò có muốn xem thêm một màn biểu diễn nữa không, trò Potter?"
-
-"Không nhất thiết đâu ạ," Harry nói. "Chúng ta đã thực hiện một thí nghiệm mang tính quyết định rồi. Nhưng..." Harry do dự. Cậu không thể kiềm chế được bản thân. Thực ra, trong hoàn cảnh này, cậu không nên kiềm chế. Tò mò là điều đúng đắn và chính đáng. "Bà còn có thể làm gì khác nữa?"
-
-Giáo sư McGonagall biến thành một con mèo.
-
-Harry lùi lại một cách vô thức, lùi nhanh đến mức vấp phải một chồng sách để vương vãi và ngã uỵch xuống sàn. Tay cậu chống xuống để đỡ nhưng không kịp điều chỉnh tư thế, và một cơn đau nhói cảnh báo ở vai khi toàn bộ trọng lượng cơ thể đổ dồn xuống mà không có sự chuẩn bị.
-
-Ngay lập tức, con mèo mướp nhỏ biến ngược trở lại thành người phụ nữ mặc áo choàng. "Ta xin lỗi, trò Potter," bà phù thủy nói, giọng chân thành, dù khóe môi bà đang khẽ giật giật vì nhịn cười. "Lẽ ra ta nên cảnh báo trò."
-
-Harry thở dốc từng hồi. Giọng cậu thốt ra nghẹn lại. "Bà không thể LÀM thế được!"
-
-"Đó chỉ là Biến hình (Transfiguration) thôi," Giáo sư McGonagall nói. "Chính xác là một quá trình biến hình Hóa thú (Animagus)."
-
-"Bà đã biến thành một con mèo! Một con mèo NHỎ! Bà đã vi phạm Định luật Bảo toàn Năng lượng! Đó không chỉ là một quy tắc tùy tiện, nó được suy ra từ dạng thức của toán tử Hamiltonian lượng tử! Phủ nhận nó sẽ phá hủy tính nhất thể (unitarity) và rồi bà sẽ có được các tín hiệu nhanh hơn ánh sáng (FTL signalling)! Và loài mèo rất PHỨC TẠP! Tâm trí con người không thể chỉ hình dung toàn bộ giải phẫu của một con mèo, và, và tất cả các phản ứng hóa sinh của mèo, còn về thần kinh học thì sao? Làm thế nào bà có thể tiếp tục tư duy bằng một bộ não kích cỡ mèo cơ chứ?"
-
-Khóe môi Giáo sư McGonagall giờ thì giật mạnh hơn hẳn. "Ma thuật."
-
-"Ma thuật thôi thì không đủ để làm điều đó! Bà phải là một vị thần mới đúng!"
-
-Giáo sư McGonagall chớp mắt. "Đây là lần đầu tiên ta được gọi như vậy đấy."
-
-Một màn sương mờ ảo bao phủ tầm nhìn của Harry, khi não bộ cậu bắt đầu thấu hiểu cái gì vừa mới đổ vỡ. Toàn bộ ý tưởng về một vũ trụ thống nhất với các định luật toán học quy luật, đó chính là thứ vừa bị dội xuống bồn cầu; toàn bộ khái niệm về vật lý. Ba nghìn năm giải mã những thứ phức tạp lớn lao thành những mảnh nhỏ hơn, khám phá ra rằng âm nhạc của các hành tinh cũng cùng một điệu nhạc với một quả táo rơi, nhận ra rằng các định luật thực sự là phổ quát hoàn hảo và không có ngoại lệ ở bất cứ đâu, mang hình thái của các công thức toán học đơn giản điều khiển những phần tử nhỏ nhất, chưa kể đến việc tâm trí chính là bộ não và bộ não được tạo nên từ các neuron, một bộ não chính là tất cả những gì tạo nên một con người —
-
-Và rồi một người phụ nữ biến thành một con mèo, thế là đi tong tất cả.
-
-Hàng trăm câu hỏi tranh giành quyền ưu tiên trên môi Harry và câu chiến thắng tuôn ra: "Và, và cái kiểu thần chú *Wingardium Leviosa* là cái gì vậy? Ai là người phát minh ra từ ngữ cho những câu chú này, mấy đứa trẻ mẫu giáo à?"
-
-"Đủ rồi đấy, trò Potter," Giáo sư McGonagall nói dứt khoát, dù mắt bà lấp lánh sự thích thú bị kìm nén. "Nếu trò muốn tìm hiểu về ma thuật, ta đề nghị chúng ta nên hoàn tất các thủ tục giấy tờ để trò có thể đến Hogwarts."
-
-"Phải rồi," Harry nói, hơi lờ đờ. Cậu xốc lại suy nghĩ của mình. Bước tiến của Lý trí sẽ phải bắt đầu lại từ đầu, vậy thôi; họ vẫn còn phương pháp thực nghiệm và đó mới là điều quan trọng. "Vậy, làm sao con đến được Hogwarts?"
-
-Một tiếng cười nghẹn ngào thoát ra từ Giáo sư McGonagall, như thể nó bị rút ra bởi một chiếc nhíp vậy.
-
-"Chờ một chút đã, Harry," cha cậu nói. "Con nhớ lý do tại sao cho đến giờ con vẫn chưa đi học chứ? Còn tình trạng của con thì sao?"
-
-Giáo sư McGonagall xoay người đối mặt với Michael. "Tình trạng của trò ấy? Chuyện gì vậy?"
-
-"Con ngủ không bình thường," Harry nói. Cậu vung tay bất lực. "Chu kỳ ngủ của con dài hai mươi sáu tiếng, con luôn đi ngủ muộn hơn hai tiếng mỗi ngày. Con không thể ngủ sớm hơn thế được, và rồi ngày hôm sau con lại ngủ muộn hơn hai tiếng nữa. 10 giờ tối, 12 giờ đêm, 2 giờ sáng, 4 giờ sáng, cho đến khi nó xoay đủ một vòng đồng hồ. Ngay cả khi con cố thức dậy sớm, nó cũng chẳng thay đổi được gì và con sẽ như một đống đổ nát suốt cả ngày hôm đó. Đó là lý do tại sao con không đến trường học bình thường cho tới tận bây giờ."
-
-"Một trong những lý do," mẹ cậu nói. Harry lườm bà một cái.
-
-McGonagall trầm ngâm một hồi lâu. "Ta không nhớ là đã nghe về tình trạng như vậy trước đây..." bà nói chậm rãi. "Ta sẽ kiểm tra với bà Pomfrey xem bà ấy có biết phương thuốc nào không." Rồi gương mặt bà bừng sáng. "Không, ta chắc chắn đây sẽ không phải là vấn đề — ta sẽ tìm ra giải pháp kịp lúc thôi. Giờ thì," và ánh mắt bà lại sắc sảo trở lại, "còn những lý do khác là gì?"
-
-Harry ném cho cha mẹ mình một cái lườm cháy máy. "Con là một người phản đối nghĩa vụ quân sự trẻ em vì lương tâm (conscientious objector), với lý do rằng con không việc gì phải chịu khổ vì sự thất bại của một hệ thống giáo dục đang rệu rã, nơi không cung cấp nổi giáo viên hay tài liệu học tập dù chỉ ở mức chất lượng tối thiểu."
-
-Cả cha và mẹ Harry đều cười phá lên khi nghe điều đó, cứ như thể họ nghĩ đó là một trò đùa lớn vậy. "Ồ," cha Harry nói, mắt sáng rực, "đó có phải là lý do con cắn giáo viên toán năm lớp ba không?"
-
-"Bà ta còn chẳng biết lôgarit là cái gì! "
-
-"Dĩ nhiên rồi," mẹ Harry tán thưởng. "Cắn bà ấy là một phản ứng rất trưởng thành cho việc đó."
-
-Cha Harry gật đầu. "Một chính sách được cân nhắc kỹ lưỡng để giải quyết vấn đề giáo viên không hiểu lôgarit."
-
-"Lúc đó con mới bảy tuổi! Cha mẹ định lôi chuyện đó ra nói đến bao giờ nữa?"
-
-"Mẹ biết mà," mẹ cậu nói đầy cảm thông, "con chỉ cần cắn một giáo viên toán và họ sẽ chẳng bao giờ để con quên được chuyện đó, đúng không?"
-
-Harry quay sang Giáo sư McGonagall. "Đấy! Bà thấy con đang phải đối phó với những gì chưa?"
-
-"Xin lỗi nhé," Petunia nói, và chạy vội ra cửa sau vào vườn, từ đó tiếng cười của bà có thể nghe thấy rõ mồn một.
-
-"Được rồi, hừm, được rồi," Giáo sư McGonagall dường như đang gặp khó khăn khi nói vì lý do nào đó, "sẽ không có chuyện cắn giáo viên ở Hogwarts đâu, chuyện đó đã rõ ràng chưa, trò Potter?"
-
-Harry hậm hực nhìn bà. "Được thôi, con sẽ không cắn bất cứ ai không cắn con trước."
-
-Giáo sư Michael Verres-Evans cũng phải rời khỏi phòng một lát sau khi nghe câu đó.
-
-"Chà," Giáo sư McGonagall thở dài, sau khi cha mẹ Harry đã trấn tĩnh lại và quay trở lại phòng. "Chà. Ta nghĩ, trong hoàn cảnh này, ta nên tránh đưa trò đi mua sắm đồ dùng học tập cho đến tận một hoặc hai ngày trước khi kỳ học bắt đầu."
-
-"Cái gì? Tại sao ạ? Những đứa trẻ khác đã biết ma thuật rồi, đúng không? Con phải bắt đầu đuổi kịp ngay lập tức!"
-
-"Hãy yên tâm, trò Potter," Giáo sư McGonagall trả lời, "Hogwarts hoàn toàn có khả năng dạy những điều cơ bản. Và ta nghi ngờ rằng, trò Potter ạ, nếu ta để trò một mình trong hai tháng với đống sách giáo khoa đó, ngay cả khi không có đũa phép, ta sẽ quay lại ngôi nhà này chỉ để thấy một hố bom nghi ngút khói tím, một thành phố hoang tàn bao quanh nó và một dịch bệnh ngựa vằn rực lửa đang khủng bố những gì còn sót lại của nước Anh."
-
-Cha và mẹ Harry gật đầu đồng thanh một cách hoàn hảo.
-
-"Mẹ! Cha! "
+---
+"Tất nhiên là lỗi của con. Ở đây không còn ai khác có thể chịu trách nhiệm cho bất cứ việc gì."
 
 ---
 
-## GIẢI THÍCH CÁC KHÁI NIỆM & THUẬT NGỮ
+"Giờ, để làm rõ," Harry nói, "nếu giáo sư thực sự làm cha bay lên, khi cha biết mình không bị buộc vào bất kỳ sợi dây nào, thì đó sẽ là bằng chứng đủ thuyết phục. Cha sẽ không quay ra nói rằng đó là trò ảo thuật. Như thế sẽ không công bằng. Nếu cha thực sự nghĩ vậy, cha nên nói ngay bây giờ, và chúng ta có thể nghĩ ra một thí nghiệm khác."
 
-Dưới đây là các diễn giải cho những khái niệm khoa học và thuật ngữ khó mà Harry đã sử dụng:
+Cha của Harry, Giáo sư Michael Verres-Evans, đảo mắt. "Được rồi, Harry."
 
-1. **Cập nhật niềm tin dựa trên quan sát có xác suất cực nhỏ (Updating on an observation of infinitesimal probability):** Đây là cách nói dựa trên **Định lý Bayes**. Trong lý tính, khi bạn thấy một sự việc xảy ra mà trước đó bạn tin là gần như không thể (xác suất ), bạn buộc phải điều chỉnh (cập nhật) toàn bộ hệ thống niềm tin của mình để phù hợp với bằng chứng mới.
-2. **Toán tử Hamiltonian lượng tử (Quantum Hamiltonian):** Trong cơ học lượng tử, Hamiltonian () là toán tử tương ứng với tổng năng lượng của hệ thống. Harry nhắc đến nó vì định luật bảo toàn năng lượng có mối liên hệ mật thiết với cấu trúc của Hamiltonian (thông qua định lý Noether).
-3. **Tính nhất thể (Unitarity):** Một nguyên lý cơ bản trong cơ học lượng tử đảm bảo rằng tổng xác suất của tất cả các kết quả có thể xảy ra luôn bằng 1. Nếu tính nhất thể bị phá vỡ, các định luật vật lý sẽ trở nên phi lý, dẫn đến khả năng truyền tin nhanh hơn ánh sáng (FTL - Faster Than Light), điều mà vật lý hiện đại coi là bất khả thi.
-4. **Chu kỳ ngủ 26 tiếng (26-hour sleep cycle):** Đây là một tình trạng có thật gọi là **Hội chứng thức - ngủ không đủ 24 giờ (Non-24-hour sleep-wake disorder)**. Người mắc hội chứng này có đồng hồ sinh học dài hơn 24 giờ, khiến giờ ngủ của họ bị đẩy lùi liên tục mỗi ngày, gây khó khăn cho việc hòa nhập với lịch trình xã hội thông thường.
-5. **Người phản đối lương tâm (Conscientious objector):** Thuật ngữ chính trị/quân sự chỉ những người từ chối thực hiện nghĩa vụ quân sự vì lý do đạo đức, tôn giáo hoặc niềm tin cá nhân. Harry dùng từ này để "nâng tầm" việc mình không muốn đi học ở những ngôi trường kém chất lượng.
-6. **Sự thất bại của hệ thống giáo dục/Lôgarit:** Chi tiết này cho thấy Harry có trình độ toán học vượt xa độ tuổi (biết lôgarit từ năm 7 tuổi) và luôn đòi hỏi sự khắt khe về tri thức từ người dạy.
+"Còn mẹ, theo giả thuyết của mẹ thì giáo sư phải làm được điều này, và nếu điều đó không xảy ra, mẹ sẽ thừa nhận mình sai. Không có chuyện phép thuật không hoạt động khi người ta nghi ngờ nó, hay đại loại thế."
+
+Hiệu phó Minerva McGonagall đang quan sát Harry với vẻ mặt hơi bối rối. Bà trông khá giống một phù thủy trong bộ áo choàng đen và chiếc mũ nhọn, nhưng khi nói, bà nghe trang trọng và mang giọng Scotland, hoàn toàn không hợp với vẻ ngoài ấy. Thoạt nhìn, bà trông như thể sẽ cười khành khạch rồi bỏ những đứa trẻ vào nồi, nhưng toàn bộ ấn tượng ấy tan biến ngay khi bà mở miệng. "Như vậy đã đủ chưa, Potter?" bà nói. "Tôi có nên tiếp tục và trình diễn không?"
+
+"Đủ ư? Có lẽ là chưa," Harry nói. "Nhưng ít nhất nó sẽ có ích. Hãy tiếp tục đi, thưa Hiệu phó."
+
+"Chỉ cần gọi là Giáo sư thôi," bà nói, và rồi, "*Wingardium Leviosa*."
+
+Harry nhìn cha mình.
+
+"Hử," Harry thốt lên.
+
+Cha cậu nhìn lại cậu. "Hử," người cha lặp lại.
+
+Rồi Giáo sư Verres-Evans nhìn lại Giáo sư McGonagall. "Được rồi, bà có thể đặt tôi xuống được rồi."
+
+Người cha được hạ xuống đất một cách cẩn thận.
+
+Harry dùng tay vuốt qua mái tóc của mình. Có lẽ chỉ là phần kỳ lạ trong con người cậu đã bị thuyết phục từ trước, nhưng... "Có vẻ hơi chống chếnh," Harry nói. "Người ta sẽ nghĩ phải có một sự kiện tinh thần nào đó kịch tính hơn liên quan đến việc cập nhật niềm tin sau một quan sát có xác suất cực kỳ nhỏ—" Harry dừng lại. Mẹ cậu, vị phù thủy, và cả cha cậu nữa đang lại nhìn cậu với ánh mắt ấy. "Ý con là, với việc phát hiện ra mọi điều con tin đều là sai."
+
+Nghiêm túc mà nói, lẽ ra nó phải kịch tính hơn. Bộ não của cậu lẽ ra phải xóa sạch toàn bộ kho giả thuyết hiện tại về vũ trụ, những thứ không hề cho phép điều này xảy ra. Nhưng thay vào đó, bộ não cậu dường như chỉ đang nói, *Được rồi, ta đã thấy Giáo sư Hogwarts vẫy đũa phép và khiến cha cậu bay lên, giờ thì sao?*
+
+Người phụ nữ phù thủy đang mỉm cười nhân từ với họ, trông khá thích thú. "Cháu có muốn một màn trình diễn khác không, Potter?"
+
+"Không cần đâu," Harry nói. "Chúng ta đã thực hiện một thí nghiệm xác định rồi. Nhưng mà..." Harry do dự. Cậu không thể kìm được. Thực ra, trong hoàn cảnh này, cậu không nên kìm mình. Tò mò là điều đúng đắn và hợp lý. "Bà còn có thể làm gì khác?"
+
+Giáo sư McGonagall biến thành một con mèo.
+
+Harry vô thức lùi lại vội vã, lùi nhanh đến mức vấp phải một chồng sách lộn xộn và ngã phịch xuống đất với một tiếng "bụp" đau điếng. Tay cậu chống xuống nhưng không kịp đỡ đúng cách, và có một cơn đau nhói cảnh báo ở vai khi toàn bộ trọng lượng cơ thể đổ xuống mà không có điểm tựa.
+
+Ngay lập tức, con mèo vằn nhỏ biến hình trở lại thành người phụ nữ mặc áo choàng. "Tôi xin lỗi, Potter," vị phù thủy nói, nghe có vẻ chân thành, mặc dù khóe môi bà đang giật giật. "Lẽ ra tôi nên cảnh báo trước."
+
+Harry thở hổn hển. Giọng cậu nghẹn lại. "Bà không thể LÀM thế được!"
+
+"Chỉ là Phép Biến Hình thôi mà," Giáo sư McGonagall nói. "Chính xác hơn là phép biến hình Animagus."
+
+"Bà đã biến thành một con mèo! Một con mèo NHỎ! Bà đã vi phạm Định luật Bảo toàn Năng lượng! Đó không chỉ là một quy tắc tùy ý, nó được ngụ ý từ dạng của Hamiltonian lượng tử! Phủ nhận nó sẽ phá hủy tính đơn nhất và rồi ta sẽ có tín hiệu siêu ánh sáng! Và mèo thì PHỨC TẠP! Một bộ não con người không thể chỉ hình dung toàn bộ giải phẫu của một con mèo, và, và tất cả sinh hóa của mèo, còn hệ thần kinh thì sao? Làm sao bà có thể tiếp tục suy nghĩ bằng một bộ não cỡ con mèo?"
+
+Khóe môi Giáo sư McGonagall giật mạnh hơn. "Phép thuật."
+
+"Phép thuật là không đủ để làm điều đó! Bà phải là một vị thần!"
+
+Giáo sư McGonagall chớp mắt. "Đây là lần đầu tiên tôi được gọi như vậy."
+
+Tầm nhìn của Harry trở nên mờ đi, khi bộ não cậu bắt đầu hiểu được thứ vừa bị phá vỡ. Toàn bộ ý tưởng về một vũ trụ thống nhất với các định luật toán học đều đặn, đó là thứ vừa bị xả xuống cống; toàn bộ khái niệm vật lý. Ba nghìn năm giải thích những thứ to lớn phức tạp thành những mảnh nhỏ hơn, khám phá ra rằng âm nhạc của các hành tinh cũng là giai điệu của quả táo rơi, nhận ra rằng các định luật đích thực là hoàn toàn phổ quát và không có ngoại lệ ở bất cứ đâu và mang dạng thức toán học đơn giản chi phối những phần tử nhỏ nhất, chưa kể đến việc tâm trí chính là bộ não và bộ não được tạo từ tế bào thần kinh, một bộ não chính là con người —
+
+Và rồi một người phụ nữ biến thành mèo, thế là xong toàn bộ những điều đó.
+
+Một trăm câu hỏi giành giật sự ưu tiên trên môi Harry và người chiến thắng tuôn ra: "Và, và loại câu thần chú nào là *Wingardium Leviosa*? Ai nghĩ ra những từ ngữ cho các câu thần chú này, lũ trẻ mẫu giáo à?"
+
+"Đủ rồi, Potter," Giáo sư McGonagall nói giòn giã, mặc dù đôi mắt bà sáng lên vì sự thích thú bị kìm nén. "Nếu cháu muốn học về phép thuật, tôi đề nghị chúng ta hoàn tất thủ tục giấy tờ để cháu có thể đến Hogwarts."
+
+"Phải," Harry nói, hơi choáng váng. Cậu tập trung suy nghĩ. Hành trình của Lý Trí sẽ phải bắt đầu lại từ đầu, chỉ vậy thôi; họ vẫn còn phương pháp thực nghiệm và đó mới là điều quan trọng. "Vậy làm thế nào để cháu đến được Hogwarts?"
+
+Một tiếng cười nghẹn ngào thoát ra từ Giáo sư McGonagall, như thể bị nhổ ra khỏi bà bằng cái kẹp.
+
+"Đợi một chút, Harry," cha cậu nói. "Con có nhớ tại sao cho đến giờ con vẫn chưa đi học không? Tình trạng của con thì sao?"
+
+Giáo sư McGonagall quay nhanh sang đối mặt với Michael. "Tình trạng của cậu ấy? Đây là gì vậy?"
+
+"Con ngủ không bình thường," Harry nói. Cậu vô vọng vẫy tay. "Chu kỳ ngủ của con dài 26 tiếng, con luôn đi ngủ muộn hơn hai tiếng mỗi ngày. Con không thể ngủ sớm hơn thế, và rồi ngày hôm sau con lại ngủ muộn hơn hai tiếng so với hôm đó. 10 giờ tối, 12 giờ đêm, 2 giờ sáng, 4 giờ sáng, cho đến khi nó quay vòng hết một ngày. Ngay cả khi con cố thức dậy sớm, nó cũng không thay đổi gì và con sẽ như một đống hỗn độn cả ngày hôm đó. Đó là lý do tại sao cho đến giờ con vẫn chưa đi học ở một trường bình thường."
+
+"Một trong những lý do," mẹ cậu nói. Harry liếc mẹ một cái đầy giận dữ.
+
+McGonagall kéo dài tiếng "Hmmmmmm". "Tôi không nhớ đã từng nghe về tình trạng như vậy trước đây..." bà nói chậm rãi. "Tôi sẽ hỏi bà Pomfrey để xem bà ấy có biết cách chữa nào không." Rồi mặt bà sáng lên. "Không, tôi chắc chắn đây sẽ không thành vấn đề — tôi sẽ tìm ra giải pháp kịp thời. Giờ thì," và ánh mắt bà lại trở nên sắc bén, "những lý do khác là gì vậy?"
+
+Harry liếc cha mẹ mình. "Con là người phản đối việc cưỡng bách trẻ em vì lương tâm, với lý do con không nên phải chịu đựng vì sự thất bại của một hệ thống giáo dục đang tan rã trong việc cung cấp giáo viên hoặc tài liệu học tập với chất lượng tối thiểu chấp nhận được."
+
+Cả cha lẫn mẹ Harry đều cười phá lên khi nghe thấy thế, như thể họ nghĩ đó là một trò đùa lớn. "Ồ," cha Harry nói, mắt sáng lên, "có phải đó là lý do tại sao con cắn một giáo viên toán hồi năm thứ ba không."
+
+"Cô ấy không biết lô-ga-rít là gì mà!"
+
+"Tất nhiên," mẹ Harry đồng tình. "Cắn cô ấy là một phản ứng rất trưởng thành với điều đó."
+
+Cha Harry gật đầu. "Một chính sách được cân nhắc kỹ lưỡng để giải quyết vấn đề giáo viên không hiểu lô-ga-rít."
+
+"Con mới bảy tuổi! Mọi người định nhắc đến chuyện đó đến bao giờ?"
+
+"Mẹ biết," mẹ cậu nói một cách thông cảm, "con chỉ cắn một giáo viên toán và họ không bao giờ để con quên điều đó, phải không?"
+
+Harry quay sang Giáo sư McGonagall. "Đấy! Bà thấy cháu phải đối phó với những gì chưa?"
+
+"Xin thứ lỗi," Petunia nói, và chạy vụt qua cửa sau ra vườn, từ đó tiếng cười hét của bà nghe rất rõ.
+
+"Đây, à, này," Giáo sư McGonagall dường như đang gặp chút khó khăn khi nói vì lý do nào đó, "sẽ không có việc cắn giáo viên ở Hogwarts, điều đó đã rõ chưa, Potter?"
+
+Harry nhăn mặt với bà. "Được rồi, cháu sẽ không cắn ai trừ khi họ cắn cháu trước."
+
+Giáo sư Michael Verres-Evans cũng phải rời khỏi phòng một lát sau khi nghe thấy điều đó.
+
+"Chà," Giáo sư McGonagall thở dài, sau khi cha mẹ Harry đã lấy lại bình tĩnh và trở lại. "Chà. Tôi nghĩ, trong hoàn cảnh này, tôi nên tránh đưa cháu đi mua tài liệu học tập cho đến một hoặc hai ngày trước khi trường bắt đầu."
+
+"Sao cơ? Tại sao? Lũ trẻ khác đã biết phép thuật rồi, phải không? Cháu phải bắt đầu bắt kịp ngay lập tức!"
+
+"Hãy yên tâm, Potter," Giáo sư McGonagall đáp, "Hogwarts hoàn toàn có khả năng dạy những điều cơ bản. Và tôi nghi ngờ, Potter, rằng nếu tôi để cháu một mình trong hai tháng với sách giáo khoa, ngay cả khi không có đũa phép, tôi sẽ trở lại ngôi nhà này chỉ để thấy một cái hố to khói tím cuồn cuộn, một thành phố vắng người bao quanh và một trận dịch ngựa vằn rực lửa khủng bố những gì còn sót lại của nước Anh."
+
+Mẹ và cha của Harry gật đầu đồng thanh.
+
+"Mẹ! Cha!"
+
+---
+
+## 📚 Giải thích thuật ngữ & khái niệm
+
+- **Định luật Bảo toàn Năng lượng**: Một định luật vật lý cơ bản nói rằng năng lượng không tự sinh ra hoặc mất đi, nó chỉ chuyển từ dạng này sang dạng khác. Việc McGonagall biến từ một con người (khối lượng lớn, năng lượng lớn) thành một con mèo nhỏ (khối lượng nhỏ hơn) mà không giải thích được năng lượng thừa/thiếu đi đâu đã vi phạm trực tiếp định luật này trong hiểu biết khoa học của Harry.
+- **Hamiltonian lượng tử & Tính đơn nhất (Unitarity)**: Trong cơ học lượng tử, Hamiltonian là một toán tử mô tả tổng năng lượng của hệ. Tính đơn nhất là một tính chất toán học bảo toàn xác suất (tổng xác suất của mọi kết quả luôn bằng 1). Harry lập luận rằng vi phạm bảo toàn năng lượng sẽ phá vỡ tính đơn nhất, dẫn đến những hệ quả phi lý về mặt vật lý lý thuyết như **tín hiệu siêu ánh sáng (FTL signalling)**, tức là khả năng truyền thông tin nhanh hơn ánh sáng, điều bị coi là bất khả thi trong vật lý hiện đại (thuyết tương đối).
+- **Cập nhật niềm tin sau một quan sát có xác suất cực kỳ nhỏ**: Đây là ngôn ngữ của **lý thuyết xác suất Bayes**. Harry mô tả việc chứng kiến phép thuật (một sự kiện mà trước đó cậu coi là gần như không thể xảy ra) nên dẫn đến một sự "cập nhật" lớn lao, đảo lộn toàn bộ "mô hình thế giới" (hệ thống niềm tin) của cậu. Cậu trông đợi một cảm giác sốc tư duy mãnh liệt hơn, nhưng bộ não lại phản ứng một cách đơn giản và thực dụng.
+- **Animagus**: Một thuật ngữ trong thế giới Harry Potter, chỉ một phù thủy có khả năng biến đổi thành một con vật cụ thể một cách có chủ ý. Sự biến hình này là hoàn hảo, bao gồm cả quần áo (biến thành lông/thú). Trong truyện gốc, đây là một phép thuật phức tạp và hiếm.
+- **Phép Biến Hình (Transfiguration)**: Một môn học tại Hogwarts, dạy cách thay đổi hình dạng và bản chất của đồ vật hoặc sinh vật.
+
+## ✨ Tóm tắt chương
+
+Chương này ghi lại khoảnh khắc Harry Potter chính thức đối mặt với thực tế về phép thuật. Sau một thí nghiệm đơn giản (phép **Làm Bay Lên**), Harry và cha cậu buộc phải chấp nhận sự tồn tại của phép thuật. Tuy nhiên, phản ứng của Harry không phải là sự kinh ngạc thuần túy mà là một **cuộc khủng hoảng về nhận thức khoa học**. Khi Giáo sư McGonagall biến thành mèo (phép **Animagus**), toàn bộ nền tảng vật lý và cách hiểu vũ trụ dựa trên các định luật toán học thống nhất của Harry bị sụp đổ hoàn toàn. Cậu lập tức chất vấn về các nguyên tắc khoa học cốt lõi như bảo toàn năng lượng và độ phức tạp của sinh học thần kinh.
+
+Chương cũng hé lộ tính cách của Harry: một **đứa trẻ thiên tài với tư duy cực kỳ duy lý**, có chu kỳ ngủ khác thường (26 giờ), và từng có thành tích "cắn giáo viên" do bất mãn với hệ thống giáo dục thông thường. Cuộc đối thoại giữa cậu và McGonagall pha trộn giữa sự nghiêm túc khoa học và sự hài hước mỉa mai, trong khi phản ứng của cha mẹ nuôi (Michael và Petunia) cho thấy họ đã quen với và thích thú trước cách suy nghĩ khác thường của con trai. Cuối cùng, McGonagall quyết định sẽ chỉ đưa Harry đi mua sắm đồ dùng học tập vào phút chót, vì lo ngại nếu để cậu tự nghiên cứu sách vở phép thuật quá lâu, cậu có thể gây ra thảm họa.

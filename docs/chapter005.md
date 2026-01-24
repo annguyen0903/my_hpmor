@@ -1,199 +1,231 @@
-**CHƯƠNG 5: LỖI QUY KẾT CƠ BẢN**
+**Chương 5: Sai lầm Quy kết Cơ bản**
 
-J. K. Rowling đang nhìn chằm chằm vào bạn đấy. Bạn có cảm thấy ánh mắt bà ấy không? Bà ấy đang đọc tâm trí bạn bằng Tia-Rowling của mình.
+J. K. Rowling đang chằm chằm nhìn bạn. Bạn có cảm thấy ánh mắt của bà ấy không? Bà ấy đang đọc tâm trí bạn bằng "Tia Rowling" của mình đấy.
 
-*"Để cậu ta có được đạo đức của ông trong môi trường sống của cậu ta, thì cần phải có sự can thiệp của siêu nhiên."*
+*"Sẽ cần đến một sự can thiệp siêu nhiên thì nó mới có được đạo đức của **ngươi** trong cái môi trường của **nó**."*
 
-Cửa hàng Da Moke là một cửa tiệm nhỏ nhắn, cổ kính (vài người thậm chí sẽ nói là dễ thương) nằm nép mình sau một sạp rau củ, sạp rau đó lại nằm sau một cửa hàng găng tay pháp thuật, tọa lạc trong một con hẻm nhỏ rẽ nhánh từ đường chính của Hẻm Xéo. Đáng thất vọng là chủ tiệm không phải là một bà lão phù thủy nhăn nheo cổ quái; mà chỉ là một người phụ nữ trẻ trông có vẻ lo lắng, mặc bộ áo chùng màu vàng úa. Hiện tại, cô đang đưa ra một chiếc Túi Siêu Cấp Da Moke QX31, với ưu điểm bán hàng là có "Miệng Túi Mở Rộng" cũng như Bùa Nới Rộng Không Gian Không Thể Phát Hiện: bạn thực sự có thể nhét những vật lớn vào trong đó, dù tổng thể tích vẫn bị giới hạn.
+Cửa hàng Moke là một tiệm nhỏ cổ kính (vài người thậm chí sẽ nói là dễ thương) nép mình sau một sạp rau củ, sạp này lại nằm sau một cửa hàng găng tay pháp thuật trên một con hẻm nhỏ rẽ ra từ một con phố phụ của Hẻm Xéo. Đáng thất vọng là chủ tiệm không phải một mụ phù thủy già nua nhăn nheo; mà chỉ là một người phụ nữ trẻ có vẻ lo lắng trong bộ áo chùng vàng bạc màu. Ngay lúc này, cô ấy đang đưa ra một chiếc Túi Da Moke Siêu Cấp QX31, với điểm bán hàng độc nhất là nó có "Vành Mở Rộng" cũng như "Bùa Nới Rộng Không Thể Phát Hiện": bạn thực sự có thể nhét những thứ lớn vào trong đó, mặc dù tổng thể tích vẫn có giới hạn.
 
-Harry đã khăng khăng đòi đến đây ngay lập tức, việc đầu tiên cần làm – khăng khăng quyết liệt đến mức cậu nghĩ mình suýt nữa đã khiến Giáo sư McGonagall nghi ngờ. Harry có thứ cần phải tống vào túi càng sớm càng tốt. Đó không phải là túi vàng Galleon mà Giáo sư McGonagall đã cho phép cậu rút từ Gringotts. Mà là tất cả những đồng Galleon khác mà Harry đã lén lút nhét vào túi sau khi "vô tình" ngã vào đống tiền vàng. Đó thực sự là một tai nạn, nhưng Harry chưa bao giờ là kẻ bỏ lỡ cơ hội... dù thực ra nó giống một hành động bộc phát hơn. Kể từ lúc đó, Harry đã phải di chuyển một cách vụng về, giữ túi vàng được phép rút ngay sát túi quần để bất kỳ tiếng leng keng nào cũng có vẻ như phát ra từ đúng chỗ.
+Harry đã **khăng khăng** đòi đến đây ngay lập tức, việc đầu tiên cần làm – khăng khăng kịch liệt đến mức cậu nghĩ mình có thể mà không khiến Giáo sư McGonagall nghi ngờ. Harry có thứ cần phải cho vào túi càng sớm càng tốt. Đó không phải là túi Galleon mà Giáo sư McGonagall đã cho phép cậu rút từ Gringotts. Mà là tất cả những đồng Galleon khác mà Harry đã lén lút nhét vào túi sau khi ngã nhào vào đống tiền vàng. Đó **thực sự** là một tai nạn, nhưng Harry chưa bao giờ là người bỏ lỡ cơ hội... mặc dù thực tế nó giống như một hành động bột phát hơn. Kể từ đó, Harry đã phải khéo léo mang cái túi Galleon "hợp pháp" ngay sát túi quần, để bất kỳ tiếng leng keng nào phát ra cũng có vẻ như đến từ đúng chỗ.
 
-Vấn đề còn lại là làm thế nào để cậu tống đống tiền kia vào túi mà không bị bắt quả tang. Đống tiền vàng đó có thể là của cậu, nhưng chúng vẫn là đồ ăn trộm – tự trộm đồ của mình? Tự-đạo-tặc?
+Vấn đề còn lại là làm thế nào để cậu thực sự cho số tiền **kia** vào túi mà không bị bắt quả tang. Những đồng tiền vàng đó có thể là của cậu, nhưng chúng vẫn là đồ trộm được – tự trộm? Tự đạo tặc?
 
-Harry ngước nhìn chiếc Túi Siêu Cấp Da Moke QX31 trên quầy. "Con có thể thử nó một chút không? Để đảm bảo nó hoạt động, ừm, ổn định?" Cậu mở to mắt với biểu cảm ngây thơ, tinh nghịch của một đứa trẻ.
+Harry ngước nhìn lên từ chiếc Túi Da Moke Siêu Cấp QX31 trên quầy trước mặt. "Con có thể thử cái này một chút không ạ? Để đảm bảo nó hoạt động, ừm, tin cậy?" Cậu mở to mắt với vẻ ngây thơ, tinh nghịch của một đứa trẻ.
 
-Quả nhiên, sau mười lần lặp lại thao tác bỏ túi vàng vào, thò tay vào, thì thầm "túi vàng", và lấy nó ra, Giáo sư McGonagall bước lùi lại một bước và bắt đầu xem xét các món đồ khác trong tiệm, còn cô chủ tiệm thì quay đầu đi chỗ khác.
+Quả nhiên, sau mười lần lặp lại việc cho túi tiền vào, thò tay vào, thì thầm "túi vàng", và lấy nó ra, Giáo sư McGonagall đã lùi lại một bước và bắt đầu xem xét một số vật phẩm khác trong cửa hàng, và cô chủ tiệm cũng quay đầu sang chỗ khác để quan sát.
 
-Harry thả túi vàng vào túi da moke bằng tay trái; tay phải cậu rút ra từ túi quần, nắm chặt một nắm tiền vàng, thò vào túi da moke, thả đống Galleon rời rạc đó xuống, và (với một tiếng thì thầm "túi vàng") rút ra chiếc túi ban đầu. Sau đó chiếc túi lại quay về tay trái để được thả vào lần nữa, và tay phải Harry lại thọc vào túi quần...
+Harry thả túi vàng vào túi da moke bằng tay **trái**; tay **phải** cậu rút ra khỏi túi quần, nắm chặt một số đồng tiền vàng, thò vào túi da moke, thả đống Galleon lẻ ra, và (với một tiếng thì thầm "túi vàng") lấy lại cái túi ban đầu. Sau đó túi vàng lại được chuyển sang tay trái để thả vào lần nữa, và tay phải của Harry lại thò vào túi quần...
 
-Giáo sư McGonagall nhìn lại cậu một lần, nhưng Harry đã kịp giữ mình không bị đóng băng hay giật mình, và bà dường như không nhận ra điều gì. Dù rằng bạn không bao giờ thực sự biết chắc được với những người lớn có khiếu hài hước. Mất ba lượt để hoàn tất công việc, và Harry đoán mình đã xoay xở "tự trộm" được khoảng ba mươi đồng Galleon.
+Giáo sư McGonagall có nhìn lại một lần, nhưng Harry đã kịp không đóng băng hay nao núng, và cô ấy dường như không nhận ra điều gì. Dù vậy, bạn chẳng bao giờ thực sự biết chắc được với những người lớn có khiếu hài hước. Phải mất ba lần lặp lại mới xong việc, và Harry đoán cậu đã xoay xở "trộm" được khoảng ba mươi đồng Galleon từ chính mình.
 
-Harry đưa tay lên quệt chút mồ hôi trên trán và thở phào. "Con lấy cái này ạ."
+Harry đưa tay lên, lau chút mồ hôi trên trán và thở phào. "Con lấy cái này ạ."
 
-Nhẹ đi mười lăm đồng Galleon (hình như đắt gấp đôi một cây đũa phép phù thủy) và nặng thêm một chiếc Túi Siêu Cấp Da Moke QX31, Harry và Giáo sư McGonagall lách người ra khỏi cửa. Cánh cửa tự tạo thành một bàn tay và vẫy chào khi họ rời đi, cánh tay đó thòi ra theo cách khiến Harry cảm thấy hơi buồn nôn.
+Nhẹ đi mười lăm đồng Galleon (hình như đắt gấp đôi một cây đũa phép) và nặng thêm một chiếc Túi Da Moke Siêu Cấp QX31, Harry và Giáo sư McGonagall lách mình ra khỏi cửa. Cánh cửa tạo hình một bàn tay và vẫy chào tạm biệt khi họ rời đi, cánh tay nó thò ra theo cách khiến Harry cảm thấy hơi buồn nôn.
 
-Và rồi, không may thay...
+Và rồi, thật không may...
 
-"Cậu thực sự là Harry Potter sao?" một ông lão thầm thì, một giọt nước mắt lớn lăn dài trên má. "Cậu sẽ không nói dối về chuyện đó chứ? Chỉ là tôi nghe tin đồn rằng cậu không thực sự sống sót sau Lời nguyền Giết chóc và đó là lý do tại sao không ai nghe tin tức gì về cậu nữa."
+"Cháu thực sự là Harry Potter sao?" một ông lão thì thầm, một giọt lệ lớn lăn dài trên má. "Cháu sẽ không nói dối về chuyện đó chứ? Chỉ là ta đã nghe tin đồn rằng cháu không thực sự sống sót sau Lời nguyền Chết chóc và đó là lý do tại sao không ai nghe tin gì về cháu nữa."
 
-...có vẻ như bùa ngụy trang của Giáo sư McGonagall không hoàn toàn hiệu quả trước những người thực hành pháp thuật dày dạn kinh nghiệm.
+...có vẻ như bùa ngụy trang của Giáo sư McGonagall không hoàn toàn hiệu quả trước những pháp sư dày dặn kinh nghiệm.
 
-Giáo sư McGonagall đặt một tay lên vai Harry và lôi cậu vào con hẻm gần nhất ngay khi bà nghe thấy tiếng "Harry Potter?". Ông lão đi theo, nhưng ít nhất có vẻ như không ai khác nghe thấy.
+Giáo sư McGonagall đã đặt tay lên vai Harry và kéo cậu vào con hẻm gần nhất ngay khoảnh khắc cô nghe thấy "Harry Potter?". Ông lão đã đi theo, nhưng ít nhất có vẻ như không ai khác nghe thấy.
 
-Harry cân nhắc câu hỏi. Cậu có thực sự là Harry Potter không? "Con chỉ biết những gì người khác nói với con," Harry đáp. "Không phải con nhớ được lúc mình sinh ra." Tay cậu chạm vào vết sẹo trên trán. "Con có vết sẹo này từ khi còn nhớ được, và con được bảo tên mình là Harry Potter cũng từ khi còn nhớ được. Nhưng," Harry trầm ngâm nói, "nếu đã có đủ cơ sở để giả định một âm mưu, thì chẳng có lý do gì họ không tìm một đứa trẻ mồ côi khác và nuôi dạy nó tin rằng nó chính là Harry Potter—"
+Harry cân nhắc câu hỏi. Liệu cậu có **thực sự** là Harry Potter? "Con chỉ biết những gì người khác nói với con thôi ạ," Harry nói. "Không phải là con nhớ được lúc mình sinh ra." Tay cậu quệt qua vết sẹo trên trán. "Con đã có vết sẹo này từ lúc có ký ức, và con được bảo tên mình là Harry Potter cũng từ lúc có ký ức. Nhưng," Harry suy nghĩ nói, "nếu đã có đủ căn cứ để giả định một âm mưu, thì chẳng có lý do gì họ không tìm một đứa trẻ mồ côi khác và nuôi dạy nó để nó tin rằng **nó** chính là Harry Potter —"
 
-Giáo sư McGonagall đưa tay lên mặt trong sự bực bội. "Trông con gần như đúc từ khuôn của cha con, James, vào năm đầu tiên cậu ấy nhập học Hogwarts. Và ta có thể chứng thực dựa trên tính cách thôi cũng đủ thấy con có liên quan đến cái 'Tai ương của nhà Gryffindor' đó."
+Giáo sư McGonagall đưa tay lên mặt trong sự bực bội. "Trông con gần như chính xác như cha con, James, vào năm đầu tiên ông ấy học tại Hogwarts. Và ta có thể chứng thực dựa trên **tính cách thôi cũng đủ** rằng con có họ hàng với 'Tai ương của nhà Gryffindor'."
 
-"Bà ấy cũng có thể là một phần của âm mưu," Harry nhận xét.
+"Cô ấy cũng có thể nằm trong âm mưu đó," Harry nhận xét.
 
-"Không," ông lão run rẩy nói. "Cô ấy nói đúng. Cậu có đôi mắt của mẹ mình."
+"Không," ông lão run rẩy nói. "Cô ấy nói đúng. Cháu có đôi mắt của mẹ cháu."
 
-"Hừm," Harry cau mày. "Tôi đoán là ông cũng có thể là một phần của âm mưu—"
+"Hừm," Harry cau mày. "Tôi đoán là **ông** cũng có thể nằm trong âm mưu đó —"
 
-"Đủ rồi, cậu Potter."
+"Đủ rồi, trò Potter."
 
-Ông lão giơ tay lên định chạm vào Harry, nhưng rồi lại buông xuống. "Tôi chỉ vui vì cậu còn sống," ông lẩm bẩm. "Cảm ơn cậu, Harry Potter. Cảm ơn vì những gì cậu đã làm... Tôi sẽ để cậu yên."
+Ông lão giơ tay lên như muốn chạm vào Harry, nhưng rồi lại hạ xuống. "Ta chỉ vui vì cháu còn sống," ông lẩm bẩm. "Cảm ơn cháu, Harry Potter. Cảm ơn vì những gì cháu đã làm... Ta sẽ để cháu yên."
 
-Và cây gậy của ông chậm rãi gõ xuống mặt đường, đi ra khỏi con hẻm và hướng về đường chính của Hẻm Xéo.
+Và tiếng gậy của ông chậm rãi gõ xuống đường, ra khỏi con hẻm và đi xuống phố chính của Hẻm Xéo.
 
-Giáo sư nhìn quanh, vẻ mặt căng thẳng và nghiêm nghị. Harry cũng nhìn quanh theo bản năng. Nhưng con hẻm dường như trống không, chỉ có những lá khô, và từ miệng hẻm dẫn ra Hẻm Xéo, chỉ thấy những người qua đường đang bước đi hối hả.
+Vị Giáo sư nhìn quanh, vẻ mặt căng thẳng và nghiêm nghị. Harry cũng tự động nhìn quanh. Nhưng con hẻm dường như trống rỗng ngoại trừ những chiếc lá khô, và từ miệng hẻm dẫn ra Hẻm Xéo, chỉ có thể thấy những người qua đường đang bước đi vội vã.
 
-Cuối cùng, Giáo sư McGonagall có vẻ thư giãn hơn. "Việc vừa rồi không được hay cho lắm," bà nói khẽ. "Ta biết con không quen với việc này, cậu Potter, nhưng mọi người thực sự quan tâm đến con. Làm ơn hãy tử tế với họ."
+Cuối cùng, Giáo sư McGonagall dường như đã thư giãn. "Làm vậy không hay chút nào," cô nói khẽ. "Ta biết con không quen với việc này, trò Potter, nhưng mọi người thực sự quan tâm đến con. Làm ơn hãy tử tế với họ."
 
-Harry nhìn xuống giày mình. "Họ không nên như vậy," cậu nói với một chút cay đắng. "Quan tâm đến con, ý con là vậy."
+Harry nhìn xuống giày của mình. "Họ không nên," cậu nói với một chút cay đắng. "Quan tâm đến con, ý con là vậy."
 
-"Con đã cứu họ khỏi Kẻ-mà-ai-cũng-biết-là-ai-đấy," Giáo sư McGonagall nói. "Làm sao họ có thể không quan tâm?"
+"Con đã cứu họ khỏi Kẻ-Mà-Ai-Cũng-Biết-Là-Ai-Đấy," Giáo sư McGonagall nói. "Làm sao họ có thể không quan tâm?"
 
-Harry ngước nhìn vẻ mặt nghiêm nghị của quý bà phù thủy dưới chiếc mũ nhọn, và thở dài. "Con đoán là dù con có nói 'lỗi quy kết cơ bản', bà cũng chẳng hiểu con đang nói cái gì đâu nhỉ."
+Harry ngước nhìn vẻ mặt nghiêm nghị của bà phù thủy dưới chiếc mũ nhọn và thở dài. "Con đoán là nếu con nói **sai lầm quy kết cơ bản** thì cô sẽ không biết nó nghĩa là gì đâu nhỉ."
 
-"Không," Giáo sư đáp bằng giọng Scotland chuẩn xác, "nhưng làm ơn hãy giải thích đi, cậu Potter, nếu cậu đủ tử tế."
+"Không," Giáo sư nói bằng giọng Scotland chuẩn xác, "nhưng làm ơn hãy giải thích đi, trò Potter, nếu con có lòng tốt."
 
-"Chà..." Harry nói, cố gắng tìm cách mô tả mảng khoa học Muggle cụ thể đó. "Giả sử bà đi làm và thấy đồng nghiệp của mình đang đá vào cái bàn làm việc. Bà sẽ nghĩ, 'anh ta hẳn là một kẻ nóng nảy biết bao'. Còn đồng nghiệp của bà thì lại đang nghĩ về việc có ai đó đã xô anh ta vào tường trên đường đi làm rồi còn mắng nhiếc anh ta nữa. Ai mà chẳng nổi khùng vì chuyện đó chứ, anh ta nghĩ vậy. Khi chúng ta nhìn vào người khác, chúng ta nhìn thấy những đặc điểm tính cách để giải thích hành vi của họ, nhưng khi chúng ta nhìn vào chính mình, chúng ta thấy các hoàn cảnh để giải thích hành vi của mình. Câu chuyện của mỗi người đều có ý nghĩa nội tại đối với họ, từ góc nhìn bên trong, nhưng chúng ta không nhìn thấy lịch sử của người khác lơ lửng trên không trung phía sau họ. Chúng ta chỉ thấy họ trong một tình huống nhất định, và chúng ta không thấy họ sẽ như thế nào trong một tình huống khác. Vậy nên, lỗi quy kết cơ bản là việc chúng ta dùng các đặc điểm tính cách lâu dài, bền vững để giải thích cho những thứ lẽ ra nên được giải thích bằng hoàn cảnh và bối cảnh." Có một số thí nghiệm tinh vi đã xác nhận điều này, nhưng Harry không định đi sâu vào chúng.
+"À thì..." Harry nói, cố gắng tìm cách mô tả mẩu khoa học Muggle cụ thể đó. "Giả sử cô đi làm và thấy đồng nghiệp đang đá vào bàn làm việc của anh ta. Cô sẽ nghĩ, 'anh ta hẳn là một người nóng nảy biết bao'. Còn đồng nghiệp của cô thì đang nghĩ về việc có ai đó đã xô anh ta vào tường trên đường đi làm và sau đó còn quát mắng anh ta. **Bất kỳ ai** cũng sẽ nổi giận vì điều đó, anh ta nghĩ vậy. Khi chúng ta nhìn vào người khác, chúng ta thấy các đặc điểm tính cách để giải thích hành vi của họ, nhưng khi nhìn vào chính mình, chúng ta thấy các hoàn cảnh để giải thích hành vi của mình. Câu chuyện của mỗi người đều có tính hợp lý nội tại đối với chính họ, từ bên trong, nhưng chúng ta không thấy lịch sử của người khác lơ lửng trên không trung phía sau họ. Chúng ta chỉ thấy họ trong một tình huống, và không thấy họ sẽ như thế nào trong một tình huống khác. Vì vậy, sai lầm quy kết cơ bản là việc chúng ta giải thích bằng những đặc điểm tính cách lâu dài, bền vững cho những thứ vốn dĩ được giải thích tốt hơn bởi hoàn cảnh và bối cảnh." Có một số thí nghiệm tao nhã đã xác nhận điều này, nhưng Harry không định đi sâu vào chúng.
 
-Đôi lông mày của vị phù thủy nhướng lên dưới vành mũ. "Ta nghĩ là ta hiểu rồi..." Giáo sư McGonagall chậm rãi nói. "Nhưng chuyện đó thì có liên quan gì đến con?"
+Đôi lông mày của bà phù thủy nhướng lên dưới vành mũ. "Ta nghĩ ta hiểu rồi..." Giáo sư McGonagall nói chậm rãi. "Nhưng điều đó thì có liên quan gì đến con?"
 
-Harry đá mạnh vào bức tường gạch của con hẻm đến mức chân cậu phát đau. "Mọi người nghĩ rằng con cứu họ khỏi Kẻ-mà-ai-cũng-biết-là-ai-đấy bởi vì con là một kiểu chiến binh vĩ đại của Ánh sáng nào đó."
+Harry đá mạnh vào bức tường gạch của con hẻm đến mức làm chân cậu đau nhói. "Mọi người nghĩ rằng con cứu họ khỏi Kẻ-Mà-Ai-Cũng-Biết-Là-Ai-Đấy vì con là một loại chiến binh vĩ đại của Ánh sáng nào đó."
 
-"Người có quyền năng đánh bại Chúa tể Hắc ám..." vị phù thủy lẩm bẩm, một sự mỉa mai kỳ lạ phảng phất trong giọng nói.
+"Người có quyền năng đánh bại Chúa tể Hắc ám..." vị phù thủy lẩm bẩm, một sự mỉa mai kỳ lạ thấm đượm trong giọng nói.
 
-"Đúng vậy," Harry nói, sự khó chịu và thất vọng đấu tranh trong cậu, "giống như kiểu con đã tiêu diệt Chúa tể Hắc ám vì con có một đặc điểm tính cách lâu dài, bền vững là 'kẻ-diệt-Chúa-tể-Hắc-ám' vậy. Lúc đó con mới mười lăm tháng tuổi! Con không biết chuyện gì đã xảy ra, nhưng con đoán nó có liên quan đến, như người ta thường nói, các tình huống môi trường ngẫu nhiên. Và chắc chắn chẳng liên quan gì đến tính cách của con cả. Mọi người không quan tâm đến con, họ thậm chí còn chẳng chú ý đến con, họ chỉ muốn bắt tay với một lời giải thích tồi tệ." Harry dừng lại, nhìn McGonagall. "Bà có biết chuyện gì thực sự đã xảy ra không?"
+"Vâng," Harry nói, sự khó chịu và thất vọng đang đấu tranh trong cậu, "như kiểu con tiêu diệt Chúa tể Hắc ám vì con có một loại đặc điểm 'tiêu-diệt-Chúa-tể-Hắc-ám' lâu dài và bền vững nào đó. Lúc đó con mới mười lăm tháng tuổi! Con không **biết** chuyện gì đã xảy ra, nhưng con **đoán** là nó có liên quan đến, như người ta vẫn nói, các tình huống môi trường ngẫu nhiên. Và chắc chắn không liên quan gì đến tính cách của con. Mọi người không quan tâm đến **con**, họ thậm chí còn không chú ý đến **con**, họ chỉ muốn bắt tay với một **lời giải thích tồi tệ**." Harry dừng lại và nhìn McGonagall. "Cô có biết chuyện gì thực sự đã xảy ra không?"
 
-"Ta đã hình thành một ý niệm..." Giáo sư McGonagall nói. "Sau khi gặp con, tất nhiên là vậy."
+"Ta **đã** hình thành một ý tưởng..." Giáo sư McGonagall nói. "Sau khi gặp con, ý ta là vậy."
 
 "Vâng?"
 
-"Con đã chiến thắng Chúa tể Hắc ám bằng cách trở nên đáng kinh sợ hơn hắn ta, và sống sót sau Lời nguyền Giết chóc bằng cách trở nên khủng khiếp hơn cả Cái Chết."
+"Con đã chiến thắng Chúa tể Hắc ám bằng cách trở nên đáng sợ hơn cả **hắn**, và sống sót sau Lời nguyền Chết chóc bằng cách trở nên khủng khiếp hơn cả Cái Chết."
 
-"Ha. Ha. Ha." Harry lại đá vào tường lần nữa.
+"Ha. Ha. Ha." Harry lại đá vào tường.
 
-Giáo sư McGonagall cười thầm. "Tiếp theo hãy đưa con đến tiệm của Phu nhân Malkin nhé. Ta e rằng bộ quần áo Muggle của con có thể đang thu hút sự chú ý đấy."
+Giáo sư McGonagall cười thầm. "Tiếp theo hãy để ta đưa con đến tiệm của Phu nhân Malkin. Ta e rằng trang phục Muggle của con có thể đang thu hút sự chú ý đấy."
 
-Họ đụng phải thêm hai người hâm mộ nữa trên đường đi.
+Họ gặp thêm hai người chúc tụng nữa trên đường đi.
 
-Tiệm Áo chùng Phu nhân Malkin có một mặt tiền thực sự tẻ nhạt, gạch đỏ bình thường, và cửa sổ kính trưng bày những bộ áo chùng đen đơn giản bên trong. Không phải những bộ áo chùng tỏa sáng hay thay đổi hay xoay tròn, hoặc phát ra những tia sáng kỳ lạ xuyên thấu qua áo sơ mi và thọc lét bạn. Chỉ là áo chùng đen trơn, đó là tất cả những gì bạn có thể thấy qua cửa sổ. Cánh cửa được mở toang, như thể để quảng cáo rằng ở đây không có bí mật và không có gì phải che giấu.
+Tiệm Trang phục cho Mọi Dịp của Phu nhân Malkin có một mặt tiền thực sự tẻ nhạt, gạch đỏ bình thường, và cửa kính trưng bày những bộ áo chùng đen trơn bên trong. Không phải những bộ áo chùng tỏa sáng hay thay đổi hay xoay tròn, hay phát ra những tia sáng kỳ lạ xuyên qua áo sơ mi và làm bạn nhột. Chỉ là những bộ áo chùng đen trơn, đó là tất cả những gì bạn có thể thấy qua cửa sổ. Cánh cửa được mở toang, như thể để quảng cáo rằng ở đây không có bí mật và không có gì phải giấu diếm.
 
-"Ta sẽ đi vắng vài phút trong khi con được đo áo," Giáo sư McGonagall nói. "Con sẽ ổn chứ, cậu Potter?"
+"Ta sẽ đi vắng vài phút trong khi con được đo may áo chùng," Giáo sư McGonagall nói. "Con sẽ ổn chứ, trò Potter?"
 
-"Con đi đâu ạ?" Harry hỏi. "Chỉ là để phòng hờ thôi, bà biết đấy, lỡ có chuyện gì xảy ra."
+Harry gật đầu. Cậu ghét việc mua sắm quần áo một cách mãnh liệt và không thể trách vị phù thủy lớn tuổi nếu cô cũng cảm thấy như vậy.
 
-McGonagall nhìn Harry một cách nghiêm khắc. "Ta sẽ đến đằng kia," bà nói, chỉ vào một tòa nhà băng qua đường có biển hiệu là một cái thùng gỗ, "và mua một ly đồ uống, thứ mà ta đang cực kỳ cần. Con chỉ việc đo áo chùng, không làm gì khác. Ta sẽ quay lại kiểm tra ngay thôi, và ta hy vọng sẽ thấy tiệm của Phu nhân Malkin vẫn còn đứng vững và không bị bốc cháy theo bất kỳ cách nào."
+Đũa phép của Giáo sư McGonagall trượt ra khỏi tay áo, gõ nhẹ vào đầu Harry. "Và vì con cần phải hiện rõ trước các giác quan của Phu nhân Malkin, ta sẽ gỡ bỏ bùa Che mắt."
 
-Phu nhân Malkin là một người phụ nữ lớn tuổi bận rộn, bà không nói một lời nào về Harry khi nhìn thấy vết sẹo trên trán cậu, và bà liếc nhìn sắc lẹm một cô trợ lý khi cô bé đó có vẻ như sắp thốt lên điều gì đó. Phu nhân Malkin lấy ra một bộ dây vải uốn éo, ngọ nguậy dường như đóng vai trò là thước dây và bắt đầu xem xét "chất liệu" cho tác phẩm nghệ thuật của mình.
+"Ơ..." Harry nói. Điều đó thực sự làm cậu hơi lo lắng; cậu vẫn chưa quen với cái danh 'Harry Potter'.
 
-Bên cạnh Harry, một cậu bé nhợt nhạt với khuôn mặt nhọn và mái tóc màu vàng trắng-tuyệt-vời dường như đang ở giai đoạn cuối của một quá trình tương tự. Một trong hai trợ lý của Malkin đang kiểm tra cậu bé tóc trắng và bộ áo chùng kẻ ô mà cậu đang mặc; thỉnh thoảng cô ấy sẽ gõ vào một góc của bộ áo bằng đũa phép, và bộ áo sẽ nới lỏng hoặc thắt chặt lại.
+"Ta đã học Hogwarts cùng Phu nhân Malkin," McGonagall nói. "Ngay cả khi đó, cô ấy đã là một trong những người **điềm tĩnh** nhất mà ta từng biết. Cô ấy sẽ không thèm chớp mắt ngay cả khi chính Kẻ-Mà-Ai-Cũng-Biết-Là-Ai-Đấy bước vào cửa hàng." Giọng McGonagall đầy vẻ hoài niệm và tán thưởng. "Phu nhân Malkin sẽ không làm phiền con, và cô ấy sẽ không để ai khác làm phiền con."
+
+"Cô đi **đâu** ạ?" Harry hỏi. "Chỉ để đề phòng, cô biết đấy, nếu có chuyện gì đó **thực sự** xảy ra."
+
+McGonagall nhìn Harry một cách nghiêm khắc. "Ta đi **đến đó**," cô nói, chỉ vào một tòa nhà băng qua đường có tấm biển hình một cái thùng gỗ, "và mua một thức uống mà ta đang cực kỳ cần. **Con** thì đi đo áo chùng, **không làm gì khác nữa**. Ta sẽ quay lại kiểm tra con **sớm**, và ta **mong đợi** sẽ thấy cửa hàng của Phu nhân Malkin vẫn còn đứng vững và không bị cháy theo bất kỳ cách nào."
+
+Phu nhân Malkin là một người phụ nữ lớn tuổi bận rộn, bà không nói một lời nào về Harry khi nhìn thấy vết sẹo trên trán cậu, và bà liếc nhìn sắc lẹm một cô phụ tá khi cô gái đó có vẻ sắp định nói gì đó. Phu nhân Malkin lấy ra một bộ dây vải uốn lượn, sống động có vẻ như đóng vai trò làm thước dây và bắt đầu xem xét "chất liệu" cho tác phẩm nghệ thuật của mình.
+
+Bên cạnh Harry, một cậu bé nhợt nhạt với khuôn mặt nhọn và mái tóc màu trắng bạch kim **ngầu-lòi-siêu-cấp** dường như đang trải qua những giai đoạn cuối cùng của một quy trình tương tự. Một trong hai phụ tá của bà Malkin đang kiểm tra cậu bé tóc trắng và bộ áo chùng kẻ ô vuông mà cậu đang mặc; thỉnh thoảng cô ấy sẽ gõ đũa phép vào một góc áo, và bộ áo chùng sẽ nới lỏng hoặc thắt chặt lại.
 
 "Chào," cậu bé nói. "Cũng vào Hogwarts hả?"
 
-Harry có thể dự đoán được cuộc đối thoại này sẽ đi đến đâu, và cậu quyết định trong một giây lát bực bội rằng thế là quá đủ rồi.
+Harry có thể dự đoán cuộc hội thoại này sẽ đi đến đâu, và cậu quyết định trong một tích tắc bực bội rằng thế là đủ rồi.
 
-"Trời đất ơi," Harry thì thầm, "không thể nào." Cậu để mắt mình mở to. "Tên... tên của bạn là gì, thưa ngài?"
+"Trời đất ơi," Harry thì thầm, "không thể nào." Cậu mở to mắt. "Tên của... ngài là gì, thưa ngài?"
 
-"Draco Malfoy," Draco Malfoy nói, trông hơi khó hiểu.
+"Draco Malfoy," Draco Malfoy nói, vẻ mặt hơi bối rối.
 
-"Chính là bạn! Draco Malfoy. Tôi - tôi chưa bao giờ nghĩ mình lại có vinh dự này, thưa ngài." Harry ước gì mình có thể làm cho nước mắt chảy ra. Những người khác thường bắt đầu khóc vào khoảng thời điểm này.
+"Chính là **anh**! Draco Malfoy. Tôi – tôi chưa bao giờ nghĩ mình sẽ được vinh dự đến thế này, thưa ngài." Harry ước gì mình có thể làm nước mắt chảy ra. Những người khác thường bắt đầu khóc vào thời điểm này.
 
-"Ồ," Draco nói, giọng hơi bối rối. Rồi môi cậu dãn ra thành một nụ cười đắc ý. "Thật tốt khi gặp một người biết vị thế của mình."
+"Ồ," Draco nói, giọng có vẻ hơi hoang mang. Sau đó môi cậu ta giãn ra thành một nụ cười tự mãn. "Thật tốt khi gặp được người biết vị thế của mình."
 
-Một trong những trợ lý, người dường như đã nhận ra Harry, phát ra một âm thanh nghẹn ngào như bị sặc.
+Một trong những cô phụ tá, người dường như đã nhận ra Harry, phát ra một âm thanh nghẹn ngào như bị sặc.
 
-Harry tiếp tục lải nhải. "Tôi rất hân hạnh được gặp bạn, cậu Malfoy. Thực sự hân hạnh không thốt nên lời. Và lại còn được nhập học Hogwarts đúng năm của bạn nữa chứ! Nó khiến trái tim tôi muốn ngất xỉu."
+Harry tiếp tục luyên thuyên. "Tôi vô cùng vui mừng được gặp ngài, ngài Malfoy. Thực sự vui mừng khôn xiết. Và được học Hogwarts cùng năm với ngài nữa! Điều đó khiến trái tim tôi thổn thức."
 
-Ối. Đoạn cuối có vẻ hơi kỳ quặc, nghe như thể cậu đang tán tỉnh Draco hay gì đó.
+Chết tiệt. Phần cuối đó nghe có vẻ hơi kỳ quặc, cứ như cậu đang tán tỉnh Draco hay gì đó.
 
-"Và ta cũng rất vui khi biết rằng mình sẽ được đối xử với sự tôn trọng xứng đáng dành cho gia tộc Malfoy," cậu bé kia đáp lại, đi kèm với một nụ cười mà vị vua cao quý nhất có thể ban tặng cho một thần dân hèn mọn nhất, nếu thần dân đó trung thực, dù nghèo khổ.
+"Và **ta** cũng rất hài lòng khi biết rằng mình sẽ được đối xử với sự tôn trọng xứng đáng dành cho gia tộc Malfoy," cậu bé kia đáp lại, đi kèm với một nụ cười như kiểu một vị vua tối cao ban tặng cho kẻ bần hàn nhất trong thần dân của mình, nếu thần dân đó trung thực, dù nghèo khó.
 
-Hừ... Chết tiệt, Harry đang gặp khó khăn trong việc nghĩ ra câu tiếp theo. Chà, ai mà chẳng muốn bắt tay Harry Potter, vậy nên – "Khi trang phục của tôi đã được đo xong, thưa ngài, liệu ngài có hạ mình bắt tay tôi không? Tôi chẳng mong gì hơn để kết thúc ngày hôm nay, không, tháng này, thực tế là cả cuộc đời tôi."
+Ê... Chà, Harry đang gặp khó khăn trong việc nghĩ ra câu thoại tiếp theo. À, mọi người đều muốn bắt tay Harry Potter mà, vậy nên – "Khi quần áo của tôi được đo xong, thưa ngài, liệu ngài có hạ cố bắt tay tôi không? Tôi chẳng mong muốn gì hơn để kết thúc một ngày tuyệt vời này, không, một tháng này, quả thực là cả cuộc đời tôi."
 
-Cậu bé tóc vàng trắng nhìn chằm chằm đáp lại. "Và bạn đã làm gì cho nhà Malfoy mà đòi hỏi một đặc ân như vậy?"
+Cậu bé tóc trắng bạch kim nhìn lại đầy kiêu kỳ. "Và **ngươi** đã làm gì cho nhà Malfoy mà đòi hỏi một ân huệ như vậy?"
 
-*Ồ, mình nhất định sẽ thử bài này với người tiếp theo muốn bắt tay mình.* Harry cúi đầu. "Không, không, thưa ngài, tôi hiểu mà. Tôi xin lỗi vì đã hỏi. Tôi nên cảm thấy vinh dự khi được lau ủng cho ngài thì đúng hơn."
+*Ồ, mình chắc chắn sẽ thử bài này với người tiếp theo muốn bắt tay mình.* Harry cúi đầu. "Không, không, thưa ngài, tôi hiểu mà. Tôi xin lỗi vì đã hỏi. Thay vào đó, tôi nên cảm thấy vinh dự khi được lau ủng cho ngài mới đúng."
 
-"Quả nhiên là vậy," cậu bé kia cắt lời. Khuôn mặt nghiêm nghị của cậu dãn ra đôi chút. "Nói ta nghe, bạn nghĩ mình sẽ được phân vào Nhà nào? Ta chắc chắn sẽ vào nhà Slytherin, dĩ nhiên rồi, giống như cha ta, Lucius, trước đây. Còn bạn, ta đoán là Nhà Hufflepuff, hoặc có lẽ là Nhà Gia Tinh."
+"Quả thực vậy," cậu bé kia đáp cộc lốc. Khuôn mặt nghiêm nghị của cậu ta giãn ra đôi chút. "Nói cho ta biết, ngươi nghĩ mình sẽ được phân vào Nhà nào? Ta chắc chắn sẽ vào Nhà Slytherin, dĩ nhiên rồi, giống như cha ta, Lucius, trước đây. Còn ngươi, ta đoán là Nhà Hufflepuff, hoặc có thể là Nhà Gia tinh."
 
-Harry cười bẽn lẽn. "Giáo sư McGonagall nói rằng con là người mang đậm chất Ravenclaw nhất mà bà từng thấy hoặc nghe kể trong truyền thuyết, đến mức chính Rowena cũng sẽ bảo con nên ra ngoài nhiều hơn, dù điều đó có nghĩa là gì đi nữa, và rằng con chắc chắn sẽ vào nhà Ravenclaw nếu cái mũ không hét lên quá to khiến những người còn lại không nghe thấy lời nào cả, hết trích dẫn."
+Harry cười ngượng ngùng. "Giáo sư McGonagall nói rằng con là người mang đậm chất Ravenclaw nhất mà cô ấy từng thấy hoặc nghe kể trong truyền thuyết, đến mức chính Rowena cũng sẽ bảo con nên ra ngoài nhiều hơn, dù điều đó có nghĩa là gì đi nữa, và con chắc chắn sẽ vào Nhà Ravenclaw nếu cái nón không hét quá to khiến những người còn lại không nghe thấy từ nào, hết trích dẫn."
 
-"Oa," Draco Malfoy nói, giọng có chút ấn tượng. Cậu bé thở dài một cách tiếc nuối. "Lời nịnh hót của bạn rất tuyệt, ít nhất là ta nghĩ vậy – bạn cũng sẽ làm tốt ở nhà Slytherin đấy. Thường thì chỉ có cha ta mới nhận được kiểu quỵ lụy đó thôi. Ta hy vọng những học sinh Slytherin khác sẽ nịnh bợ ta khi ta ở Hogwarts... Ta đoán đây là một dấu hiệu tốt đấy."
+"Oa," Draco Malfoy nói, giọng có vẻ hơi ấn tượng. Cậu bé khẽ thở dài đầy khao khát. "Lời nịnh hót của ngươi rất tuyệt, hoặc ít nhất là ta nghĩ vậy – ngươi cũng sẽ làm tốt ở Nhà Slytherin đấy. Thường thì chỉ có cha ta mới nhận được kiểu khúm núm đó thôi. Ta đang **hy vọng** những đứa trẻ Slytherin khác sẽ nịnh bợ ta khi ta ở Hogwarts... Ta đoán đây là một dấu hiệu tốt đấy."
 
-Harry ho một tiếng. "Thực ra, xin lỗi nhé, tôi thực sự chẳng biết bạn là ai đâu."
+Harry ho khan. "Thực ra, xin lỗi nhé, tôi chẳng biết cậu là ai cả."
 
-"Ồ thôi nào!" cậu bé nói với sự thất vọng mãnh liệt. "Sao bạn lại làm thế chứ?" Đôi mắt Draco nheo lại với sự nghi ngờ đột ngột. "Và làm sao bạn có thể không biết về nhà Malfoy? Và bộ quần áo bạn đang mặc là gì vậy? Cha mẹ bạn là Muggle à?"
+"Ồ thôi đi!" cậu bé nói với vẻ thất vọng dữ dội. "Tại sao ngươi lại làm thế chứ?" Đôi mắt Draco mở to với sự nghi ngờ đột ngột. "Và làm thế nào mà ngươi lại **không** biết về nhà Malfoy? Và bộ **quần áo** ngươi đang mặc là gì vậy? Cha mẹ ngươi là **Muggle** à?"
 
-"Hai người cha mẹ của tôi đã mất rồi," Harry nói. Tim cậu thắt lại. Khi nói theo cách đó – "Hai người cha mẹ còn lại của tôi là Muggle, và họ là những người đã nuôi nấng tôi."
+"Hai người cha mẹ của tôi đã mất rồi," Harry nói. Tim cậu thắt lại. Khi cậu nói theo cách đó – "Hai người cha mẹ khác của tôi là Muggle, và họ là những người đã nuôi nấng tôi."
 
-"Cái gì?" Draco nói. "Bạn là ai?"
+"Cái gì?" Draco nói. "Ngươi là **ai**?"
 
-"Harry Potter, rất vui được gặp bạn."
+"Harry Potter, rất vui được gặp cậu."
 
-"Harry Potter?" Draco há hốc mồm. "Chính là Harry —" và cậu bé ngưng bặt.
+"Harry Potter?" Draco há hốc mồm. "Cái người Harry —" và cậu bé đột ngột ngắt lời.
 
-Một sự im lặng ngắn ngủi diễn ra.
+Có một sự im lặng ngắn ngủi.
 
-Sau đó, với sự nhiệt tình rạng rỡ, "Harry Potter? Harry Potter đó hả? Trời đất, mình luôn muốn được gặp bạn!"
+Sau đó, với sự nhiệt tình rạng rỡ, "Harry Potter? **Người** Harry Potter đó hả? Trời đất, mình luôn muốn gặp cậu!"
 
-Người trợ lý của Draco phát ra một âm thanh như thể cô ấy đang bị bóp cổ nhưng vẫn tiếp tục công việc của mình, nhấc cánh tay Draco lên để cẩn thận tháo bộ áo chùng kẻ ô ra.
+Người phụ tá của Draco phát ra một âm thanh như thể cô ấy đang bị bóp cổ nhưng vẫn tiếp tục công việc của mình, nhấc cánh tay Draco lên để cẩn thận tháo bộ áo chùng kẻ ô.
 
-"Câm mồm đi," Harry gợi ý.
+"Câm miệng đi," Harry gợi ý.
 
-"Mình có thể xin chữ ký của bạn không? Không, chờ đã, mình muốn chụp ảnh với bạn trước!"
+"Cho mình xin chữ ký được không? Không, đợi đã, mình muốn chụp ảnh với cậu trước!"
 
-"Câm mồm câm mồm câm mồm."
+"Câm-miệng-câm-miệng-câm-miệng."
 
-"Mình thực sự rất vui khi được gặp bạn!"
+"Mình chỉ quá **vui mừng** khi được gặp cậu thôi!"
 
-"Bốc cháy và chết đi."
+"Bùng cháy và chết đi cho tôi nhờ."
 
-"Nhưng bạn là Harry Potter, vị cứu tinh vinh quang của thế giới phù thủy! Người hùng của mọi người, Harry Potter! Mình luôn muốn được giống như bạn khi lớn lên để mình có thể —"
+"Nhưng cậu là Harry Potter mà, vị cứu tinh huy hoàng của thế giới phù thủy! Anh hùng của mọi người, Harry Potter! Mình luôn muốn được giống như cậu khi lớn lên để mình có thể —"
 
-Draco cắt ngang câu nói giữa chừng, khuôn mặt cậu đông cứng lại vì kinh hãi tuyệt đối.
+Draco cắt ngang câu nói giữa chừng, khuôn mặt cậu ta đóng băng trong sự kinh hoàng tuyệt đối.
 
-Harry quay đầu lại theo ánh mắt của Draco.
+Cao lớn, tóc trắng, lịch lãm một cách lạnh lùng trong bộ áo chùng đen chất lượng tốt nhất. Một tay nắm cây gậy cán bạc, thứ mang dáng dấp của một vũ khí chết người chỉ bằng việc nằm trong bàn tay đó. Đôi mắt ông ta nhìn căn phòng với vẻ thản nhiên của một đao phủ, một người mà đối với ông việc giết chóc không hề đau đớn, hay thậm chí là bị cấm đoán một cách thú vị, mà chỉ là một hoạt động thường nhật như hơi thở.
 
-Giáo sư McGonagall đang đứng ở cửa ra vào, bàn tay bà bám chặt vào khung cửa đến mức các đốt ngón tay trở nên trắng bệch. Một mảnh thủy tinh vỡ nằm trong tay bà, mảnh vỡ của cái dường như từng là một chiếc ly đựng chất lỏng màu hổ phách.
+Đó chính là người đàn ông vừa bước vào qua cánh cửa mở.
 
-Bà nhìn chằm chằm vào Draco Malfoy, rồi nhìn vào Harry Potter, rồi lại nhìn vào Draco Malfoy.
+"Draco," người đàn ông nói, giọng trầm và đầy giận dữ, "con đang nói cái **gì** vậy?"
 
-"Ta đi vắng," Giáo sư McGonagall nói bằng một giọng thì thầm khản đặc, "có năm phút thôi mà. Ta chỉ đi vắng có đúng năm phút."
+Trong một tích tắc của sự hoảng loạn đồng cảm, Harry đã hình thành một kế hoạch giải cứu.
 
-"Con không làm gì cả," Harry nói. "Cậu ấy là người bắt đầu."
+"Lucius Malfoy!" Harry Potter thốt lên. "**Ngài** Lucius Malfoy đó sao?"
 
-"Ta rời đi năm phút," McGonagall lặp lại. "Năm phút. Ta để con một mình năm phút và con đã biến Draco Malfoy thành... một người hâm mộ cuồng nhiệt."
+Một trong những phụ tá của bà Malkin phải quay đi và đối mặt với bức tường.
 
-"Con nói rồi, con không làm gì cả!"
+Đôi mắt sát thủ lạnh lùng nhìn cậu. "Harry Potter."
 
-"Ta không muốn biết chuyện gì đã xảy ra ở đây, không bao giờ muốn biết. Bất kể thế lực hắc ám nào đang trú ngụ trong con, nó có tính lây lan, và ta không muốn kết thúc như tội nghiệp Draco Malfoy, tội nghiệp Phu nhân Malkin và hai trợ lý tội nghiệp của bà ấy." Harry thở dài. Rõ ràng là Giáo sư McGonagall không còn tâm trạng để nghe những lời giải thích hợp lý. Cậu nhìn Phu nhân Malkin, người vẫn đang thở khò khè dựa vào tường, và hai trợ lý của Malkin, những người giờ đây cả hai đều đã quỳ sụp xuống, và cuối cùng nhìn xuống cơ thể đang được quấn đầy thước dây của chính mình.
+"Tôi vô cùng, vô cùng vinh dự được gặp ngài!"
 
-"Con vẫn chưa đo xong áo chùng," Harry nói một cách tử tế. "Sao bà không quay lại đó và uống thêm một ly nữa đi?"
+Đôi mắt tối sầm mở to, sự ngạc nhiên sửng sốt thay thế cho mối đe dọa chết người.
+
+"Con trai ngài đã kể cho tôi nghe **tất cả** về ngài," Harry tuôn ra xối xả, cậu thậm chí còn chẳng biết mình đang nói gì nhưng chỉ cố gắng nói nhanh nhất có thể. "Nhưng tất nhiên tôi đã biết về tất cả các ngài từ trước đó rồi, mọi người đều biết về ngài, ngài Lucius Malfoy vĩ đại! Người nhận được vòng nguyệt quế vinh dự nhất của toàn bộ Nhà Slytherin, tôi đã đang suy nghĩ về việc cố gắng vào Nhà Slytherin chỉ vì tôi nghe nói ngài đã ở đó khi còn nhỏ —"
+
+"Trò đang nói cái gì vậy, trò Potter?" một tiếng gần như hét lên từ bên ngoài cửa hàng, và Giáo sư McGonagall lao vào một giây sau đó.
+
+Có một sự kinh hoàng thuần túy trên khuôn mặt cô đến mức miệng Harry tự động há ra, và rồi tắc nghẹn vì không-biết-nói-gì.
+
+"Giáo sư McGonagall!" Draco kêu lên. "Có thực là cô không? Con đã nghe kể rất nhiều về cô từ cha con, con đã đang suy nghĩ về việc cố gắng được Phân nhà vào Gryffindor để con có thể —"
+
+"Cái gì?" Lucius Malfoy và Giáo sư McGonagall cùng gầm lên đồng thanh hoàn hảo, đứng cạnh nhau. Đầu họ quay ngoắt lại nhìn nhau trong những chuyển động giống hệt nhau, và rồi cả hai lùi lại khỏi nhau như thể đang thực hiện một điệu nhảy đồng bộ.
+
+Có một sự hỗn loạn hành động bất ngờ khi Lucius tóm lấy Draco và kéo cậu ta ra khỏi cửa hàng.
+
+Và rồi là sự im lặng.
+
+Trong tay trái của Giáo sư McGonagall là một chiếc ly nhỏ, bị nghiêng sang một bên trong cơn vội vã bị lãng quên, giờ đây đang chậm rãi nhỏ những giọt rượu xuống một vũng rượu vang đỏ nhỏ đã xuất hiện trên sàn.
+
+Giáo sư McGonagall sải bước vào trong tiệm cho đến khi đứng đối diện với Phu nhân Malkin.
+
+"Phu nhân Malkin," Giáo sư McGonagall nói, giọng cô bình tĩnh. "Chuyện gì đã xảy ra ở đây vậy?"
+
+Phu nhân Malkin nhìn lại lặng lẽ trong bốn giây, và rồi phá lên cười. Bà ngã người vào tường, cười đến hụt hơi, và điều đó kích động cả hai cô phụ tá, một trong số họ đã ngã xuống và quỳ gối trên sàn, cười sằng sặc.
+
+Giáo sư McGonagall chậm rãi quay lại nhìn Harry, vẻ mặt lạnh lùng. "Ta để con lại một mình trong sáu phút. Sáu phút, trò Potter, tính theo đúng đồng hồ."
+
+"Con chỉ đang đùa thôi mà," Harry phản đối, trong khi những tiếng cười điên cuồng vẫn tiếp tục vang lên bên cạnh.
+
+"Draco Malfoy đã nói trước mặt cha nó rằng nó muốn được phân vào Gryffindor! **Đùa thôi** thì không đủ để làm được điều đó!" Giáo sư McGonagall dừng lại, hít thở sâu một cách lộ liễu. "Phần nào của câu 'đi đo may áo chùng' nghe giống như là **làm ơn hãy niệm Bùa Lú lên toàn bộ vũ trụ** đối với con vậy?"
+
+"Cậu ấy đang ở trong một bối cảnh tình huống mà những hành động đó mang tính hợp lý nội tại —"
+
+"Không. Đừng giải thích. Ta không muốn biết chuyện gì đã xảy ra ở đây, không bao giờ. Bất kể thế lực hắc ám nào đang trú ngụ trong con, nó có tính **lây lan**, và ta không muốn kết thúc như Draco Malfoy tội nghiệp, Phu nhân Malkin tội nghiệp và hai cô phụ tá tội nghiệp của cô ấy."
+
+Harry thở dài. Rõ ràng là Giáo sư McGonagall không ở trong tâm trạng để nghe những lời giải thích hợp lý. Cậu nhìn Phu nhân Malkin, người vẫn đang thở dốc bên tường, và hai phụ tá của bà, những người giờ đây **cả hai** đều đã quỳ sụp xuống, và cuối cùng nhìn xuống cơ thể đang quấn đầy thước dây của chính mình.
+
+"Con vẫn chưa đo xong quần áo ạ," Harry nói một cách tử tế. "Tại sao cô không quay lại và uống thêm một ly nữa đi?"
 
 ---
 
-### GIẢI THÍCH CÁC KHÁI NIỆM TRỪU TƯỢNG
+### Diễn giải chi tiết các khái niệm
 
-1. **Lỗi quy kết cơ bản (Fundamental Attribution Error - FAE):**
-* Đây là một khái niệm then chốt trong tâm lý học xã hội. Nó mô tả xu hướng của con người khi giải thích hành vi của người khác thì quá chú trọng vào **tính cách nội tại** (ví dụ: "hắn ta là kẻ ác", "cô ta là anh hùng") mà bỏ qua các **yếu tố hoàn cảnh** (ví dụ: "hắn ta bị ép buộc", "cô ta gặp may mắn").
-* Trong chương này, Harry dùng nó để chế nhạo việc cả thế giới phù thủy tôn sùng cậu là "Anh hùng Ánh sáng" chỉ vì một sự kiện tình cờ khi cậu mới 15 tháng tuổi.
-
-
-2. **Túi Da Moke (Moke Super Pouch QX31):**
-* Trong nguyên tác, túi da moke chỉ có thể thu nhỏ khi có người lạ chạm vào. Trong HPMOR, nó được nâng cấp thành một thiết bị lưu trữ có điều kiện (gọi tên món đồ mới lấy ra được). Đây là ví dụ về cách tác giả hệ thống hóa pháp thuật thành các quy tắc logic.
-
-
-3. **Tự-đạo-tặc (Auto-thieved):**
-* Harry tự trêu chọc mình về mặt đạo đức. Cậu rút tiền từ tài khoản của mình nhưng lại lén lút lấy nhiều hơn mức được phép để tránh sự kiểm soát của McGonagall. Harry coi đây là một hành vi "trộm đồ của chính mình" để phục vụ cho các kế hoạch nghiên cứu khoa học sau này.
-
-
-4. **Tai ương của nhà Gryffindor (Scourge of Gryffindor):**
-* Dùng để chỉ James Potter (cha Harry). Trong HPMOR, James được mô tả là một kẻ quậy phá lừng lẫy nhưng theo cách thông minh và đôi khi gây đau đầu cho các giáo sư, tương tự như tính cách của Harry nhưng thiếu đi sự lý tính cực đoan.
-
-
-5. **Màn kịch của Harry với Draco:**
-* Harry đang thực hiện một **thí nghiệm xã hội phản ứng ngược**. Khi thấy Draco có vẻ kiêu ngạo, Harry giả vờ làm một "fan cuồng" để Draco cảm thấy bị lố bịch và hạ cái tôi xuống. Kết quả là Draco cũng bị cuốn vào trò chơi và giả vờ hâm mộ lại Harry, tạo nên một tình huống hài hước khiến McGonagall (người hiểu rõ sự thù địch giữa nhà Potter và nhà Malfoy) hoàn toàn bị sốc.
+1. **Sai lầm Quy kết Cơ bản (Fundamental Attribution Error - FAE):** Trong tâm lý học xã hội, đây là xu hướng của con người khi giải thích hành vi của người khác thường quá chú trọng vào **tính cách nội tại** (ví dụ: "hắn ta ác", "anh ta lười") mà xem nhẹ các **yếu tố hoàn cảnh** (ví dụ: "hắn bị ép buộc", "anh ta đang gặp chuyện buồn"). Ngược lại, khi giải thích hành vi của chính mình, chúng ta có xu hướng đổ lỗi cho hoàn cảnh (Quy kết tự phục vụ). Harry dùng khái niệm này để mỉa mai việc mọi người coi cậu là "vị cứu tinh" (đặc điểm tính cách) thay vì chỉ là một đứa trẻ tình cờ sống sót do các yếu tố môi trường không xác định.
+2. **Giả định một âm mưu (Postulate a conspiracy):** "Postulate" là một thuật ngữ trong logic và toán học, nghĩa là đưa ra một giả thiết cơ bản làm nền tảng cho lập luận. Harry đang áp dụng tư duy hoài nghi khoa học: nếu một sự kiện có dấu hiệu của sự sắp đặt (âm mưu), thì mọi bằng chứng sau đó (như vết sẹo hay cái tên) đều có thể là một phần của sự dàn dựng đó.
+3. **Tai ương của nhà Gryffindor (Scourge of Gryffindor):**
+"Scourge" (tai ương/nguồn cơn khốn khổ) thường dùng để chỉ những thứ gây ra đau khổ lớn. Ở đây McGonagall dùng với giọng mỉa mai để chỉ James Potter (cha Harry), người nổi tiếng là kẻ bày trò quậy phá khét tiếng ở Hogwarts.
+4. **Bùa Che mắt (Obfuscation):** Trong ngữ cảnh công nghệ thông tin, "Obfuscation" là làm mờ mã nguồn để người khác không đọc được. Trong truyện, đây là bùa chú giúp Harry không bị nhận diện ngay lập tức bởi đám đông.
+5. **Bùa Lú (Confundus Charm):**
+Một loại bùa chú khiến mục tiêu trở nên bối rối, hay quên hoặc tin vào những điều vô lý. McGonagall dùng cụm từ "niệm Bùa Lú lên toàn bộ vũ trụ" để chỉ trích khả năng của Harry trong việc đảo lộn logic thông thường và gây náo loạn mọi tình huống cậu tham gia.
