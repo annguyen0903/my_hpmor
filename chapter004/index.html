@@ -1,0 +1,765 @@
+
+<!doctype html>
+<html lang="vi" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../chapter003/">
+      
+      
+        <link rel="next" href="../chapter005/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>Chương 4 - hpmor_viet</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#dien-giai-chi-tiet-cac-khai-niem" class="md-skip">
+          Bỏ qua
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Đầu trang">
+    <a href=".." title="hpmor_viet" class="md-header__button md-logo" aria-label="hpmor_viet" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            hpmor_viet
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Chương 4
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Tìm kiếm" placeholder="Tìm kiếm" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Tìm kiếm">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Xoá" aria-label="Xoá" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Thanh điều hướng" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="hpmor_viet" class="md-nav__button md-logo" aria-label="hpmor_viet" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    hpmor_viet
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Giới thiệu
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter001/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter002/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 2
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter003/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 4
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Mục lục">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Mục lục
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#dien-giai-chi-tiet-cac-khai-niem" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Diễn Giải Chi Tiết Các Khái Niệm
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tom-tat-noi-dung-chinh-chuong-4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tóm Tắt Nội Dung Chính Chương 4
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter005/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 5
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter006/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 6
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter007/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 7
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter008/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 8
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter009/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 9
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter010/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 10
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Mục lục">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Mục lục
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#dien-giai-chi-tiet-cac-khai-niem" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Diễn Giải Chi Tiết Các Khái Niệm
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tom-tat-noi-dung-chinh-chuong-4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tóm Tắt Nội Dung Chính Chương 4
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Chương 4</h1>
+
+<p><strong>Chương 4: Giả Thuyết Thị Trường Hiệu Quả</strong></p>
+<p><strong>Lời miễn trừ trách nhiệm:</strong> J. K. Rowling đang theo dõi bạn từ nơi bà ấy chờ đợi, mãi mãi trong khoảng không giữa các thế giới.</p>
+<p><strong>Ghi chú của tác giả:</strong> Như một số người đã nhận xét, bộ tiểu thuyết có vẻ không nhất quán về sức mua thực tế của một Galleon; tôi sẽ chọn một giá trị cố định và tuân theo nó. Tỷ giá năm bảng Anh cho một Galleon không khớp với giá bảy Galleon cho một cây đũa phép và việc trẻ em dùng lại đũa phép cũ.</p>
+<hr />
+<p><em>"Thống trị thế giới nghe thật thô thiển. Tôi thích gọi nó là tối ưu hóa thế giới hơn."</em></p>
+<hr />
+<p>Những đống Galleon vàng. Những chồng Sickle bạc. Những đống Knut đồng.</p>
+<p>Harry đứng đó, há hốc mồm nhìn vào hầm chứa gia đình. Cậu có quá nhiều câu hỏi đến nỗi không biết bắt đầu từ đâu.</p>
+<p>Từ ngay bên ngoài cửa hầm, Giáo sư McGonagall quan sát cậu, trông bà có vẻ dựa vào tường một cách thư thái, nhưng đôi mắt bà thì chăm chú. Chà, điều đó cũng hợp lý. Việc bị thả đứng trước một đống tiền vàng khổng lồ là một bài kiểm tra tính cách thuần túy đến mức mang tính nguyên mẫu.</p>
+<p>"Liệu những đồng xu này có phải là kim loại nguyên chất không?" Cuối cùng Harry cũng lên tiếng.</p>
+<p>"Cái gì?" Yêu tinh Griphook, người đang đợi gần cửa, rít lên. "Cậu đang chất vấn tính chính trực của Gringotts à, Potter-Evans-Verres?"</p>
+<p>"Không," Harry đáp một cách phân tâm, "hoàn toàn không, xin lỗi nếu câu hỏi nghe có vẻ sai sai, thưa ngài. Chỉ là cháu hoàn toàn không biết hệ thống tài chính của các ngài vận hành thế nào. Cháu hỏi liệu nói chung, các Galleon có được làm từ vàng nguyên chất không."</p>
+<p>"Đương nhiên rồi," Griphook nói.</p>
+<p>"Và bất kỳ ai cũng có thể đúc chúng, hay chúng được phát hành bởi một tổ chức độc quyền và từ đó thu được <strong>thuế đúc tiền</strong>?"</p>
+<p>"Cái gì?" Giáo sư McGonagall nói.</p>
+<p>Griphook nhe răng cười, để lộ hàm răng sắc nhọn. "Chỉ có kẻ ngốc mới tin tưởng bất kỳ đồng xu nào không phải của yêu tinh!"</p>
+<p>"Nói cách khác," Harry nói, "những đồng xu này không có giá trị cao hơn phần kim loại tạo nên chúng?"</p>
+<p>Griphook nhìn chằm chằm Harry. Giáo sư McGonagall trông có vẻ bối rối.</p>
+<p>"Ý cháu là, giả sử cháu mang vào đây một tấn bạc. Cháu có thể đổi lấy một tấn Sickle làm từ số bạc đó không?"</p>
+<p>"Với một khoản phí, Potter-Evans-Verres." Con yêu tinh quan sát cậu với đôi mắt lấp lánh. "Với một khoản phí nhất định. Tôi tự hỏi cậu sẽ tìm một tấn bạc ở đâu?"</p>
+<p>"Cháu đang nói một cách giả định thôi," Harry nói. Ít nhất là vào lúc này. "Vậy... các ngài sẽ tính phí bao nhiêu, tính theo tỷ lệ phần trăm trên tổng trọng lượng?"</p>
+<p>Đôi mắt Griphook trở nên chăm chú. "Tôi sẽ phải tham khảo ý kiến của cấp trên..."</p>
+<p>"Hãy cho cháu một ước tính đại khái. Cháu sẽ không bắt Gringotts chịu trách nhiệm đâu."</p>
+<p>"Một phần hai mươi khối lượng kim loại sẽ là khoản phí hợp lý cho việc đúc tiền."</p>
+<p>Harry gật đầu. "Cảm ơn ngài rất nhiều, Griphook."</p>
+<p><em>Vậy là không chỉ nền kinh tế phù thủy gần như tách biệt hoàn toàn với thế giới Muggle, mà ở đây chưa từng ai nghe đến </em><em>kinh doanh chênh lệch giá</em><em>. Nền kinh tế Muggle lớn hơn có tỷ lệ vàng trên bạc biến động trong một khoảng giao dịch, vì vậy mỗi khi tỷ lệ vàng trên bạc của Muggle chênh lệch hơn 5% so với tỷ trọng mười bảy Sickle trên một Galleon, hoặc vàng hoặc bạc lẽ ra đã phải bị rút khỏi nền kinh tế phù thủy cho đến khi không thể duy trì tỷ giá hối đoái. Mang vào một tấn bạc, đổi thành Sickle (và trả 5% phí), đổi Sickle lấy Galleon, mang vàng về thế giới Muggle, đổi nó lấy nhiều bạc hơn số bạn bắt đầu, và lặp lại.</em></p>
+<p><em>Chẳng phải tỷ lệ vàng trên bạc của Muggle vào khoảng năm mươi trên một sao? Dù sao thì Harry cũng không nghĩ nó là mười bảy. Và có vẻ như những đồng xu bạc thực sự nhỏ hơn những đồng xu vàng.</em></p>
+<p><em>Mặt khác, Harry đang đứng trong một ngân hàng theo nghĩa đen lưu trữ tiền của bạn trong những hầm chứa đầy đồng xu vàng được rồng canh giữ, nơi bạn phải vào và lấy xu ra khỏi hầm bất cứ khi nào muốn tiêu tiền. Những điểm tinh tế của việc kinh doanh chênh lệch giá để loại bỏ sự kém hiệu quả của thị trường có lẽ nằm ngoài tầm hiểu biết của họ. Cậu đã bị cám dỗ để buông những lời mỉa mai về sự thô sơ của hệ thống tài chính của họ...</em></p>
+<p><em>Nhưng điều đáng buồn là, cách của họ có lẽ tốt hơn.</em></p>
+<p><em>Mặt khác, một nhà quản lý quỹ phòng ngừa rủi ro có năng lực có lẽ có thể sở hữu toàn bộ thế giới phù thủy trong vòng một tuần.</em> Harry ghi nhớ ý tưởng này phòng khi cậu hết tiền, hoặc có một tuần rảnh rỗi.</p>
+<p>Trong khi đó, những đống tiền vàng khổng lồ trong hầm nhà Potter hẳn phải đáp ứng được các nhu cầu trước mắt của cậu.</p>
+<p>Harry lết tới, bắt đầu nhặt những đồng xu vàng bằng một tay và đổ sang tay kia.</p>
+<p>Khi cậu đếm đến hai mươi, Giáo sư McGonagall ho giả. "Tôi nghĩ thế là quá đủ để trả tiền đồ dùng học tập, Potter."</p>
+<p>"Hửm?" Harry nói, tâm trí đang ở nơi khác. "Chờ đã, cháu đang thực hiện một <strong>phép tính Fermi</strong>."</p>
+<p>"Một <em>cái gì</em>?" Giáo sư McGonagall nói, giọng có vẻ hơi báo động.</p>
+<p>"Là một phép tính toán học. Đặt tên theo Enrico Fermi. Một cách để nhanh chóng ước lượng các con số trong đầu..."</p>
+<p>Hai mươi Galleon vàng nặng khoảng một phần mười ki-lô-gam? Và vàng có giá, gì nhỉ, mười nghìn bảng Anh một ki-lô-gam? Vậy một Galleon sẽ có giá trị khoảng năm mươi bảng... Những đống tiền vàng trông cao khoảng sáu mươi đồng, rộng hai mươi đồng ở mỗi chiều của đáy, và một đống có hình kim tự tháp, nên nó sẽ bằng khoảng một phần ba thể tích khối. Khoảng tám nghìn Galleon mỗi đống, đại khái thế, và có khoảng năm đống cỡ đó, vậy là bốn mươi nghìn Galleon hay 2 triệu bảng Anh.</p>
+<p>Không tệ. Harry mỉm cười với một chút hài lòng khó tả. Thật tiếc là cậu đang ở giữa quá trình khám phá thế giới ma thuật kỳ diệu mới, và không thể dành thời gian để khám phá thế giới mới kỳ diệu của việc trở nên giàu có, thứ mà theo một ước tính Fermi nhanh chóng thì kém thú vị hơn khoảng một tỷ lần.</p>
+<p><em>Dù vậy, đó là lần cuối cùng tôi cắt cỏ cho một đồng bảng tồi tàn.</em></p>
+<p>Harry quay lưng khỏi đống tiền khổng lồ. "Xin lỗi vì hỏi, Giáo sư McGonagall, nhưng cháu hiểu rằng bố mẹ cháu mới hai mươi mấy tuổi khi họ qua đời. Đây có phải là số tiền thông thường mà một cặp vợ chồng trẻ có trong hầm của họ, trong thế giới phù thủy?" Nếu vậy, một tách trà có lẽ giá năm nghìn bảng. Nguyên tắc đầu tiên của kinh tế học: bạn không thể ăn tiền.</p>
+<p>Giáo sư McGonagall lắc đầu. "Cha cậu là người thừa kế cuối cùng của một gia đình lâu đời, Potter. Cũng có khả năng..." Bà phù thủy do dự. "Một phần số tiền này có thể là từ tiền thưởng đặt lên Ngài-biết-ai, trả cho người kế vị của hắn - à, cho bất kỳ ai có thể đánh bại hắn. Hoặc những khoản tiền thưởng đó có thể chưa được nhận. Tôi không chắc."</p>
+<p>"Thú vị đấy..." Harry chậm rãi nói. "Vậy một phần trong số này thực sự, theo một nghĩa nào đó, là của cháu. Tức là, do cháu kiếm được. Đại loại thế. Có thể. Ngay cả khi cháu không nhớ sự kiện đó." Ngón tay Harry gõ nhẹ vào ống quần. "Điều đó khiến cháu cảm thấy bớt tội lỗi khi tiêu một phần rất nhỏ trong số này! Đừng hoảng, Giáo sư McGonagall!"</p>
+<p>"Potter! Cậu là trẻ vị thành niên, và với tư cách đó, cậu sẽ chỉ được phép rút một khoản hợp lý từ—"</p>
+<p>"Cháu hoàn toàn ủng hộ việc hợp lý! Cháu hoàn toàn đồng ý với sự thận trọng tài chính và kiểm soát bốc đồng! Nhưng trên đường tới đây, cháu đã thấy một vài thứ sẽ cấu thành những món đồ mua sắm hợp lý, của người lớn..."</p>
+<p>Harry ánh mắt chằm chằm vào Giáo sư McGonagall, tham gia vào một cuộc thi nhìn không lời.</p>
+<p>"Như cái gì?" Cuối cùng Giáo sư McGonagall cũng nói.</p>
+<p>"Những chiếc rương mà bên trong chứa được nhiều hơn bên ngoài?"</p>
+<p>Mặt Giáo sư McGonagall trở nên nghiêm khắc. "Những thứ đó rất đắt, Potter!"</p>
+<p>"Vâng, nhưng—" Harry nài nỉ. "Cháu chắc chắn rằng khi trưởng thành cháu sẽ muốn một cái. Và cháu có đủ khả năng mua nó. Về mặt logic, việc mua nó bây giờ thay vì sau này sẽ có lý như nhau, và có thể sử dụng nó ngay lập tức. Dù bằng cách nào thì cũng là cùng một số tiền, phải không? Ý cháu là, cháu sẽ muốn một cái tốt, với nhiều không gian bên trong, đủ tốt để cháu không phải mua một cái tốt hơn sau này..." Harry dừng lại đầy hy vọng.</p>
+<p>Ánh nhìn của Giáo sư McGonagall không chớp. "Và cậu định giữ cái gì trong một cái rương như thế, Potter—"</p>
+<p>"Sách."</p>
+<p>"Đương nhiên rồi," Giáo sư McGonagall thở dài.</p>
+<p>"Lẽ ra bà nên nói với cháu sớm hơn nhiều rằng loại vật phẩm ma thuật đó tồn tại! Và rằng cháu có thể mua nó! Bây giờ bố cháu và cháu sẽ phải dành hai ngày tới để vội vã ghé qua tất cả các hiệu sách cũ tìm sách giáo khoa cũ, để cháu có thể có một thư viện khoa học tử tế ở Hogwarts — và có thể là một bộ sưu tập khoa học viễn tưởng nhỏ, nếu cháu có thể tập hợp được thứ gì đó tử tế từ những thùng sách giảm giá. Hoặc tốt hơn, cháu sẽ làm thỏa thuận ngọt ngào hơn một chút cho bà, được chứ? Chỉ cần để cháu mua—"</p>
+<p>"Potter! Cậu nghĩ cậu có thể hối lộ tôi?"</p>
+<p>"Cái gì? Không! Không phải như thế! Cháu nói là, Hogwarts có thể giữ một số sách cháu mang theo, nếu bà nghĩ rằng bất kỳ cuốn nào trong số đó sẽ là những bổ sung tốt cho thư viện. Cháu sẽ mua chúng với giá rẻ, và cháu chỉ muốn có chúng ở đâu đó quanh đây. Việc hối lộ mọi người bằng sách là ổn, phải không? Đó là một—"</p>
+<p>"Truyền thống gia đình."</p>
+<p>"Vâng, chính xác."</p>
+<p>Cơ thể Giáo sư McGonagall dường như xẹp xuống, đôi vai hạ thấp trong bộ áo choàng đen của bà. "Tôi không thể phủ nhận sự hợp lý trong lời nói của cậu, dù tôi rất ước mình có thể. Tôi sẽ cho phép cậu rút thêm một trăm Galleon, Potter." Bà lại thở dài. "Tôi biết mình sẽ hối hận về điều này, và dù vậy tôi vẫn làm."</p>
+<p>"Đúng là tinh thần đó! Và một '<strong>túi da chuột chũi</strong>' có làm được điều cháu nghĩ không?"</p>
+<p>"Nó không thể chứa nhiều như một cái rương," bà phù thủy nói với vẻ miễn cưỡng lộ rõ, "nhưng... một túi da chuột chũi có <strong>Bùa Triệu Hồi</strong> và <strong>Bùa Mở rộng Không thể Phát hiện</strong> có thể chứa một số vật phẩm cho đến khi chúng được người đặt chúng vào đó gọi ra—"</p>
+<p>"Vâng! Cháu chắc chắn cũng cần một cái đó! Nó sẽ giống như chiếc ba lô siêu đỉnh của sự tuyệt vời tột bậc! Chiếc thắt lưng tiện ích Batman để chứa đồ! Đừng bận tâm đến dao đa năng Thụy Sĩ của cháu, cháu có thể mang cả một bộ dụng cụ trong đó! Hoặc sách! Cháu có thể luôn mang theo ba cuốn sách hàng đầu mình đang đọc trên người, và chỉ cần lôi một cuốn ra ở bất cứ đâu! Cháu sẽ không bao giờ phải lãng phí thêm một phút nào trong đời nữa! Bà nghĩ sao, Giáo sư McGonagall? Đó là vì lợi ích của việc đọc sách của trẻ em, mục đích tốt nhất trong tất cả các mục đích có thể."</p>
+<p>"...Tôi cho rằng cậu có thể thêm mười Galleon nữa."</p>
+<p>Griphook đang dành cho Harry một ánh nhìn thể hiện sự tôn trọng thẳng thắn, thậm chí có thể là sự ngưỡng mộ hoàn toàn.</p>
+<p>"Và một ít tiền tiêu vặt, như bà đã đề cập trước đó. Cháu nghĩ mình có thể nhớ đã thấy một hoặc hai thứ khác cháu có thể muốn cất trong chiếc túi đó."</p>
+<p>"Đừng có lấn tới, Potter."</p>
+<p>"Nhưng ôi, Giáo sư McGonagall, tại sao lại làm giảm hứng thú của cháu chứ? Chắc chắn đây là một ngày hạnh phúc, khi cháu lần đầu tiên khám phá mọi thứ về phù thủy! Tại sao lại đóng vai một người lớn cáu kỉnh khi thay vào đó bà có thể mỉm cười và nhớ lại tuổi thơ ngây thơ của chính mình, ngắm nhìn vẻ thích thú trên khuôn mặt trẻ trung của cháu khi cháu mua một vài món đồ chơi bằng một phần không đáng kể trong khối tài sản mà cháu đã kiếm được bằng cách đánh bại phù thủy khủng khiếp nhất mà nước Anh từng biết, không phải cháu đang buộc tội bà là vô ơn hay gì đâu, nhưng dù sao, một vài món đồ chơi so với điều đó thì có là gì chứ?"</p>
+<p>"Cậu," Giáo sư McGonagall gầm gừ. Có một vẻ trên khuôn mặt bà đáng sợ và khủng khiếp đến nỗi Harry thét lên và lùi lại, làm đổ một chồng xu vàng với tiếng leng keng lớn và ngã ngửa ra sau vào một đống tiền. Griphook thở dài và đưa tay lên che mặt. "Tôi sẽ làm một việc có ích lớn cho nước Anh phù thủy, Potter, nếu tôi nhốt cậu trong hầm này và bỏ cậu lại đây."</p>
+<p>Và họ rời đi mà không gặp thêm rắc rối nào.</p>
+<hr />
+<h3 id="dien-giai-chi-tiet-cac-khai-niem">Diễn Giải Chi Tiết Các Khái Niệm</h3>
+<ol>
+<li>
+<p><strong>Giả Thuyết Thị Trường Hiệu Quả (Efficient Market Hypothesis - EMH):</strong> Một lý thuyết kinh tế học cho rằng giá cả tài sản trên thị trường tài chính (như cổ phiếu, tiền tệ) phản ánh đầy đủ tất cả thông tin có sẵn. Do đó, về mặt lý thuyết, không thể "đánh bại thị trường" một cách nhất quán để kiếm lợi nhuận phi thường thông qua phân tích hay đầu cơ, vì mọi cơ hội lợi nhuận đều đã bị loại bỏ ngay lập tức. Harry ám chỉ đến điều này khi nhận ra sự bất hợp lý lớn trong tỷ giá cố định giữa vàng và bạc của thế giới phù thủy, tạo ra cơ hội kinh doanh chênh lệch giá rõ ràng mà không ai khai thác, cho thấy thị trường ở đây "không hiệu quả" một cách phi thường.</p>
+</li>
+<li>
+<p><strong>Kinh Doanh Chênh Lệch Giá (Arbitrage):</strong> Là hành vi mua một tài sản ở thị trường có giá thấp và đồng thời bán nó ở thị trường có giá cao để kiếm lời từ chênh lệch giá mà không chịu rủi ro. Harry phát hiện ra rằng do tỷ giá vàng-bạc cố định (1 Galleon = 17 Sickle) và khác biệt lớn so với tỷ giá thị trường Muggle (~1:50), cậu có thể lặp đi lặp lại việc mang bạc từ thế giới Muggle đổi lấy vàng ở thế giới phù thủy để kiếm lời vô hạn, một dạng kinh doanh chênh lệch giá hoàn hảo.</p>
+</li>
+<li>
+<p><strong>Thuế Đúc Tiền (Seigniorage):</strong> Là khoản chênh lệch giữa giá trị danh nghĩa của đồng tiền và chi phí sản xuất ra nó (nguyên liệu, đúc, phát hành). Thông thường, đây là lợi nhuận của cơ quan phát hành tiền tệ (như ngân hàng trung ương). Harry hỏi liệu Gringotts có phải là tổ chức độc quyền đúc tiền và thu loại lợi nhuận này hay không.</p>
+</li>
+<li>
+<p><strong>Phép Tính Fermi (Fermi Calculation/Estimate):</strong> Là phương pháp ước tính nhanh, bậc độ lớn của một đại lượng dựa trên những giả định hợp lý và các con số xấp xỉ, thay vì tính toán chính xác. Nó được đặt tên theo nhà vật lý Enrico Fermi, người nổi tiếng với khả năng đưa ra ước tính tốt với rất ít thông tin. Harry sử dụng phương pháp này để nhanh chóng ước tính tổng tài sản của mình trong hầm vàng dựa trên kích thước và trọng lượng ước lượng của các đống tiền.</p>
+</li>
+<li>
+<p><strong>Túi Da Chuột Chũi (Mokeskin Pouch):</strong> Một vật phẩm ma thuật trong vũ trụ Harry Potter. Chiếc túi này, khi được gắn các loại bùa phép phù hợp, có không gian bên trong được mở rộng đáng kể (Bùa Mở rộng Không thể Phát hiện) và chỉ cho phép chủ nhân của nó rút đồ ra (thông qua Bùa Triệu Hồi hoặc một cơ chế tương tự), giúp bảo mật và tiện lợi cao.</p>
+</li>
+</ol>
+<hr />
+<h3 id="tom-tat-noi-dung-chinh-chuong-4">Tóm Tắt Nội Dung Chính Chương 4</h3>
+<p>Chương này xoay quanh chuyến thăm Ngân hàng Gringotts của Harry và Giáo sư McGonagall. Harry ngay lập tức phân tích hệ thống tài chính phù thủy bằng tư duy khoa học và kinh tế. Cậu phát hiện ra sự phi lý lớn: tỷ giá cố định giữa tiền vàng (Galleon) và tiền bạc (Sickle) của thế giới phù thủy tạo ra cơ hội <strong>kinh doanh chênh lệch giá</strong> hoàn hảo so với thị trường Muggle, cho thấy sự non kém và tách biệt của nền kinh tế phù thủy. Sau đó, cậu thực hiện một <strong>phép tính Fermi</strong> để ước tính tổng tài sản thừa kế của mình (khoảng 2 triệu bảng Anh). Cuối cùng, bằng lập luận logic, sự khẩn khoản và một chút thao tác tâm lý, Harry thuyết phục được Giáo sư McGonagall cho phép cậu rút thêm tiền để mua những vật phẩm ma thuật hữu ích như rương mở rộng không gian và túi da chuột chũi, phục vụ cho kế hoạch mang một thư viện khoa học đến Hogwarts của cậu. Chương kết thúc với việc Harry bị McGonagall "dọa" vì sự láu cá quá mức của mình.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "\u0110\u00e3 sao ch\u00e9p", "clipboard.copy": "Sao ch\u00e9p v\u00e0o b\u1ed9 nh\u1edb t\u1ea1m", "search.result.more.one": "1 t\u1eeb kh\u00e1c trong trang", "search.result.more.other": "# t\u1eeb kh\u00e1c trong trang", "search.result.none": "Kh\u00f4ng t\u00ecm th\u1ea5y t\u00e0i li\u1ec7u li\u00ean quan", "search.result.one": "1 t\u00e0i li\u1ec7u li\u00ean quan", "search.result.other": "# t\u00e0i li\u1ec7u li\u00ean quan", "search.result.placeholder": "Nh\u1eadp \u0111\u1ec3 b\u1eaft \u0111\u1ea7u t\u00ecm ki\u1ebfm", "search.result.term.missing": "Kh\u00f4ng", "select.version": "Ch\u1ecdn phi\u00ean b\u1ea3n"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

@@ -1,0 +1,748 @@
+
+<!doctype html>
+<html lang="vi" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../chapter001/">
+      
+      
+        <link rel="next" href="../chapter003/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>Chương 2 - hpmor_viet</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#include-stddisclaimerh" class="md-skip">
+          Bỏ qua
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Đầu trang">
+    <a href=".." title="hpmor_viet" class="md-header__button md-logo" aria-label="hpmor_viet" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            hpmor_viet
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Chương 2
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Tìm kiếm" placeholder="Tìm kiếm" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Tìm kiếm">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Xoá" aria-label="Xoá" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Thanh điều hướng" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="hpmor_viet" class="md-nav__button md-logo" aria-label="hpmor_viet" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    hpmor_viet
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Giới thiệu
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter001/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 2
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 2
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Mục lục">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Mục lục
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#giai-thich-thuat-ngu-khai-niem" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📚 Giải thích thuật ngữ &amp; khái niệm
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tom-tat-chuong" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✨ Tóm tắt chương
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter003/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter004/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter005/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 5
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter006/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 6
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter007/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 7
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter008/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 8
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter009/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 9
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter010/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chương 10
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Mục lục">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Mục lục
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#giai-thich-thuat-ngu-khai-niem" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        📚 Giải thích thuật ngữ &amp; khái niệm
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tom-tat-chuong" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✨ Tóm tắt chương
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<p><strong>CHƯƠNG 2 - MỌI ĐIỀU TÔI TIN ĐỀU LÀ SAI LỆCH</strong></p>
+<h1 id="include-stddisclaimerh">include "stddisclaimer.h"</h1>
+<hr />
+<p>"Tất nhiên là lỗi của con. Ở đây không còn ai khác có thể chịu trách nhiệm cho bất cứ việc gì."</p>
+<hr />
+<p>"Giờ, để làm rõ," Harry nói, "nếu giáo sư thực sự làm cha bay lên, khi cha biết mình không bị buộc vào bất kỳ sợi dây nào, thì đó sẽ là bằng chứng đủ thuyết phục. Cha sẽ không quay ra nói rằng đó là trò ảo thuật. Như thế sẽ không công bằng. Nếu cha thực sự nghĩ vậy, cha nên nói ngay bây giờ, và chúng ta có thể nghĩ ra một thí nghiệm khác."</p>
+<p>Cha của Harry, Giáo sư Michael Verres-Evans, đảo mắt. "Được rồi, Harry."</p>
+<p>"Còn mẹ, theo giả thuyết của mẹ thì giáo sư phải làm được điều này, và nếu điều đó không xảy ra, mẹ sẽ thừa nhận mình sai. Không có chuyện phép thuật không hoạt động khi người ta nghi ngờ nó, hay đại loại thế."</p>
+<p>Hiệu phó Minerva McGonagall đang quan sát Harry với vẻ mặt hơi bối rối. Bà trông khá giống một phù thủy trong bộ áo choàng đen và chiếc mũ nhọn, nhưng khi nói, bà nghe trang trọng và mang giọng Scotland, hoàn toàn không hợp với vẻ ngoài ấy. Thoạt nhìn, bà trông như thể sẽ cười khành khạch rồi bỏ những đứa trẻ vào nồi, nhưng toàn bộ ấn tượng ấy tan biến ngay khi bà mở miệng. "Như vậy đã đủ chưa, Potter?" bà nói. "Tôi có nên tiếp tục và trình diễn không?"</p>
+<p>"Đủ ư? Có lẽ là chưa," Harry nói. "Nhưng ít nhất nó sẽ có ích. Hãy tiếp tục đi, thưa Hiệu phó."</p>
+<p>"Chỉ cần gọi là Giáo sư thôi," bà nói, và rồi, "<em>Wingardium Leviosa</em>."</p>
+<p>Harry nhìn cha mình.</p>
+<p>"Hử," Harry thốt lên.</p>
+<p>Cha cậu nhìn lại cậu. "Hử," người cha lặp lại.</p>
+<p>Rồi Giáo sư Verres-Evans nhìn lại Giáo sư McGonagall. "Được rồi, bà có thể đặt tôi xuống được rồi."</p>
+<p>Người cha được hạ xuống đất một cách cẩn thận.</p>
+<p>Harry dùng tay vuốt qua mái tóc của mình. Có lẽ chỉ là phần kỳ lạ trong con người cậu đã bị thuyết phục từ trước, nhưng... "Có vẻ hơi chống chếnh," Harry nói. "Người ta sẽ nghĩ phải có một sự kiện tinh thần nào đó kịch tính hơn liên quan đến việc cập nhật niềm tin sau một quan sát có xác suất cực kỳ nhỏ—" Harry dừng lại. Mẹ cậu, vị phù thủy, và cả cha cậu nữa đang lại nhìn cậu với ánh mắt ấy. "Ý con là, với việc phát hiện ra mọi điều con tin đều là sai."</p>
+<p>Nghiêm túc mà nói, lẽ ra nó phải kịch tính hơn. Bộ não của cậu lẽ ra phải xóa sạch toàn bộ kho giả thuyết hiện tại về vũ trụ, những thứ không hề cho phép điều này xảy ra. Nhưng thay vào đó, bộ não cậu dường như chỉ đang nói, <em>Được rồi, ta đã thấy Giáo sư Hogwarts vẫy đũa phép và khiến cha cậu bay lên, giờ thì sao?</em></p>
+<p>Người phụ nữ phù thủy đang mỉm cười nhân từ với họ, trông khá thích thú. "Cháu có muốn một màn trình diễn khác không, Potter?"</p>
+<p>"Không cần đâu," Harry nói. "Chúng ta đã thực hiện một thí nghiệm xác định rồi. Nhưng mà..." Harry do dự. Cậu không thể kìm được. Thực ra, trong hoàn cảnh này, cậu không nên kìm mình. Tò mò là điều đúng đắn và hợp lý. "Bà còn có thể làm gì khác?"</p>
+<p>Giáo sư McGonagall biến thành một con mèo.</p>
+<p>Harry vô thức lùi lại vội vã, lùi nhanh đến mức vấp phải một chồng sách lộn xộn và ngã phịch xuống đất với một tiếng "bụp" đau điếng. Tay cậu chống xuống nhưng không kịp đỡ đúng cách, và có một cơn đau nhói cảnh báo ở vai khi toàn bộ trọng lượng cơ thể đổ xuống mà không có điểm tựa.</p>
+<p>Ngay lập tức, con mèo vằn nhỏ biến hình trở lại thành người phụ nữ mặc áo choàng. "Tôi xin lỗi, Potter," vị phù thủy nói, nghe có vẻ chân thành, mặc dù khóe môi bà đang giật giật. "Lẽ ra tôi nên cảnh báo trước."</p>
+<p>Harry thở hổn hển. Giọng cậu nghẹn lại. "Bà không thể LÀM thế được!"</p>
+<p>"Chỉ là Phép Biến Hình thôi mà," Giáo sư McGonagall nói. "Chính xác hơn là phép biến hình Animagus."</p>
+<p>"Bà đã biến thành một con mèo! Một con mèo NHỎ! Bà đã vi phạm Định luật Bảo toàn Năng lượng! Đó không chỉ là một quy tắc tùy ý, nó được ngụ ý từ dạng của Hamiltonian lượng tử! Phủ nhận nó sẽ phá hủy tính đơn nhất và rồi ta sẽ có tín hiệu siêu ánh sáng! Và mèo thì PHỨC TẠP! Một bộ não con người không thể chỉ hình dung toàn bộ giải phẫu của một con mèo, và, và tất cả sinh hóa của mèo, còn hệ thần kinh thì sao? Làm sao bà có thể tiếp tục suy nghĩ bằng một bộ não cỡ con mèo?"</p>
+<p>Khóe môi Giáo sư McGonagall giật mạnh hơn. "Phép thuật."</p>
+<p>"Phép thuật là không đủ để làm điều đó! Bà phải là một vị thần!"</p>
+<p>Giáo sư McGonagall chớp mắt. "Đây là lần đầu tiên tôi được gọi như vậy."</p>
+<p>Tầm nhìn của Harry trở nên mờ đi, khi bộ não cậu bắt đầu hiểu được thứ vừa bị phá vỡ. Toàn bộ ý tưởng về một vũ trụ thống nhất với các định luật toán học đều đặn, đó là thứ vừa bị xả xuống cống; toàn bộ khái niệm vật lý. Ba nghìn năm giải thích những thứ to lớn phức tạp thành những mảnh nhỏ hơn, khám phá ra rằng âm nhạc của các hành tinh cũng là giai điệu của quả táo rơi, nhận ra rằng các định luật đích thực là hoàn toàn phổ quát và không có ngoại lệ ở bất cứ đâu và mang dạng thức toán học đơn giản chi phối những phần tử nhỏ nhất, chưa kể đến việc tâm trí chính là bộ não và bộ não được tạo từ tế bào thần kinh, một bộ não chính là con người —</p>
+<p>Và rồi một người phụ nữ biến thành mèo, thế là xong toàn bộ những điều đó.</p>
+<p>Một trăm câu hỏi giành giật sự ưu tiên trên môi Harry và người chiến thắng tuôn ra: "Và, và loại câu thần chú nào là <em>Wingardium Leviosa</em>? Ai nghĩ ra những từ ngữ cho các câu thần chú này, lũ trẻ mẫu giáo à?"</p>
+<p>"Đủ rồi, Potter," Giáo sư McGonagall nói giòn giã, mặc dù đôi mắt bà sáng lên vì sự thích thú bị kìm nén. "Nếu cháu muốn học về phép thuật, tôi đề nghị chúng ta hoàn tất thủ tục giấy tờ để cháu có thể đến Hogwarts."</p>
+<p>"Phải," Harry nói, hơi choáng váng. Cậu tập trung suy nghĩ. Hành trình của Lý Trí sẽ phải bắt đầu lại từ đầu, chỉ vậy thôi; họ vẫn còn phương pháp thực nghiệm và đó mới là điều quan trọng. "Vậy làm thế nào để cháu đến được Hogwarts?"</p>
+<p>Một tiếng cười nghẹn ngào thoát ra từ Giáo sư McGonagall, như thể bị nhổ ra khỏi bà bằng cái kẹp.</p>
+<p>"Đợi một chút, Harry," cha cậu nói. "Con có nhớ tại sao cho đến giờ con vẫn chưa đi học không? Tình trạng của con thì sao?"</p>
+<p>Giáo sư McGonagall quay nhanh sang đối mặt với Michael. "Tình trạng của cậu ấy? Đây là gì vậy?"</p>
+<p>"Con ngủ không bình thường," Harry nói. Cậu vô vọng vẫy tay. "Chu kỳ ngủ của con dài 26 tiếng, con luôn đi ngủ muộn hơn hai tiếng mỗi ngày. Con không thể ngủ sớm hơn thế, và rồi ngày hôm sau con lại ngủ muộn hơn hai tiếng so với hôm đó. 10 giờ tối, 12 giờ đêm, 2 giờ sáng, 4 giờ sáng, cho đến khi nó quay vòng hết một ngày. Ngay cả khi con cố thức dậy sớm, nó cũng không thay đổi gì và con sẽ như một đống hỗn độn cả ngày hôm đó. Đó là lý do tại sao cho đến giờ con vẫn chưa đi học ở một trường bình thường."</p>
+<p>"Một trong những lý do," mẹ cậu nói. Harry liếc mẹ một cái đầy giận dữ.</p>
+<p>McGonagall kéo dài tiếng "Hmmmmmm". "Tôi không nhớ đã từng nghe về tình trạng như vậy trước đây..." bà nói chậm rãi. "Tôi sẽ hỏi bà Pomfrey để xem bà ấy có biết cách chữa nào không." Rồi mặt bà sáng lên. "Không, tôi chắc chắn đây sẽ không thành vấn đề — tôi sẽ tìm ra giải pháp kịp thời. Giờ thì," và ánh mắt bà lại trở nên sắc bén, "những lý do khác là gì vậy?"</p>
+<p>Harry liếc cha mẹ mình. "Con là người phản đối việc cưỡng bách trẻ em vì lương tâm, với lý do con không nên phải chịu đựng vì sự thất bại của một hệ thống giáo dục đang tan rã trong việc cung cấp giáo viên hoặc tài liệu học tập với chất lượng tối thiểu chấp nhận được."</p>
+<p>Cả cha lẫn mẹ Harry đều cười phá lên khi nghe thấy thế, như thể họ nghĩ đó là một trò đùa lớn. "Ồ," cha Harry nói, mắt sáng lên, "có phải đó là lý do tại sao con cắn một giáo viên toán hồi năm thứ ba không."</p>
+<p>"Cô ấy không biết lô-ga-rít là gì mà!"</p>
+<p>"Tất nhiên," mẹ Harry đồng tình. "Cắn cô ấy là một phản ứng rất trưởng thành với điều đó."</p>
+<p>Cha Harry gật đầu. "Một chính sách được cân nhắc kỹ lưỡng để giải quyết vấn đề giáo viên không hiểu lô-ga-rít."</p>
+<p>"Con mới bảy tuổi! Mọi người định nhắc đến chuyện đó đến bao giờ?"</p>
+<p>"Mẹ biết," mẹ cậu nói một cách thông cảm, "con chỉ cắn một giáo viên toán và họ không bao giờ để con quên điều đó, phải không?"</p>
+<p>Harry quay sang Giáo sư McGonagall. "Đấy! Bà thấy cháu phải đối phó với những gì chưa?"</p>
+<p>"Xin thứ lỗi," Petunia nói, và chạy vụt qua cửa sau ra vườn, từ đó tiếng cười hét của bà nghe rất rõ.</p>
+<p>"Đây, à, này," Giáo sư McGonagall dường như đang gặp chút khó khăn khi nói vì lý do nào đó, "sẽ không có việc cắn giáo viên ở Hogwarts, điều đó đã rõ chưa, Potter?"</p>
+<p>Harry nhăn mặt với bà. "Được rồi, cháu sẽ không cắn ai trừ khi họ cắn cháu trước."</p>
+<p>Giáo sư Michael Verres-Evans cũng phải rời khỏi phòng một lát sau khi nghe thấy điều đó.</p>
+<p>"Chà," Giáo sư McGonagall thở dài, sau khi cha mẹ Harry đã lấy lại bình tĩnh và trở lại. "Chà. Tôi nghĩ, trong hoàn cảnh này, tôi nên tránh đưa cháu đi mua tài liệu học tập cho đến một hoặc hai ngày trước khi trường bắt đầu."</p>
+<p>"Sao cơ? Tại sao? Lũ trẻ khác đã biết phép thuật rồi, phải không? Cháu phải bắt đầu bắt kịp ngay lập tức!"</p>
+<p>"Hãy yên tâm, Potter," Giáo sư McGonagall đáp, "Hogwarts hoàn toàn có khả năng dạy những điều cơ bản. Và tôi nghi ngờ, Potter, rằng nếu tôi để cháu một mình trong hai tháng với sách giáo khoa, ngay cả khi không có đũa phép, tôi sẽ trở lại ngôi nhà này chỉ để thấy một cái hố to khói tím cuồn cuộn, một thành phố vắng người bao quanh và một trận dịch ngựa vằn rực lửa khủng bố những gì còn sót lại của nước Anh."</p>
+<p>Mẹ và cha của Harry gật đầu đồng thanh.</p>
+<p>"Mẹ! Cha!"</p>
+<hr />
+<h2 id="giai-thich-thuat-ngu-khai-niem">📚 Giải thích thuật ngữ &amp; khái niệm</h2>
+<ul>
+<li><strong>Định luật Bảo toàn Năng lượng</strong>: Một định luật vật lý cơ bản nói rằng năng lượng không tự sinh ra hoặc mất đi, nó chỉ chuyển từ dạng này sang dạng khác. Việc McGonagall biến từ một con người (khối lượng lớn, năng lượng lớn) thành một con mèo nhỏ (khối lượng nhỏ hơn) mà không giải thích được năng lượng thừa/thiếu đi đâu đã vi phạm trực tiếp định luật này trong hiểu biết khoa học của Harry.</li>
+<li><strong>Hamiltonian lượng tử &amp; Tính đơn nhất (Unitarity)</strong>: Trong cơ học lượng tử, Hamiltonian là một toán tử mô tả tổng năng lượng của hệ. Tính đơn nhất là một tính chất toán học bảo toàn xác suất (tổng xác suất của mọi kết quả luôn bằng 1). Harry lập luận rằng vi phạm bảo toàn năng lượng sẽ phá vỡ tính đơn nhất, dẫn đến những hệ quả phi lý về mặt vật lý lý thuyết như <strong>tín hiệu siêu ánh sáng (FTL signalling)</strong>, tức là khả năng truyền thông tin nhanh hơn ánh sáng, điều bị coi là bất khả thi trong vật lý hiện đại (thuyết tương đối).</li>
+<li><strong>Cập nhật niềm tin sau một quan sát có xác suất cực kỳ nhỏ</strong>: Đây là ngôn ngữ của <strong>lý thuyết xác suất Bayes</strong>. Harry mô tả việc chứng kiến phép thuật (một sự kiện mà trước đó cậu coi là gần như không thể xảy ra) nên dẫn đến một sự "cập nhật" lớn lao, đảo lộn toàn bộ "mô hình thế giới" (hệ thống niềm tin) của cậu. Cậu trông đợi một cảm giác sốc tư duy mãnh liệt hơn, nhưng bộ não lại phản ứng một cách đơn giản và thực dụng.</li>
+<li><strong>Animagus</strong>: Một thuật ngữ trong thế giới Harry Potter, chỉ một phù thủy có khả năng biến đổi thành một con vật cụ thể một cách có chủ ý. Sự biến hình này là hoàn hảo, bao gồm cả quần áo (biến thành lông/thú). Trong truyện gốc, đây là một phép thuật phức tạp và hiếm.</li>
+<li><strong>Phép Biến Hình (Transfiguration)</strong>: Một môn học tại Hogwarts, dạy cách thay đổi hình dạng và bản chất của đồ vật hoặc sinh vật.</li>
+</ul>
+<h2 id="tom-tat-chuong">✨ Tóm tắt chương</h2>
+<p>Chương này ghi lại khoảnh khắc Harry Potter chính thức đối mặt với thực tế về phép thuật. Sau một thí nghiệm đơn giản (phép <strong>Làm Bay Lên</strong>), Harry và cha cậu buộc phải chấp nhận sự tồn tại của phép thuật. Tuy nhiên, phản ứng của Harry không phải là sự kinh ngạc thuần túy mà là một <strong>cuộc khủng hoảng về nhận thức khoa học</strong>. Khi Giáo sư McGonagall biến thành mèo (phép <strong>Animagus</strong>), toàn bộ nền tảng vật lý và cách hiểu vũ trụ dựa trên các định luật toán học thống nhất của Harry bị sụp đổ hoàn toàn. Cậu lập tức chất vấn về các nguyên tắc khoa học cốt lõi như bảo toàn năng lượng và độ phức tạp của sinh học thần kinh.</p>
+<p>Chương cũng hé lộ tính cách của Harry: một <strong>đứa trẻ thiên tài với tư duy cực kỳ duy lý</strong>, có chu kỳ ngủ khác thường (26 giờ), và từng có thành tích "cắn giáo viên" do bất mãn với hệ thống giáo dục thông thường. Cuộc đối thoại giữa cậu và McGonagall pha trộn giữa sự nghiêm túc khoa học và sự hài hước mỉa mai, trong khi phản ứng của cha mẹ nuôi (Michael và Petunia) cho thấy họ đã quen với và thích thú trước cách suy nghĩ khác thường của con trai. Cuối cùng, McGonagall quyết định sẽ chỉ đưa Harry đi mua sắm đồ dùng học tập vào phút chót, vì lo ngại nếu để cậu tự nghiên cứu sách vở phép thuật quá lâu, cậu có thể gây ra thảm họa.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "\u0110\u00e3 sao ch\u00e9p", "clipboard.copy": "Sao ch\u00e9p v\u00e0o b\u1ed9 nh\u1edb t\u1ea1m", "search.result.more.one": "1 t\u1eeb kh\u00e1c trong trang", "search.result.more.other": "# t\u1eeb kh\u00e1c trong trang", "search.result.none": "Kh\u00f4ng t\u00ecm th\u1ea5y t\u00e0i li\u1ec7u li\u00ean quan", "search.result.one": "1 t\u00e0i li\u1ec7u li\u00ean quan", "search.result.other": "# t\u00e0i li\u1ec7u li\u00ean quan", "search.result.placeholder": "Nh\u1eadp \u0111\u1ec3 b\u1eaft \u0111\u1ea7u t\u00ecm ki\u1ebfm", "search.result.term.missing": "Kh\u00f4ng", "select.version": "Ch\u1ecdn phi\u00ean b\u1ea3n"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
